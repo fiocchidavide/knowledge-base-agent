@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "calibre": {
+      "command": "npx",
+      "args": ["-y", "calibre-mcp"],
+      "env": {
+        "CALIBRE_MCP_ENABLE_WRITE": "1"
+      }
+    }
+  }
+}

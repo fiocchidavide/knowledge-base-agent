@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": ["calibre"],
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w * http://localhost:8080*)",
+      "Bash(npm install)",
+      "Bash(npm ci)"
+    ]
+  }
+}
