@@ -1,0 +1,9 @@
+{
+  "name": "knowledge-base-agent",
+  "description": "Organize a personal knowledge base across Calibre (books) and Zotero (papers): classify and import PDFs/EPUBs into the right one with verified metadata, look things up in either library, and reorganize or move items on request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Davide Fiocchi",
+    "email": "davidefiocchi2@gmail.com"
+  }
+}

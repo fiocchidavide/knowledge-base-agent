@@ -1,5 +1,5 @@
 {
-  "enabledMcpjsonServers": ["calibre"],
+  "enabledMcpjsonServers": ["calibre", "zotero"],
   "permissions": {
     "allow": [
       "Bash(curl -s -o /dev/null -w * http://localhost:8080*)",

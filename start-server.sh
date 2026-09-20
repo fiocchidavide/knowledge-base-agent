@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Starts a standalone Calibre Content Server with local writes enabled —
-# what calibre-agent/calibre-mcp needs for the write path to work.
+# what knowledge-base-agent/calibre-mcp needs for the write path to work.
 # The Calibre GUI must be closed first (it holds an exclusive library lock).
 set -euo pipefail
 

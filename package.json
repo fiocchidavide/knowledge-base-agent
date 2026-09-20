@@ -1,8 +1,8 @@
 {
-  "name": "calibre-agent",
+  "name": "knowledge-base-agent",
   "private": true,
   "version": "0.1.0",
-  "description": "Claude Code workflow for bulk-importing ebooks into Calibre with verified metadata, built on calibre-mcp.",
+  "description": "Claude Code workflow for organizing a personal knowledge base across Calibre (books) and Zotero (papers), built on calibre-mcp and zotero-mcp.",
   "type": "module",
   "dependencies": {
     "calibre-mcp": "^0.7.4"

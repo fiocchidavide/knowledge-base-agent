@@ -6,6 +6,13 @@
       "env": {
         "CALIBRE_MCP_ENABLE_WRITE": "1"
       }
+    },
+    "zotero": {
+      "command": "uvx",
+      "args": ["--from", "zotero-mcp-server", "zotero-mcp", "serve"],
+      "env": {
+        "ZOTERO_LOCAL": "true"
+      }
     }
   }
 }
