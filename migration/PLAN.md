@@ -29,7 +29,7 @@ Your four choices, recorded so a later session doesn't re-litigate them:
 - 83 attachments, **all stored copies** (`linkMode` 0/1) — no linked files
 - 13 collections, mixing two incompatible axes (topic: `Math`, `AI`, `Cryptography`; source: `Dispense/ETH/…`)
 - 14 distinct tags, **almost all auto-imported arXiv subject strings** ("Computer Science - Machine Learning") — no deliberate vocabulary
-- **No sync account configured.** Better BibTeX installed.
+- **No sync account configured. No Zotero extensions installed** — in particular **no Better BibTeX**. (`~/Zotero/better-bibtex/` exists but holds only a 2-byte leftover stub; `extensions.json` lists nothing.)
 
 ### Three problems the migration must actively fix
 
@@ -174,7 +174,7 @@ Field conventions, applied uniformly:
   calibre-id: 181
   migrated: 2026-09-21
   ```
-  `book` has no DOI field in Zotero, so `DOI:` in Extra is the standard place — Better BibTeX and CSL both read it. **`calibre-id:` is the durable join key** (see §3).
+  `book` has no DOI field in Zotero, so `DOI:` in Extra is the standard place — Zotero's citation processor reads it from there. **`calibre-id:` is the durable join key** (see §3).
   Provenance prose from `comments` that isn't an edition goes here too, as a plain line.
 
 ---
@@ -427,14 +427,22 @@ After I have read the pages, each field resolves as:
 
 An empty field is honest; a guessed one poisons a bibliography.
 
-#### Known pitfall: pinned citation keys
+#### Known pitfall: junk citation keys from CSL JSON
 
-Creating items from CSL JSON makes Better BibTeX **pin the CSL `id` as the citation key** —
-either as a `Citation Key:` line in Extra or in Zotero's native `citationKey` field,
-depending on the path. Left alone, every migrated book ends up with a junk key like `b117`.
-After each wave: strip the Extra line with `zotero_batch_update(remove_keys=["Citation Key"])`
-and clear the native field with `zotero_update_item(fields={"citation_key": ""})`, so BBT
-generates a proper key from the metadata.
+Creating items from CSL JSON writes the CSL `id` into the citation-key slot — as a
+`Citation Key:` line in Extra on some paths, and into Zotero's `citationKey` field on
+others. Left alone, every migrated book carries a meaningless key like `b117` or `dm24`.
+
+After each wave, clear both:
+`zotero_batch_update(remove_keys=["Citation Key"])` and
+`zotero_update_item(fields={"citation_key": ""})`.
+
+**Nothing regenerates them.** There is no Better BibTeX in this library, so an empty
+citation key simply stays empty — which is the correct resting state. Zotero's own
+citation styles do not need one; it matters only for LaTeX/BibTeX export. If you ever
+want stable `\cite` keys, installing Better BibTeX is the step that provides them, and it
+would generate keys for the whole library at once — so there is no reason to hand-author
+keys during this migration.
 
 #### What this costs
 
@@ -543,7 +551,10 @@ You chose to approve every book. To make 115 approvals tolerable, they're batche
 Nothing is written before your word on that specific book. Deferred books get `deferred` in the ledger and are re-offered at the end. 12 waves, and **any wave boundary is a clean stopping point**.
 
 ### Phase 4 — Reconcile (one session)
-Count check (115 vs. ledger vs. tag) · every item has exactly one PDF child with matching size · no item left with an empty title or zero creators · `zotero_update_search_database` so full-text and semantic search index the new PDFs · Better BibTeX citation keys generated and free of collisions.
+Count check (115 vs. ledger vs. tag) · every item has exactly one PDF child, MD5-matched
+against the Calibre original · no item left with an empty title or zero creators ·
+no leftover junk citation keys · `zotero_update_search_database` so full-text and semantic
+search index the new PDFs.
 
 ### Phase 5 — Settle in (yours, unscheduled)
 Create the 11 saved searches by hand (§1.3) · live in Zotero for a few weeks · then decide Calibre's fate. When you do: archive `~/Calibre Library` to a dated zip first, verify the 115 PDFs are all in `~/Zotero/storage`, *then* delete.

@@ -280,6 +280,10 @@ re-runnable at zero API cost.
    title/abstract, ask when it would need a new vocabulary term.
 5. **Reimplement `calibre_extract_isbn`** as a local helper script (`mutool` + checksum
    validation) — §4 step 1 depends on it and there is no Zotero-side equivalent.
-6. **Better BibTeX.** Citation keys auto-pin on creation; BBT 9.x offers no programmatic
-   refresh. If a key is malformed, the only fix is writing `citation_key` directly via
-   `zotero_update_item`. Decide whether the skill checks keys at all.
+6. **Citation keys.** This library has **no Better BibTeX** (no extensions installed at
+   all), so nothing generates keys. Creating items from CSL JSON nonetheless writes the
+   CSL `id` into the citation-key slot — as a `Citation Key:` line in Extra, or into
+   Zotero's `citationKey` field. The skill must clear both after creating items
+   (`remove_keys=["Citation Key"]`, `fields={"citation_key": ""}`), or every import
+   carries a junk key. Empty is the correct resting state; only LaTeX export needs real
+   keys, and that is BBT's job if it is ever installed.
