@@ -1,7 +1,7 @@
 # Calibre → Zotero migration plan
 
 **Decision:** Zotero becomes the single library. Calibre is retired.
-**Drafted:** 2026-09-21 · **Status:** approved structure, not yet executed.
+**Drafted:** 2026-09-21 · **Status: COMPLETE** — all 115 books migrated and verified 2026-09-21. See `report.md`.
 
 Your four choices, recorded so a later session doesn't re-litigate them:
 
@@ -27,6 +27,7 @@ Your four choices, recorded so a later session doesn't re-litigate them:
 **Zotero** — `~/Zotero`, 383 MB, 52 items
 - 19 journalArticle · 9 preprint · 2 conferencePaper · 2 webpage · 1 document · 1 book
 - 83 attachments, **all stored copies** (`linkMode` 0/1) — no linked files
+- 37 regular items (an earlier count of 34 was a WAL-snapshot artifact; see `report.md`)
 - 13 collections, mixing two incompatible axes (topic: `Math`, `AI`, `Cryptography`; source: `Dispense/ETH/…`)
 - 14 distinct tags, **almost all auto-imported arXiv subject strings** ("Computer Science - Machine Learning") — no deliberate vocabulary
 - **No sync account configured. No Zotero extensions installed** — in particular **no Better BibTeX**. (`~/Zotero/better-bibtex/` exists but holds only a 2-byte leftover stub; `extensions.json` lists nothing.)

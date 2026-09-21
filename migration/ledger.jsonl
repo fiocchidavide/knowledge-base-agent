@@ -308,3 +308,41 @@
 {"event": "verified", "calibre_id": 223, "zotero_key": "L8DPL84N", "attachment_key": "9633GEGK", "md5": "808851d940f737ee723211581c622b39", "bytes": 9621983, "tags": 3, "status": "done", "ts": "2026-09-21T09:45:43Z"}
 {"event": "verified", "calibre_id": 224, "zotero_key": "QYENNA3E", "attachment_key": "5ZVYG3N7", "md5": "e20a5eb73d4bb83d1332440ef05285c7", "bytes": 735130, "tags": 3, "status": "done", "ts": "2026-09-21T09:45:43Z"}
 {"ts": "2026-09-21T09:45:43Z", "event": "wave_complete", "wave": 8, "done": 14}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":225,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":226,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":227,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":228,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":229,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":230,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":231,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":232,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":233,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":234,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":235,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":236,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":237,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":238,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":239,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":245,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":246,"wave":9}
+{"ts":"2026-09-21T09:51:15Z","event":"intent","calibre_id":247,"wave":9}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 236, "zotero_key": "UJZPEV5F"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 226, "zotero_key": "7AM5MPFH"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 227, "zotero_key": "U9GVQM8Q"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 228, "zotero_key": "83AV4XPC"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 229, "zotero_key": "HHIJBCBA"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 230, "zotero_key": "QUUK3RZK"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 231, "zotero_key": "ZTSAB2AB"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 232, "zotero_key": "X3XGRXP5"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 233, "zotero_key": "XA7XQQ7A"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 234, "zotero_key": "VN5YPHMT"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 235, "zotero_key": "YEBIPLUJ"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 237, "zotero_key": "CPIXI4PQ"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 238, "zotero_key": "7EPCYJKS"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 239, "zotero_key": "C84EX8W5"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 245, "zotero_key": "2NXSB2WU"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 246, "zotero_key": "C544Z8GQ"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 247, "zotero_key": "HU7A3MAE"}
+{"ts": "2026-09-21T09:51:40Z", "event": "created", "calibre_id": 225, "zotero_key": "UJZPEV5F"}
+{"ts": "2026-09-21T09:53:31Z", "event": "wave_complete", "wave": 9, "done": 18}
+{"ts": "2026-09-21T09:53:31Z", "event": "reconciliation", "calibre_books": 115, "migrated": 115, "missing": [], "md5_mismatches": [], "items_total": 162, "no_creator": 4, "no_title": 0, "junk_citation_keys": 3, "tagged_migration": 125, "needs_review": 13}
