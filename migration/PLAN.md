@@ -149,6 +149,10 @@ Everything else is `Ctrl/Cmd-F` in the tag selector, which is what the purist mo
 
 ### 1.4 Item types and field conventions
 
+⚠ **Not every type carries every field.** `document` has **no `numPages` and no `edition`** —
+for versioned self-published notes, record `Version:` and `Pages:` as Extra lines instead.
+`manuscript` has `numPages` but no `publisher`; only `book` has the full set.
+
 | Situation | Zotero item type |
 |---|---|
 | Published book with ISBN | `book` |
