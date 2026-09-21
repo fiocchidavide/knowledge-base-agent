@@ -27,7 +27,8 @@ def is_sentence_case(t):
 # D5: k10plus puts platform names in the series field
 SERIES_JUNK={"springerlink","springer ebook collection","springer ebooks","ebook collection",
              "elibrary","oreilly","safari books online","wiley online library","sciencedirect",
-             "acm digital library","ieee xplore","taylor & francis ebooks"}
+             "acm digital library","ieee xplore","taylor & francis ebooks",
+             "always learning","pearson","springer eBook Collection".lower()}
 def clean_series(s):
     if not s: return None
     s=unescape(s).strip(" /:,;.")
