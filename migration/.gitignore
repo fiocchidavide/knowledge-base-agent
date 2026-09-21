@@ -1,0 +1,6 @@
+.env
+cache/
+*.raw
+dossiers.json
+sweep.json
+backup/
