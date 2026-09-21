@@ -1,0 +1,42 @@
+{
+ "calibre_id": 228,
+ "path": "/Users/davide/Calibre Library/Miguel A. Hernan/Causal Inference_ What If (228)/Causal Inference_ What If - Miguel A. Hernan.pdf",
+ "isbn": null,
+ "title": "Causal Inference: What If",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "Miguel A",
+   "Hern\u00e1n"
+  ],
+  [
+   "James M",
+   "Robins"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2025",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "Chapman & Hall/CRC",
+ "pages": 365,
+ "abstract_available": false,
+ "calibre_comment": "Freely available online at https://miguelhernan.org/whatifbook. Copyright 2020, 2025 Miguel Hern\u00e1n and James Robins. This edition dated November 21, 2025.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Causal Inference: What If",
+ "calibre_author_sort": "Hern\u00e1n, Miguel A. & Robins, James M.",
+ "calibre_tags": "causal inference,Statistics,epidemiology,biostatistics",
+ "file": "/Users/davide/Calibre Library/Miguel A. Hernan/Causal Inference_ What If (228)/Causal Inference_ What If - Miguel A. Hernan.pdf",
+ "frontmatter_text": "Causal Inference: What If\nMiguel A. Hern\u00b4an, James M. Robins\nNovember 21, 2025\n\f\nii\nCausal Inference\nCopyright 2020, 2025 Miguel Hern\u00b4an and James Robins\nAll rights reserved. No portion of this book can be reproduced for publi-\ncation without express permission from the copyright holders, except as permit-\nted by U.S. copyright law. For permissions, contact miguel hernan@post.harvard.edu\nCover design by Josh McKible\nLaTex design by Roger Logan\nSuggested citation: Hern\u00b4an MA, Robins JM (2020).\nCausal Inference:\nWhat If. Boca Raton: Chapman & Hall/CRC.\nThis book is available online at https://miguelhernan.org/whatifbook\nA print version (for purchase) is expected to become available soon.\n\f\nContents\nIntroduction: Towards less casual causal inferences\nvii\nI\nCausal inference without models\n1\n1\nA definition of causal effect\n3\n1.1 Individual causal effects . . . . . . . . . . . . . . . . . . . . . . .\n3\n1.2 Average causal effects . . . . . . . . . . . . . . . . . . . . . . . .\n4\n1.3 Measures of causal effect . . . . . . . . . . . . . . . . . . . . . . .\n7\n1.4 Random variability . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n1.5 Causation versus association\n. . . . . . . . . . . . . . . . . . . .\n9\n2\nRandomized experiments\n13\n2.1 Randomization . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n13\n2.2 Conditional randomization\n. . . . . . . . . . . . . . . . . . . . .\n17\n2.3 Standardization . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n19\n2.4 Inverse probability weighting . . . . . . . . . . . . . . . . . . . .\n20\n3\nObservational studies\n27\n3.1 Identifiability conditions . . . . . . . . . . . . . . . . . . . . . . .\n27\n3.2 Exchangeability . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n29\n3.3 Positivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n32\n3.4 Consistency: First, define the counterfactual outcome\n. . . . . .\n33\n3.5 Consistency: Second, link counterfactuals to the observed data .\n38\n3.6 The target trial . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n40\n4\nEffect modification\n47\n4.1 Heterogeneity of treatment effects\n. . . . . . . . . . . . . . . . .\n47\n4.2 Stratification to identify effect modification . . ",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

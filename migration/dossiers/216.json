@@ -1,0 +1,36 @@
+{
+ "calibre_id": 216,
+ "path": "/Users/davide/Calibre Library/Jacob Eisenstein/Introduction to Natural Language Processing (216)/Introduction to Natural Language Processin - Jacob Eisenstein.pdf",
+ "isbn": "9780262042840",
+ "title": "Introduction to Natural Language Processing",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Jacob",
+   "Eisenstein"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2019",
+ "year_src": "gb",
+ "edition": null,
+ "edition_src": null,
+ "series": "Adaptive computation and machine learning series",
+ "place": "Cambridge, Massachusetts",
+ "publisher": "MIT Press",
+ "pages": 591,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Introduction to Natural Language Processing",
+ "calibre_author_sort": "Eisenstein, Jacob",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Jacob Eisenstein/Introduction to Natural Language Processing (216)/Introduction to Natural Language Processin - Jacob Eisenstein.pdf",
+ "frontmatter_text": "Natural Language Processing\nJacob Eisenstein\nOctober 15, 2018\n \n ISBN: 9780262042840 \n\f\nContents\nContents\n1\nPreface\ni\nBackground\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ni\nHow to use this book . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nii\n1\nIntroduction\n1\n1.1\nNatural language processing and its neighbors . . . . . . . . . . . . . . . . .\n1\n1.2\nThree themes in natural language processing . . . . . . . . . . . . . . . . . .\n6\n1.2.1\nLearning and knowledge\n. . . . . . . . . . . . . . . . . . . . . . . . .\n6\n1.2.2\nSearch and learning\n. . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n1.2.3\nRelational, compositional, and distributional perspectives . . . . . .\n9\nI\nLearning\n11\n2\nLinear text classification\n13\n2.1\nThe bag of words . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n13\n2.2\nNa\u00a8\u0131ve Bayes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n17\n2.2.1\nTypes and tokens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n19\n2.2.2\nPrediction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n20\n2.2.3\nEstimation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n21\n2.2.4\nSmoothing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n22\n2.2.5\nSetting hyperparameters . . . . . . . . . . . . . . . . . . . . . . . . . .\n23\n2.3\nDiscriminative learning\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n24\n2.3.1\nPerceptron . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n25\n2.3.2\nAveraged perceptron . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n27\n2.4\nLoss functions and large-margin classification\n. . . . . . . . . . . . . . . . .\n27\n2.4.1\nOnline large margin classification\n. . . . . . . . . . . . . . . . . . . .\n30\n2.4.2\n*Derivation of the online support vector machine\n. . . . . . . . . . .\n32\n2.5\nLogistic regression\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n35\n1\n\f\n2\nCONTENTS\n2.5.1\nRegularization\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n36\n2.5.2\nGradients\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n37\n2.6\nOptimiz",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

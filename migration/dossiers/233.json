@@ -1,0 +1,45 @@
+{
+ "calibre_id": 233,
+ "path": "/Users/davide/Calibre Library/John E. Hopcroft/Introduction to Automata Theory, Languages, and Computation (233)/Introduction to Automata Theory, Languages - John E. Hopcroft.pdf",
+ "isbn": "9780321455369",
+ "title": "Introduction to Automata Theory, Languages, and Computation",
+ "title_src": "gb",
+ "creators": [
+  [
+   "John E",
+   "Hopcroft"
+  ],
+  [
+   "Rajeev",
+   "Motwani"
+  ],
+  [
+   "Jeffrey D",
+   "Ullman"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2007",
+ "year_src": "gb",
+ "edition": 3,
+ "edition_src": "k10plus",
+ "series": null,
+ "place": "Bosten",
+ "publisher": "Pearson",
+ "pages": 551,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "Introduction to Automata Theory, Languages, and Computation",
+ "calibre_author_sort": "Hopcroft, John E. & Motwani, Rajeev & Ullman, Jeffrey D.",
+ "calibre_tags": "Computer Science,Automata Theory,Formal Languages,Computational Complexity",
+ "file": "/Users/davide/Calibre Library/John E. Hopcroft/Introduction to Automata Theory, Languages, and Computation (233)/Introduction to Automata Theory, Languages - John E. Hopcroft.pdf",
+ "frontmatter_text": "I N T R O D U C T I O N T O\nAutomata Theory,\nLanguages, and\nComputation\n3rd Edition\n\f\nI N T R O D U C T I O N T O\nAutomata Theory,\nLanguages, and\nComputation\nJ O H N E . H O P C R O F T\nCornell University\nR A J E E V M O T WA N I\nStanford University\nJ E F F R E Y D . U L L M A N\nStanford University\n3rd Edition\n\f\nPublisher\nGreg Tobin\nExecutive Editor\nMichael Hirsch\nAcquisitions Editor\nMatt Goldstein\nProject Editor\nKatherine Harutunian\nAssociate Managing Editor\nJeffrey Holcomb\nCover Designer\nJoyce Cosentino Wells\nDigital Assets Manager\nMarianne Groth\nMedia Producer\nBethany Tidd\nMarketing Manager\nMichelle Brown\nMarketing Assistant\nDana Lopreato\nSenior Author Support/\nTechnology Specialist\nJoe Vetere\nSenior Manufacturing Buyer\nCarol Melville\nMedia Manufacturing Buyer\nGinny Michaud\nMany of the exercises that appear in this text use the stems of questions from \nGradiance Corporation, which retains the copyright to all such questions. \n\u00a9 Gradiance Corp., 2004\u20132006\nMany of the designations used by manufacturers and sellers to distinguish their \nproducts are claimed as trademarks. Where those designations appear in this book, \nand Addison-Wesley was aware of a trademark claim, the designations have been \nprinted in initial caps or all caps.\nLibrary of Congress Cataloging-in-Publication Data\nHopcroft, John E., 1939-\n Introduction to automata theory, languages, and computation / by John E. Hopcroft, \nRajeev Motwani, Jeffrey D. Ullman. -- 3rd ed.\n p. cm.\n Includes bibliographical references and index.\n ISBN 0-321-45536-3\n 1. Machine theory. 2. Formal languages. 3. Computational complexity. I. \nMotwani, Rajeev. II. Ullman, Jeffrey D., 1942- III. Title. \n QA267.H56 2006\n 511.3'5--dc22\n2006014263\nCopyright \u00a9 2007 Pearson Education, Inc. All rights reserved. No part of this \npublication may be reproduced, stored in a retrieval system, or transmitted, in any \nform or by any means, electronic, mechanical, photocopying, recording, or \notherwise, without the prior written permission of the publisher. Printed in the \nUnited States of America. For information on obtaining permission for use of \nmaterial in this work, please submit a written request to Pearson Education, Inc., \nRights",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance",
+  "page 1 aspect 0.69 differs from the body's 0.773"
+ ]
+}

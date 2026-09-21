@@ -1,0 +1,41 @@
+{
+ "calibre_id": 179,
+ "path": "/Users/davide/Calibre Library/Marc Peter Deisenroth/Mathematics for Machine Learning (179)/Mathematics for Machine Learning - Marc Peter Deisenroth.pdf",
+ "isbn": "9781108455145",
+ "title": "Mathematics for Machine Learning",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Marc Peter",
+   "Deisenroth"
+  ],
+  [
+   "A. Aldo",
+   "Faisal"
+  ],
+  [
+   "Cheng Soon",
+   "Ong"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2020",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": "Cambridge",
+ "publisher": "Cambridge University Press",
+ "pages": 417,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Mathematics for Machine Learning",
+ "calibre_author_sort": "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Marc Peter Deisenroth/Mathematics for Machine Learning (179)/Mathematics for Machine Learning - Marc Peter Deisenroth.pdf",
+ "frontmatter_text": "MATHEMATICS FOR \nMACHINE LEARNING\nMarc Peter Deisenroth\nA. Aldo Faisal\nCheng Soon Ong\n\f\n\f\nContents\nForeword\n1\nPart I\nMathematical Foundations\n9\n1\nIntroduction and Motivation\n11\n1.1\nFinding Words for Intuitions\n12\n1.2\nTwo Ways to Read This Book\n13\n1.3\nExercises and Feedback\n16\n2\nLinear Algebra\n17\n2.1\nSystems of Linear Equations\n19\n2.2\nMatrices\n22\n2.3\nSolving Systems of Linear Equations\n27\n2.4\nVector Spaces\n35\n2.5\nLinear Independence\n40\n2.6\nBasis and Rank\n44\n2.7\nLinear Mappings\n48\n2.8\nAffine Spaces\n61\n2.9\nFurther Reading\n63\nExercises\n64\n3\nAnalytic Geometry\n70\n3.1\nNorms\n71\n3.2\nInner Products\n72\n3.3\nLengths and Distances\n75\n3.4\nAngles and Orthogonality\n76\n3.5\nOrthonormal Basis\n78\n3.6\nOrthogonal Complement\n79\n3.7\nInner Product of Functions\n80\n3.8\nOrthogonal Projections\n81\n3.9\nRotations\n91\n3.10\nFurther Reading\n94\nExercises\n96\n4\nMatrix Decompositions\n98\n4.1\nDeterminant and Trace\n99\ni\nThis material is published by Cambridge University Press as Mathematics for Machine Learning by\nMarc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong (2020). This version is free to view\nand download for personal use only. Not for re-distribution, re-sale, or use in derivative works.\n\u00a9by M. P. Deisenroth, A. A. Faisal, and C. S. Ong, 2024. https://mml-book.com.\n\f\nii\nContents\n4.2\nEigenvalues and Eigenvectors\n105\n4.3\nCholesky Decomposition\n114\n4.4\nEigendecomposition and Diagonalization\n115\n4.5\nSingular Value Decomposition\n119\n4.6\nMatrix Approximation\n129\n4.7\nMatrix Phylogeny\n134\n4.8\nFurther Reading\n135\nExercises\n137\n5\nVector Calculus\n139\n5.1\nDifferentiation of Univariate Functions\n141\n5.2\nPartial Differentiation and Gradients\n146\n5.3\nGradients of Vector-Valued Functions\n149\n5.4\nGradients of Matrices\n155\n5.5\nUseful Identities for Computing Gradients\n158\n5.6\nBackpropagation and Automatic Differentiation\n159\n5.7\nHigher-Order Derivatives\n164\n5.8\nLinearization and Multivariate Taylor Series\n165\n5.9\nFurther Reading\n170\nExercises\n170\n6\nProbability and Distributions\n172\n6.1\nConstruction of a Probability Space\n172\n6.2\nDiscrete and Continuous Probabilities\n178\n6.3\nSum Rule, Product Rule, and Bayes\u2019 Theorem\n183\n6.4\nSummary Statistics and Independence\n186\n6.5\nGaussian Distribution\n197\n6.6\nConjugacy ",
+ "needs_visual": false,
+ "cover_warnings": []
+}

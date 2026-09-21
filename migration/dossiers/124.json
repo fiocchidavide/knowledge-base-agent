@@ -1,0 +1,40 @@
+{
+ "calibre_id": 124,
+ "path": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Structured Computer Organization (124)/Structured Computer Organization - Andrew S. Tanenbaum.pdf",
+ "isbn": "9780132916523",
+ "title": "Structured Computer Organization",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Andrew S",
+   "Tanenbaum"
+  ],
+  [
+   "Todd",
+   "Austin"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2013",
+ "year_src": "gb",
+ "edition": 6,
+ "edition_src": "calibre_comment",
+ "series": "Always learning",
+ "place": "Boston",
+ "publisher": "Pearson",
+ "pages": 801,
+ "abstract_available": true,
+ "calibre_comment": "Sixth Edition.",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Structured Computer Organization",
+ "calibre_author_sort": "Tanenbaum, Andrew S. & Austin, Todd",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Structured Computer Organization (124)/Structured Computer Organization - Andrew S. Tanenbaum.pdf",
+ "frontmatter_text": "STRUCTURED\nCOMPUTER ORGANIZATION\nSIXTH EDITION\n\f\nThis page intentionally left blank \n\f\nSTRUCTURED\nCOMPUTER ORGANIZATION\nSIXTH EDITION\nANDREW S. TANENBAUM\nVrije Universiteit\nAmsterdam, The Netherlands\nTODD AUSTIN\nUniversity of Michigan\nAnn Arbor, Michigan, United States\n\f\nEditorial Director, ECS: Marcia Horton\nExecutive Editor: Tracy Johnson (Dunkelberger)\nAssociate Editor: Carole Snyder \nDirector of Marketing: Christy Lesko\nMarketing Manager: Yez Alayan\nSenior Marketing Coordinator: Kathryn Ferranti\nDirector of Production: Erin Gregg\nManaging Editor: Jeff Holcomb\nAssociate Managing Editor: Robert Engelhardt \nManufacturing Buyer: Lisa McDowell\nArt Director: Anthony Gemmellaro\nCover Illustrator: Jason Consalvo\nManager, Rights and Permissions: Michael Joyce \nMedia Editor: Daniel Sandin\nMedia Project Manager: Renata Butera\nPrinter/Binder: Courier/Westford\nCover Printer: Lehigh-Phoenix Color/Hagerstown\nCredits and acknowledgments borrowed from other sources and reproduced, with permission, \nin this textbook appear in the Credits section in the end matter of this text.\nCopyright \u00a9 2013, 2006, 1999 Pearson Education, Inc., publishing as Prentice Hall. All rights \nreserved. Printed in the United States of America. This publication is protected by Copyright, \nand permission should be obtained from the publisher prior to any prohibited reproduction, \nstorage in a retrieval system, or transmission in any form or by any means, electronic, \nmechanical, photocopying, recording, or likewise. To obtain permission(s) to use material \nfrom this work, please submit a written request to Pearson Education, Inc., Permissions \nDepartment, One Lake Street, Upper Saddle River, New Jersey 07458, or you may fax your \nrequest to 201-236-3290.\nMany of the designations by manufacturers and sellers to distinguish their products are claimed \nas trademarks. Where those designations appear in this book, and the publisher was aware of a \ntrademark claim, the designations have been printed in initial caps or all caps.\nLibrary of Congress Cataloging-in-Publication Data\nTanenbaum, Andrew S.,\n Structured computer organization / Andrew S. Tanenbaum, Todd Austin. -- 6th ed.\n p. cm.\n Includes bibliograp",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

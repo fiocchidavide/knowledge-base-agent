@@ -1,0 +1,41 @@
+{
+ "calibre_id": 207,
+ "path": "/Users/davide/Calibre Library/James Rumbaugh/The Unified Modeling Language Reference Manual (207)/The Unified Modeling Language Reference Ma - James Rumbaugh.pdf",
+ "isbn": "9780321245625",
+ "title": "The Unified Modeling Language Reference Manual",
+ "title_src": "gb",
+ "creators": [
+  [
+   "James",
+   "Rumbaugh"
+  ],
+  [
+   "Ivar",
+   "Jacobson"
+  ],
+  [
+   "Grady",
+   "Booch"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2005",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": "The Addison-Wesley object technology series",
+ "place": "Boston",
+ "publisher": "Addison-Wesley",
+ "pages": 742,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition.",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "The Unified Modeling Language Reference Manual",
+ "calibre_author_sort": "rumbaugh",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/James Rumbaugh/The Unified Modeling Language Reference Manual (207)/The Unified Modeling Language Reference Ma - James Rumbaugh.pdf",
+ "frontmatter_text": "Advanced Praise for \nThe Unified Modeling Language \nReference Manual, Second Edition\n\u201cIf you are a serious user of UML, there is no other book quite like this one. I have\nbeen involved with the UML specification process for some time, but I still found\nmyself learning things while reading through this book\u2014especially on the changes\nand new capabilities that have come with UML 2.0. The intimate involvement of the\nauthor in the creation and continuing evolution of UML, and the encyclopedic\nscope of his book, make the work a unique contribution to the UML 2.0 literature,\nas the first edition was for UML 1.0.\u201d\n\u2014Ed Seidewitz, Chief Architect, InteliData Technologies Corporation\n\u201cIn addition to the documents of the OMG UML 2.0 Standard, this book is proba-\nbly the most important source for the Unified Modeling Language. It is a detailed\nreference, covering the mainstream ideas as well as the delicate niches of the lan-\nguage. The Dictionary of Terms offers precise, comprehensive and, perhaps most\nimportant, systematic information on all aspects of the UML2.0.\u201d\n\u2014Martin Gogolla, Professor for Computer Science, University of Bremen\n\u201cComprehensive and instructive, written by a person with the insights of not only\nthe technical matters, but also the processes that led to the UML language and its\nversion 2.0. This book should be a companion for every serious UML modeler.\u201d\n\u2014\u00d8ystein Haugen, Ericsson Representative in the OMG UML 2.0 Standardization,\nAssociate Professor, University of Oslo\n\u201cThis book provides an authoritative and user-oriented account of UML 2.0.\u201d\n\u2014Dr. Robert France, Department of Computer Science, Colorado State University.\n\u201cThis is so far the most comprehensive book on UML 2.0. It gives you what the\nspecification does not: real introductions to the various parts of UML, annotated\nexamples, discussions on how to use the new features, and an insight into how and\nwhy the new features entered UML 2.0. As one of the persons who was involved in\nthe making of UML 2.0, I can tell that the book is faithful to the specification and to\nthe ideas behind the new features. Read this book instead or as a complement to the\nspecification.\u201d\n\u2014Birger M\u00f8ller-Pedersen, Professor,",
+ "needs_visual": false,
+ "cover_warnings": []
+}

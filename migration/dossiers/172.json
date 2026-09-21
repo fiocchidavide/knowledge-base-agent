@@ -1,0 +1,35 @@
+{
+ "calibre_id": 172,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Lie Algebras, Algebraic Groups, and Lie Groups (172)/Lie Algebras, Algebraic Groups, and Lie Gr - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Lie Algebras, Algebraic Groups, and Lie Groups",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2013",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 186,
+ "abstract_available": false,
+ "calibre_comment": "Version 2.00 (2013). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Lie Algebras, Algebraic Groups, and Lie Groups",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Lie Algebras, Algebraic Groups, and Lie Groups (172)/Lie Algebras, Algebraic Groups, and Lie Gr - J.S. Milne.pdf",
+ "frontmatter_text": "Lie Algebras, Algebraic Groups,\nand\nLie Groups\nJ.S. Milne\nVersion 2.00\nMay 5, 2013\n\f\nThese notes are an introduction to Lie algebras, algebraic groups, and Lie groups in\ncharacteristic zero, emphasizing the relationships between these objects visible in their cat-\negories of representations. Eventually these notes will consist of three chapters, each about\n100 pages long, and a short appendix.\nBibTeX information:\n@misc{milneLAG,\nauthor={Milne, James S.},\ntitle={Lie Algebras, Algebraic Groups, and Lie Groups},\nyear={2013},\nnote={Available at www.jmilne.org/math/}\n}\nv1.00 March 11, 2012; 142 pages.\nV2.00 May 1, 2013; 186 pages.\nPlease send comments and corrections to me at the address on my website\nhttp://www.jmilne.org/math/.\nThe photo is of a grotto on The Peak That Flew Here, Hangzhou, Zhejiang, China.\nCopyright c\ufffd2012, 2013 J.S. Milne.\nSingle paper copies for noncommercial personal use may be made without explicit permis-\nsion from the copyright holder.\n\f\nTable of Contents\nTable of Contents\n3\nPreface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\nI\nLie Algebras\n11\n1\nDefinitions and basic properties . . . . . . . . . . . . . . . . . . . . . . . .\n11\n2\nNilpotent Lie algebras: Engel\u2019s theorem . . . . . . . . . . . . . . . . . . .\n26\n3\nSolvable Lie algebras: Lie\u2019s theorem . . . . . . . . . . . . . . . . . . . . .\n33\n4\nSemisimple Lie algebras\n. . . . . . . . . . . . . . . . . . . . . . . . . . .\n40\n5\nRepresentations of Lie algebras: Weyl\u2019s theorem\n. . . . . . . . . . . . . .\n46\n6\nReductive Lie algebras; Levi subalgebras; Ado\u2019s theorem . . . . . . . . . .\n56\n7\nRoot systems and their classification . . . . . . . . . . . . . . . . . . . . .\n66\n8\nSplit semisimple Lie algebras . . . . . . . . . . . . . . . . . . . . . . . . .\n77\n9\nRepresentations of split semisimple Lie algebras . . . . . . . . . . . . . . . 100\n10\nReal Lie algebras . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102\n11\nClassical Lie algebras . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103\nII\nAlgebraic Groups\n105\n1\nAlgebraic groups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106\n2\nRepresentations of algebraic groups; tensor",
+ "needs_visual": false,
+ "cover_warnings": []
+}

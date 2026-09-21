@@ -1,0 +1,3388 @@
+[
+ {
+  "calibre_id": 113,
+  "path": "/Users/davide/Calibre Library/Jeff Erickson/Algorithms (113)/Algorithms - Jeff Erickson.pdf",
+  "isbn": "9781792644832",
+  "title": "Algorithms",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jeff",
+    "Erickson"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2019",
+  "year_src": "gb",
+  "edition": 1,
+  "edition_src": "k10plus",
+  "series": null,
+  "place": null,
+  "publisher": "Independently published",
+  "pages": 472,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 114,
+  "path": "/Users/davide/Calibre Library/Thomas H. Cormen/Introduction to Algorithms (114)/Introduction to Algorithms - Thomas H. Cormen.pdf",
+  "isbn": "9780262367509",
+  "title": "Introduction to Algorithms",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Thomas H.",
+    "Cormen"
+   ],
+   [
+    "Charles E.",
+    "Leiserson"
+   ],
+   [
+    "Ronald L.",
+    "Rivest"
+   ],
+   [
+    "Clifford",
+    "Stein"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2022",
+  "year_src": "gb",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Cambridge, Massachusetts",
+  "publisher": "The MIT Press",
+  "pages": 1677,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition. LCCN 2021037260.",
+  "flags": [],
+  "n_sources": 2
+ },
+ {
+  "calibre_id": 115,
+  "path": "/Users/davide/Calibre Library/Mokhtar S. Bazaraa/Linear Programming and Network Flows (115)/Linear Programming and Network Flows - Mokhtar S. Bazaraa.pdf",
+  "isbn": "9780470462720",
+  "title": "Linear Programming and Network Flows",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Mokhtar S.",
+    "Bazaraa"
+   ],
+   [
+    "John J.",
+    "Jarvis"
+   ],
+   [
+    "Hanif D.",
+    "Sherali"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2010",
+  "year_src": "openlibrary",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Hoboken, N.J",
+  "publisher": "John Wiley & Sons",
+  "pages": 764,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 116,
+  "path": "/Users/davide/Calibre Library/Ravindra K. Ahuja/Network Flows_ Theory, Algorithms, and Applications (116)/Network Flows_ Theory, Algorithms, and App - Ravindra K. Ahuja.pdf",
+  "isbn": "9780136175490",
+  "title": "Network Flows: Theory, Algorithms, and Applications",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Ravindra K",
+    "Ahuja"
+   ],
+   [
+    "Thomas L",
+    "Magnanti"
+   ],
+   [
+    "James B",
+    "Orlin"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "1993",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Upper Saddle River, NJ",
+  "publisher": "Prentice Hall",
+  "pages": 863,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 117,
+  "path": "/Users/davide/Calibre Library/Pat Morin/Open Data Structures (in C__) (117)/Open Data Structures (in C__) - Pat Morin.pdf",
+  "isbn": "9781299794641",
+  "title": "Open Data Structures: An Introduction",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Pat",
+    "Morin"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2013",
+  "year_src": "openlibrary",
+  "edition": null,
+  "edition_src": null,
+  "series": "OPEL (Open paths to enriched learning) 2291-2614",
+  "place": "Edmonton",
+  "publisher": "Athabasca University Press",
+  "pages": 336,
+  "abstract_available": true,
+  "calibre_comment": "Edition 0.1G-beta (C++ edition).",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 118,
+  "path": "/Users/davide/Calibre Library/Stuart J. Russell/Artificial Intelligence_ A Modern Approach (118)/Artificial Intelligence_ A Modern Approach - Stuart J. Russell.pdf",
+  "isbn": "9780134610993",
+  "title": "Artificial Intelligence: A Modern Approach",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Stuart",
+    "Russell"
+   ],
+   [
+    "Peter",
+    "Norvig"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2021",
+  "year_src": "pdf",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": "Pearson Series in Artificial Intelligence",
+  "place": "Hoboken, NJ",
+  "publisher": "Pearson",
+  "pages": 1167,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition, Global Edition.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 119,
+  "path": "/Users/davide/Calibre Library/Stephen Boyd/Convex Optimization (119)/Convex Optimization - Stephen Boyd.pdf",
+  "isbn": "9780521833783",
+  "title": "Convex Optimization",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Stephen P",
+    "Boyd"
+   ],
+   [
+    "Lieven",
+    "Vandenberghe"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2004",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Cambridge",
+  "publisher": "Cambridge University Press",
+  "pages": 714,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 5
+ },
+ {
+  "calibre_id": 120,
+  "path": "/Users/davide/Calibre Library/Ian Goodfellow/Deep Learning (120)/Deep Learning - Ian Goodfellow.pdf",
+  "isbn": "9780262337434",
+  "title": "Deep Learning",
+  "title_src": "openlibrary",
+  "creators": [
+   [
+    "Ian",
+    "Goodfellow"
+   ],
+   [
+    "Yoshua",
+    "Bengio"
+   ],
+   [
+    "Aaron",
+    "Courville"
+   ]
+  ],
+  "authors_src": "openlibrary",
+  "year": "2016",
+  "year_src": "openlibrary",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "MIT Press",
+  "pages": 800,
+  "abstract_available": false,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 1
+ },
+ {
+  "calibre_id": 121,
+  "path": "/Users/davide/Calibre Library/Carl Edward Rasmussen/Gaussian Processes for Machine Learning (121)/Gaussian Processes for Machine Learning - Carl Edward Rasmussen.pdf",
+  "isbn": "9780262182539",
+  "title": "Gaussian Processes for Machine Learning",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Carl Edward",
+    "Rasmussen"
+   ],
+   [
+    "Christopher K. I",
+    "Williams"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2006",
+  "year_src": "openlibrary",
+  "edition": null,
+  "edition_src": null,
+  "series": "Adaptive computation and machine learning",
+  "place": "Cambridge, Mass.",
+  "publisher": "MIT Press",
+  "pages": 266,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 122,
+  "path": "/Users/davide/Calibre Library/Jay Alammar/Hands-On Large Language Models (122)/Hands-On Large Language Models - Jay Alammar.pdf",
+  "isbn": "9781098150969",
+  "title": "Hands-On Large Language Models: Language Understanding and Generation",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jay",
+    "Alammar"
+   ],
+   [
+    "Maarten",
+    "Grootendorst"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2024",
+  "year_src": "gb",
+  "edition": 1,
+  "edition_src": "loc",
+  "series": null,
+  "place": "Beijing",
+  "publisher": "O'Reilly",
+  "pages": 428,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 123,
+  "path": "/Users/davide/Calibre Library/Simon J.D. Prince/Understanding Deep Learning (123)/Understanding Deep Learning - Simon J.D. Prince.pdf",
+  "isbn": "9780262048644",
+  "title": "Understanding Deep Learning",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Simon J.D.",
+    "Prince"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2023",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Cambridge, Massachusetts",
+  "publisher": "The MIT Press",
+  "pages": 541,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [
+   "name-split"
+  ],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 124,
+  "path": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Structured Computer Organization (124)/Structured Computer Organization - Andrew S. Tanenbaum.pdf",
+  "isbn": "9780132916523",
+  "title": "Structured Computer Organization",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Andrew S",
+    "Tanenbaum"
+   ],
+   [
+    "Todd",
+    "Austin"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2013",
+  "year_src": "gb",
+  "edition": 6,
+  "edition_src": "calibre_comment",
+  "series": "Always learning",
+  "place": "Boston",
+  "publisher": "Pearson",
+  "pages": 801,
+  "abstract_available": true,
+  "calibre_comment": "Sixth Edition.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 125,
+  "path": "/Users/davide/Calibre Library/Dan Boneh/A Graduate Course in Applied Cryptography (125)/A Graduate Course in Applied Cryptography - Dan Boneh.pdf",
+  "isbn": null,
+  "title": "A Graduate Course in Applied Cryptography",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Dan",
+    "Boneh"
+   ],
+   [
+    "Victor",
+    "Shoup"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2023",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": null,
+  "pages": 1130,
+  "abstract_available": false,
+  "calibre_comment": "Version 0.6, Jan. 2023. Free online draft (cryptobook.us).",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 126,
+  "path": "/Users/davide/Calibre Library/Jeffrey Hoffstein/An Introduction to Mathematical Cryptography (126)/An Introduction to Mathematical Cryptograp - Jeffrey Hoffstein.pdf",
+  "isbn": "9781493917105",
+  "title": "An Introduction to Mathematical Cryptography",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jeffrey",
+    "Hoffstein"
+   ],
+   [
+    "Jill",
+    "Pipher"
+   ],
+   [
+    "Joseph H",
+    "Silverman"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2014",
+  "year_src": "crossref",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "Undergraduate Texts in Mathematics",
+  "place": "New York",
+  "publisher": "Springer",
+  "pages": 549,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [],
+  "n_sources": 5
+ },
+ {
+  "calibre_id": 127,
+  "path": "/Users/davide/Calibre Library/Anna Bernasconi/Elementi di Crittografia (127)/Elementi di Crittografia - Anna Bernasconi.pdf",
+  "isbn": "9788867414604",
+  "title": "Elementi di crittografia",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Anna",
+    "Bernasconi"
+   ],
+   [
+    "Fabrizio",
+    "Luccio"
+   ],
+   [
+    "Paolo",
+    "Ferragina"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2015",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Manuali",
+  "place": null,
+  "publisher": "Pisa University Press",
+  "pages": 232,
+  "abstract_available": false,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 1
+ },
+ {
+  "calibre_id": 128,
+  "path": "/Users/davide/Calibre Library/Oded Goldreich/Foundations of Cryptography, Volume 1_ Basic Tools (128)/Foundations of Cryptography, Volume 1_ Bas - Oded Goldreich.pdf",
+  "isbn": "9780521791724",
+  "title": "Foundations of Cryptography",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Oded",
+    "Goldreich"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2001",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Cambridge",
+  "publisher": "Cambridge University Press",
+  "pages": 393,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 5
+ },
+ {
+  "calibre_id": 129,
+  "path": "/Users/davide/Calibre Library/Maria Isabel Gonzalez Vasco/Group Theoretic Cryptography (129)/Group Theoretic Cryptography - Maria Isabel Gonzalez Vasco.pdf",
+  "isbn": "9781584888376",
+  "title": "Group Theoretic Cryptography",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Maria Isabel Gonzalez",
+    "Vasco"
+   ],
+   [
+    "Rainer",
+    "Steinwandt"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2015",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Chapman & Hall/CRC cryptography and network security",
+  "place": "Boca Raton, FL",
+  "publisher": "CRC Press",
+  "pages": 244,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [
+   "name-split"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 130,
+  "path": "/Users/davide/Calibre Library/Alexei Myasnikov/Group-based Cryptography (130)/Group-based Cryptography - Alexei Myasnikov.pdf",
+  "isbn": "9783764388263",
+  "title": "Group-based Cryptography",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Alexei",
+    "Myasnikov"
+   ],
+   [
+    "Vladimir",
+    "Shpilrain"
+   ],
+   [
+    "Alexander",
+    "Ushakov"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2008",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Advanced Courses in Mathematics - CRM Barcelona",
+  "place": "Basel",
+  "publisher": "Birkh\u00e4user Basel",
+  "pages": 192,
+  "abstract_available": true,
+  "calibre_comment": "Birkh\u00e4user Basel",
+  "flags": [],
+  "n_sources": 5
+ },
+ {
+  "calibre_id": 131,
+  "path": "/Users/davide/Calibre Library/Jonathan Katz/Introduction to Modern Cryptography (131)/Introduction to Modern Cryptography - Jonathan Katz.pdf",
+  "isbn": "9781466570276",
+  "title": "Introduction to Modern Cryptography",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jonathan",
+    "Katz"
+   ],
+   [
+    "Yehuda",
+    "Lindell"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2014",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "Chapman & Hall/CRC cryptography and network security",
+  "place": "Boca Raton",
+  "publisher": "CRC Press",
+  "pages": 598,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 132,
+  "path": "/Users/davide/Calibre Library/Cynthia Dwork/The Algorithmic Foundations of Differential Privacy (132)/The Algorithmic Foundations of Differentia - Cynthia Dwork.pdf",
+  "isbn": "9781601988188",
+  "title": "The Algorithmic Foundations of Differential Privacy",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Cynthia",
+    "Dwork"
+   ],
+   [
+    "Aaron",
+    "Roth"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2014",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Foundations and trends in theoretical computer science",
+  "place": "Boston, MA",
+  "publisher": "Now Publishers",
+  "pages": 281,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 133,
+  "path": "/Users/davide/Calibre Library/David Basin/Applied Information Security_ A Hands-on Approach (133)/Applied Information Security_ A Hands-on A - David Basin.pdf",
+  "isbn": "9783642244735",
+  "title": "Applied Information Security: A Hands-on Approach",
+  "title_src": "gb",
+  "creators": [
+   [
+    "David",
+    "Basin"
+   ],
+   [
+    "Patrick",
+    "Schaller"
+   ],
+   [
+    "Michael",
+    "Schl\u00e4pfer"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2011",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Berlin, Heidelberg",
+  "publisher": "Springer Berlin Heidelberg",
+  "pages": 209,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 134,
+  "path": "/Users/davide/Calibre Library/Matt Bishop/Computer Security_ Art and Science (134)/Computer Security_ Art and Science - Matt Bishop.pdf",
+  "isbn": "9780321712332",
+  "title": "Computer Security: Art and Science",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Matt",
+    "Bishop"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2019",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Boston",
+  "publisher": "Addison-Wesley",
+  "pages": 1437,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition. With contributions from Elisabeth Sullivan and Michelle Ruppel.",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 135,
+  "path": "/Users/davide/Calibre Library/Paul C. van Oorschot/Computer Security and the Internet_ Tools and Jewels (135)/Computer Security and the Internet_ Tools - Paul C. van Oorschot.pdf",
+  "isbn": "9783030336486",
+  "title": "Computer Security and the Internet: Tools and Jewels",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Paul C",
+    "van Oorschot"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2020",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Information Security and Cryptography",
+  "place": "Cham",
+  "publisher": "Springer",
+  "pages": 381,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 136,
+  "path": "/Users/davide/Calibre Library/Alfred J. Menezes/Handbook of Applied Cryptography (136)/Handbook of Applied Cryptography - Alfred J. Menezes.pdf",
+  "isbn": "9780849385230",
+  "title": "Handbook of Applied Cryptography",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Alfred J",
+    "Menezes"
+   ],
+   [
+    "Paul C",
+    "van Oorschot"
+   ],
+   [
+    "Scott A",
+    "Vanstone"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "1997",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Discrete mathematics and its applications",
+  "place": "Boca Raton, Fla.",
+  "publisher": "CRC Press",
+  "pages": 789,
+  "abstract_available": true,
+  "calibre_comment": "CRC Press Series on Discrete Mathematics and Its Applications. Fifth printing (with corrections).",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 137,
+  "path": "/Users/davide/Calibre Library/Joel Grus/Data Science from Scratch_ First Principles with Python (137)/Data Science from Scratch_ First Principle - Joel Grus.pdf",
+  "isbn": "9781492041139",
+  "title": "Data Science from Scratch: First Principles with Python",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Joel",
+    "Grus"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2019",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Sebastopol",
+  "publisher": "O'Reilly Media, Incorporated",
+  "pages": 513,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 138,
+  "path": "/Users/davide/Calibre Library/Art Kay/Analog Engineer's Pocket Reference (138)/Analog Engineer's Pocket Reference - Art Kay.pdf",
+  "isbn": null,
+  "title": "Analog Engineer's Pocket Reference",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Incorporated [SLYW038,C",
+    "Texas Instruments"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2019",
+  "year_src": "calibre",
+  "edition": 5,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Texas Instruments",
+  "pages": null,
+  "abstract_available": false,
+  "calibre_comment": "Fifth Edition. Editors: Art Kay, Tim Green.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 139,
+  "path": "/Users/davide/Calibre Library/Michael J. Pont/Patterns for Time-Triggered Embedded Systems (139)/Patterns for Time-Triggered Embedded Syste - Michael J. Pont.pdf",
+  "isbn": "9780201331387",
+  "title": "Patterns for Time-triggered Embedded Systems: Building Reliable Applications with the 8051 Family of Microcontrollers",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Michael J.",
+    "Pont"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2001",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Harlow",
+  "publisher": "Addison-Wesley [u.a.]",
+  "pages": 1025,
+  "abstract_available": true,
+  "calibre_comment": "Building reliable applications with the 8051 family of microcontrollers.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 140,
+  "path": "/Users/davide/Calibre Library/Heiner Schenke/Basic German_ A Grammar and Workbook (140)/Basic German_ A Grammar and Workbook - Heiner Schenke.pdf",
+  "isbn": "9780415283090",
+  "title": "Introduction to Ethics for Health Professionals Caring for Babies, Children and Young People",
+  "title_src": "openlibrary",
+  "creators": [
+   [
+    "Imelda",
+    "Charles-Edwards"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2004",
+  "year_src": "pdf",
+  "edition": null,
+  "edition_src": null,
+  "series": "Grammar Workbooks",
+  "place": "London",
+  "publisher": "Routledge",
+  "pages": 215,
+  "abstract_available": false,
+  "calibre_comment": "Arts, Language and Literature",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 2
+ },
+ {
+  "calibre_id": 143,
+  "path": "/Users/davide/Calibre Library/James Petty/Learn PowerShell in a Month of Lunches (143)/Learn PowerShell in a Month of Lunches - James Petty.pdf",
+  "isbn": "9781617296963",
+  "title": "Learn PowerShell in a Month of Lunches, Fourth Edition: Covers Windows, Linux, and MacOS",
+  "title_src": "gb",
+  "creators": [
+   [
+    "James",
+    "Petty"
+   ],
+   [
+    "Travis",
+    "Plunk"
+   ],
+   [
+    "Tyler",
+    "Leonhardt"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2022",
+  "year_src": "gb",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "New York",
+  "publisher": "Manning Publications Co. LLC",
+  "pages": 359,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition. Covers Windows, Linux, and macOS.",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 144,
+  "path": "/Users/davide/Calibre Library/Robert Johansson/Numerical Python_ Scientific Computing and Data Science Applications with Numpy, SciPy and Matp (144)/Numerical Python_ Scientific Computing and - Robert Johansson.pdf",
+  "isbn": "9781484242452",
+  "title": "Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Robert",
+    "Johansson"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2019",
+  "year_src": "crossref",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Apress",
+  "pages": 1221,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 145,
+  "path": "/Users/davide/Calibre Library/Scott Chacon/Pro Git (145)/Pro Git - Scott Chacon.pdf",
+  "isbn": "9781484200766",
+  "title": "Pro Git",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Scott",
+    "Chacon"
+   ],
+   [
+    "Ben",
+    "Straub"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2014",
+  "year_src": "crossref",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "New York, New York, United States of America",
+  "publisher": "Apress",
+  "pages": 501,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition. Free online build v2.1.411 (2023-09-26). ISBN = Apress print 2nd ed.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 146,
+  "path": "/Users/davide/Calibre Library/Bjarne Stroustrup/The C__ Programming Language (146)/The C__ Programming Language - Bjarne Stroustrup.pdf",
+  "isbn": "9780321563842",
+  "title": "The C++ Programming Language",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Bjarne",
+    "Stroustrup"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2013",
+  "year_src": "gb",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Upper Saddle River, NJ",
+  "publisher": "Addison-Wesley",
+  "pages": 1366,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 147,
+  "path": "/Users/davide/Calibre Library/Evi Nemeth/UNIX and Linux System Administration Handbook (147)/UNIX and Linux System Administration Handb - Evi Nemeth.pdf",
+  "isbn": "9780134277554",
+  "title": "Unix and Linux System Administration Handbook",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Evi",
+    "Nemeth"
+   ],
+   [
+    "Garth",
+    "Snyder"
+   ],
+   [
+    "Trent R",
+    "Hein"
+   ],
+   [
+    "Ben",
+    "Whaley"
+   ],
+   [
+    "Dan",
+    "Mackin"
+   ]
+  ],
+  "authors_src": "loc",
+  "year": "2017",
+  "year_src": "gb",
+  "edition": 5,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Boston",
+  "publisher": "Addison-Wesley",
+  "pages": 1226,
+  "abstract_available": false,
+  "calibre_comment": "Fifth Edition.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 148,
+  "path": "/Users/davide/Calibre Library/Victor Shoup/A Computational Introduction to Number Theory and Algebra (148)/A Computational Introduction to Number The - Victor Shoup.pdf",
+  "isbn": "9780521516440",
+  "title": "A Computational Introduction to Number Theory and Algebra",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Victor",
+    "Shoup"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2009",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "k10plus",
+  "series": null,
+  "place": "Cambridge",
+  "publisher": "Cambridge University Press",
+  "pages": 596,
+  "abstract_available": true,
+  "calibre_comment": "Version 2.1 (2008); corresponds to the second Cambridge print edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 149,
+  "path": "/Users/davide/Calibre Library/E. Abbena/Algebra Lineare e Geometria Analitica, Volume I (149)/Algebra Lineare e Geometria Analitica, Vol - E. Abbena.pdf",
+  "isbn": null,
+  "title": "Algebra Lineare e Geometria Analitica, Volume I",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "E",
+    "Abbena"
+   ],
+   [
+    "A.M",
+    "Fino"
+   ],
+   [
+    "G.M",
+    "Gianella"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2011",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "Universit\u00e0 di Torino",
+  "pages": 690,
+  "abstract_available": false,
+  "calibre_comment": "Volume I (teoria). Dispense, Universit\u00e0 di Torino, 6 gennaio 2011. NB: filename attribution 'Bernardi' is incorrect.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 150,
+  "path": "/Users/davide/Calibre Library/Alessandra Bernardi/Algebra lineare e geometria analitica (150)/Algebra lineare e geometria analitica - Alessandra Bernardi.pdf",
+  "isbn": null,
+  "title": "Algebra lineare e geometria analitica",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Alessandra",
+    "Bernardi"
+   ],
+   [
+    "Alessandro",
+    "Gimigliano"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2018",
+  "year_src": "calibre",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Citt\u00e0Studi Edizioni",
+  "pages": 320,
+  "abstract_available": false,
+  "calibre_comment": "Seconda edizione (maggio 2018), De Agostini Scuola.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 151,
+  "path": "/Users/davide/Calibre Library/Enrico Schlesinger/Algebra lineare e geometria (151)/Algebra lineare e geometria - Enrico Schlesinger.pdf",
+  "isbn": "9788808520692",
+  "title": "Algebra lineare e geometria",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Enrico",
+    "Schlesinger"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2017",
+  "year_src": "openlibrary",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Zanichelli",
+  "pages": 492,
+  "abstract_available": false,
+  "calibre_comment": "Seconda edizione.",
+  "flags": [],
+  "n_sources": 1
+ },
+ {
+  "calibre_id": 152,
+  "path": "/Users/davide/Calibre Library/Larry Wasserman/All of Statistics_ A Concise Course in Statistical Inference (152)/All of Statistics_ A Concise Course in Sta - Larry Wasserman.pdf",
+  "isbn": "9781441923226",
+  "title": "All of Statistics: A Concise Course in Statistical Inference",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Larry",
+    "Wasserman"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2004",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Springer Texts in Statistics",
+  "place": "New York",
+  "publisher": "Springer",
+  "pages": 463,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 153,
+  "path": "/Users/davide/Calibre Library/Terence Tao/An Introduction to Measure Theory (153)/An Introduction to Measure Theory - Terence Tao.pdf",
+  "isbn": "9780821869192",
+  "title": "An Introduction to Measure Theory",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Terence",
+    "Tao"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2011",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Graduate Studies in Mathematics",
+  "place": "Providence, Rhode Island",
+  "publisher": "American Mathematical Society",
+  "pages": 265,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 154,
+  "path": "/Users/davide/Calibre Library/James Stewart/Calculus_ Early Transcendentals (154)/Calculus_ Early Transcendentals - James Stewart.pdf",
+  "isbn": "9780495011668",
+  "title": "Calculus: Early Transcendentals",
+  "title_src": "gb",
+  "creators": [
+   [
+    "James",
+    "Stewart"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2007",
+  "year_src": "gb",
+  "edition": 6,
+  "edition_src": "calibre_comment",
+  "series": "Stewart's Calculus Series",
+  "place": "Belmont, CA",
+  "publisher": "Thomson Brooks/Cole",
+  "pages": 1309,
+  "abstract_available": true,
+  "calibre_comment": "Sixth Edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 155,
+  "path": "/Users/davide/Calibre Library/Joseph K. Blitzstein/Introduction to Probability (155)/Introduction to Probability - Joseph K. Blitzstein.pdf",
+  "isbn": "9781138369917",
+  "title": "Introduction to Probability",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Joseph K.",
+    "Blitzstein"
+   ],
+   [
+    "Jessica",
+    "Hwang"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2019",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "Texts in statistical science",
+  "place": "Boca Raton",
+  "publisher": "CRC Press",
+  "pages": 636,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 156,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Abelian Varieties (156)/Abelian Varieties - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Abelian Varieties",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2008",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 172,
+  "abstract_available": false,
+  "calibre_comment": "Version 2.0 (2008). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 157,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Geometry (157)/Algebraic Geometry - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Algebraic Geometry",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2024",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 231,
+  "abstract_available": false,
+  "calibre_comment": "Version 6.10 (2024). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 158,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Groups_ The Theory of Group Schemes of Finite Type over a Field (158)/Algebraic Groups_ The Theory of Group Sche - J.S. Milne.pdf",
+  "isbn": "9781107167483",
+  "title": "Algebraic Groups: The Theory of Group Schemes of Finite Type over a Field",
+  "title_src": "gb",
+  "creators": [
+   [
+    "J. S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2017",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Cambridge studies in advanced mathematics",
+  "place": "Cambridge",
+  "publisher": "Cambridge University Press",
+  "pages": 662,
+  "abstract_available": true,
+  "calibre_comment": "algebraic groups",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 160,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Number Theory (160)/Algebraic Number Theory - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Algebraic Number Theory",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2020",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 166,
+  "abstract_available": false,
+  "calibre_comment": "Version 3.08 (2020). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 162,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Arithmetic Duality Theorems (162)/Arithmetic Duality Theorems - J.S. Milne.pdf",
+  "isbn": "9781419642746",
+  "title": "Arithmetic Duality Theorems",
+  "title_src": "gb",
+  "creators": [
+   [
+    "J. S.",
+    "Milne"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2006",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Booksurge",
+  "pages": 347,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition (2006). First edition: Academic Press, 1986.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 165,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Class Field Theory (165)/Class Field Theory - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Class Field Theory",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2020",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 296,
+  "abstract_available": false,
+  "calibre_comment": "Version 4.03 (2020). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 166,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Complex Multiplication (166)/Complex Multiplication - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Complex Multiplication",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2020",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 108,
+  "abstract_available": false,
+  "calibre_comment": "Version 0.10 (2020). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 167,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Elliptic Curves (167)/Elliptic Curves - J.S. Milne.pdf",
+  "isbn": "9781419652578",
+  "title": "Elliptic Curves",
+  "title_src": "gb",
+  "creators": [
+   [
+    "J. S.",
+    "Milne"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2006",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Kea books",
+  "place": "Charleston",
+  "publisher": "BookSurge Publishing",
+  "pages": 246,
+  "abstract_available": true,
+  "calibre_comment": "BookSurge, 2006.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 168,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Fields and Galois Theory (168)/Fields and Galois Theory - J.S. Milne.pdf",
+  "isbn": "9789811221835",
+  "title": "Elliptic Curves",
+  "title_src": "gb",
+  "creators": [
+   [
+    "J. S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2020",
+  "year_src": "crossref",
+  "edition": 2,
+  "edition_src": "k10plus",
+  "series": null,
+  "place": "New Jersey",
+  "publisher": "WORLD SCIENTIFIC",
+  "pages": 199,
+  "abstract_available": true,
+  "calibre_comment": "Published World Scientific edition (the 'Book' version of Milne's notes).",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 169,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Group Theory (169)/Group Theory - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Group Theory",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2021",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 137,
+  "abstract_available": false,
+  "calibre_comment": "Version 4.00 (2021). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 170,
+  "path": "/Users/davide/Calibre Library/Pierre Deligne/Hodge Cycles, Motives, and Shimura Varieties (170)/Hodge Cycles, Motives, and Shimura Varieti - Pierre Deligne.pdf",
+  "isbn": "9783540111740",
+  "title": "Hodge Cycles, Motives, and Shimura Varieties",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Pierre",
+    "Deligne"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "1982",
+  "year_src": "crossref",
+  "edition": 1,
+  "edition_src": "openlibrary",
+  "series": "Lecture Notes in Mathematics",
+  "place": "Berlin",
+  "publisher": "Springer",
+  "pages": 416,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 171,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Lectures on Etale Cohomology (171)/Lectures on Etale Cohomology - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Lectures on \u00c9tale Cohomology",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2013",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 202,
+  "abstract_available": false,
+  "calibre_comment": "Version 2.21 (2013). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 172,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Lie Algebras, Algebraic Groups, and Lie Groups (172)/Lie Algebras, Algebraic Groups, and Lie Gr - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Lie Algebras, Algebraic Groups, and Lie Groups",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2013",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 186,
+  "abstract_available": false,
+  "calibre_comment": "Version 2.00 (2013). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 173,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Modular Functions and Modular Forms (173)/Modular Functions and Modular Forms - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Modular Functions and Modular Forms",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2017",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 134,
+  "abstract_available": false,
+  "calibre_comment": "Version 1.31 (2017). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 174,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Reductive Groups (174)/Reductive Groups - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Reductive Groups",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "J.S",
+    "Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2018",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 139,
+  "abstract_available": false,
+  "calibre_comment": "Version 2.00 (2018). Free lecture notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 175,
+  "path": "/Users/davide/Calibre Library/J.S. Milne/Tannakian Categories (175)/Tannakian Categories - J.S. Milne.pdf",
+  "isbn": null,
+  "title": "Tannakian Categories",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "",
+    "P.Deligne"
+   ],
+   [
+    "",
+    "J.S.Milne"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2025",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "jmilne.org",
+  "pages": 329,
+  "abstract_available": false,
+  "calibre_comment": "Penultimate version (Feb 2025). Free notes, jmilne.org/math/.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 177,
+  "path": "/Users/davide/Calibre Library/Sheldon Axler/Linear Algebra Done Right (177)/Linear Algebra Done Right - Sheldon Axler.pdf",
+  "isbn": "9783031410253",
+  "title": "Linear Algebra Done Right",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Sheldon",
+    "Axler"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2024",
+  "year_src": "crossref",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": "Undergraduate Texts in Mathematics",
+  "place": "Cham",
+  "publisher": "Springer",
+  "pages": 404,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition (open access).",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 178,
+  "path": "/Users/davide/Calibre Library/Alfio Quarteroni/Matematica Numerica (178)/Matematica Numerica - Alfio Quarteroni.pdf",
+  "isbn": "9788847056435",
+  "title": "Matematica Numerica",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Alfio",
+    "Quarteroni"
+   ],
+   [
+    "Riccardo",
+    "Sacco"
+   ],
+   [
+    "Fausto",
+    "Saleri"
+   ],
+   [
+    "Paola",
+    "Gervasio"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2014",
+  "year_src": "crossref",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": "UNITEXT",
+  "place": "Milano",
+  "publisher": "Springer",
+  "pages": 547,
+  "abstract_available": true,
+  "calibre_comment": "Quarta edizione.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 179,
+  "path": "/Users/davide/Calibre Library/Marc Peter Deisenroth/Mathematics for Machine Learning (179)/Mathematics for Machine Learning - Marc Peter Deisenroth.pdf",
+  "isbn": "9781108455145",
+  "title": "Mathematics for Machine Learning",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Marc Peter",
+    "Deisenroth"
+   ],
+   [
+    "A. Aldo",
+    "Faisal"
+   ],
+   [
+    "Cheng Soon",
+    "Ong"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2020",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Cambridge",
+  "publisher": "Cambridge University Press",
+  "pages": 417,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 180,
+  "path": "/Users/davide/Calibre Library/Krishna B. Athreya/Measure Theory and Probability Theory (180)/Measure Theory and Probability Theory - Krishna B. Athreya.pdf",
+  "isbn": "9780387329031",
+  "title": "Measure Theory and Probability Theory",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Krishna B.",
+    "Athreya"
+   ],
+   [
+    "Soumendra N.",
+    "Lahiri"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2006",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Springer Texts in Statistics",
+  "place": "New York, NY",
+  "publisher": "Springer",
+  "pages": 625,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 181,
+  "path": "/Users/davide/Calibre Library/Sheldon Axler/Measure, Integration & Real Analysis (181)/Measure, Integration & Real Analysis - Sheldon Axler.pdf",
+  "isbn": "9783030331429",
+  "title": "Measure, Integration & Real Analysis",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Sheldon",
+    "Axler"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2020",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Graduate Texts in Mathematics",
+  "place": "Cham, Switzerland",
+  "publisher": "Springer",
+  "pages": 426,
+  "abstract_available": true,
+  "calibre_comment": "Open access.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 182,
+  "path": "/Users/davide/Calibre Library/Rick Durrett/Probability_ Theory and Examples (182)/Probability_ Theory and Examples - Rick Durrett.pdf",
+  "isbn": "9781108473682",
+  "title": "Probability: Theory and Examples",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Rick",
+    "Durrett"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2019",
+  "year_src": "crossref",
+  "edition": 5,
+  "edition_src": "calibre_comment",
+  "series": "Cambridge series in statistical and probabilistic mathematics",
+  "place": "Cambridge",
+  "publisher": "Cambridge University Press",
+  "pages": 490,
+  "abstract_available": true,
+  "calibre_comment": "Fifth Edition (Version 5, 2019).",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 184,
+  "path": "/Users/davide/Calibre Library/James F. Kurose/Computer Networking_ A Top-Down Approach (184)/Computer Networking_ A Top-Down Approach - James F. Kurose.pdf",
+  "isbn": "9780136681557",
+  "title": "Computer Networking: A Top-down Approach",
+  "title_src": "gb",
+  "creators": [
+   [
+    "James F.",
+    "Kurose"
+   ],
+   [
+    "Keith W.",
+    "Ross"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2021",
+  "year_src": "gb",
+  "edition": 8,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Pearson",
+  "pages": 792,
+  "abstract_available": true,
+  "calibre_comment": "Eighth Edition.",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 2
+ },
+ {
+  "calibre_id": 185,
+  "path": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Computer Networks (185)/Computer Networks - Andrew S. Tanenbaum.pdf",
+  "isbn": "9780136764052",
+  "title": "Computer Networks [RENTAL EDITION]",
+  "title_src": "openlibrary",
+  "creators": [
+   [
+    "Nick Feamster, David J. Wetherall",
+    "Andrew S. Tanenbaum"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2021",
+  "year_src": "pdf",
+  "edition": 6,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Pearson",
+  "pages": 945,
+  "abstract_available": false,
+  "calibre_comment": "Sixth Edition.",
+  "flags": [],
+  "n_sources": 1
+ },
+ {
+  "calibre_id": 186,
+  "path": "/Users/davide/Calibre Library/Gary R. Wright/TCP_IP Illustrated, Volume 2_ The Implementation (186)/TCP_IP Illustrated, Volume 2_ The Implemen - Gary R. Wright.pdf",
+  "isbn": "9780201633542",
+  "title": "TCP/IP Illustrated, Volume 2: The Implementation",
+  "title_src": "openlibrary",
+  "creators": [
+   [
+    "W. Richard",
+    "Stevens"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "1995",
+  "year_src": "openlibrary",
+  "edition": null,
+  "edition_src": null,
+  "series": "TCP/IP illustrated",
+  "place": "Boston",
+  "publisher": "Addison-Wesley",
+  "pages": 1194,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 187,
+  "path": "/Users/davide/Calibre Library/Achille Pattavina/Internet e Reti_ Fondamenti (187)/Internet e Reti_ Fondamenti - Achille Pattavina.pdf",
+  "isbn": "9788891930910",
+  "title": "Internet e reti. Fondamenti. Ediz. MyLab",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Achille",
+    "Pattavina"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2022",
+  "year_src": "gb",
+  "edition": 3,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Pearson Italia",
+  "pages": 578,
+  "abstract_available": false,
+  "calibre_comment": "Terza edizione.",
+  "flags": [],
+  "n_sources": 1
+ },
+ {
+  "calibre_id": 188,
+  "path": "/Users/davide/Calibre Library/Kevin R. Fall/TCP_IP Illustrated, Volume 1_ The Protocols (188)/TCP_IP Illustrated, Volume 1_ The Protocol - Kevin R. Fall.pdf",
+  "isbn": "9780321336316",
+  "title": "TCP/IP Illustrated",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Kevin R.",
+    "Fall"
+   ],
+   [
+    "W. Richard",
+    "Stevens"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2012",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "Addison-Wesley Professional Computing Series",
+  "place": "Upper Saddle River, NJ",
+  "publisher": "Addison-Wesley",
+  "pages": 1059,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 190,
+  "path": "/Users/davide/Calibre Library/James F. Kurose/Reti di calcolatori e Internet_ Un approccio top-down (190)/Reti di calcolatori e Internet_ Un approcc - James F. Kurose.pdf",
+  "isbn": "9788891902542",
+  "title": "Reti di calcolatori e Internet: Un approccio top-down",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "James F",
+    "Kurose"
+   ],
+   [
+    "Keith W",
+    "Ross"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2017",
+  "year_src": "pdf",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "Pearson Italia",
+  "pages": 763,
+  "abstract_available": false,
+  "calibre_comment": "Settima edizione. Edizione italiana a cura di A. Capone, S. Gaito.",
+  "flags": [],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 191,
+  "path": "/Users/davide/Calibre Library/Laurent Chuat/The Complete Guide to SCION_ From Design Principles to Formal Verification (191)/The Complete Guide to SCION_ From Design P - Laurent Chuat.pdf",
+  "isbn": "9783031052873",
+  "title": "The Complete Guide to SCION: From Design Principles to Formal Verification",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Laurent",
+    "Chuat"
+   ],
+   [
+    "Markus",
+    "Legner"
+   ],
+   [
+    "David",
+    "Basin"
+   ],
+   [
+    "David",
+    "Hausheer"
+   ],
+   [
+    "Samuel",
+    "Hitz"
+   ],
+   [
+    "Peter",
+    "M\u00fcller"
+   ],
+   [
+    "Adrian",
+    "Perrig"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2022",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Information Security and Cryptography",
+  "place": "Cham",
+  "publisher": "Springer International Publishing",
+  "pages": 653,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 193,
+  "path": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Modern Operating Systems (4th Edition) (193)/Modern Operating Systems (4th Edition) - Andrew S. Tanenbaum.pdf",
+  "isbn": "9780133591620",
+  "title": "Modern Operating Systems",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Andrew S",
+    "Tanenbaum"
+   ],
+   [
+    "Herbert",
+    "Bos"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2015",
+  "year_src": "gb",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Boston",
+  "publisher": "Prentice Hall",
+  "pages": 1137,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition (2015).",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 194,
+  "path": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Modern Operating Systems (5th Edition) (194)/Modern Operating Systems (5th Edition) - Andrew S. Tanenbaum.pdf",
+  "isbn": "9780137618873",
+  "title": "Modern Operating Systems",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Andrew S.",
+    "Tanenbaum"
+   ],
+   [
+    "Herbert",
+    "Bos"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2022",
+  "year_src": "gb",
+  "edition": 5,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Pearson",
+  "pages": 1185,
+  "abstract_available": false,
+  "calibre_comment": "Fifth Edition (2023).",
+  "flags": [],
+  "n_sources": 2
+ },
+ {
+  "calibre_id": 195,
+  "path": "/Users/davide/Calibre Library/Frederick S. Hillier/Introduction to Operations Research (195)/Introduction to Operations Research - Frederick S. Hillier.pdf",
+  "isbn": "9780073523453",
+  "title": "Introduction to Operations Research",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Frederick S",
+    "Hillier"
+   ],
+   [
+    "Gerald J",
+    "Lieberman"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2015",
+  "year_src": "gb",
+  "edition": 10,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "New York, NY",
+  "publisher": "McGraw-Hill Education",
+  "pages": 1414,
+  "abstract_available": true,
+  "calibre_comment": "Tenth Edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 196,
+  "path": "/Users/davide/Calibre Library/Hamdy A. Taha/Operations Research_ An Introduction (196)/Operations Research_ An Introduction - Hamdy A. Taha.pdf",
+  "isbn": "9780134444017",
+  "title": "Operations Research an Introduction",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Hamdy A.",
+    "Taha"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2017",
+  "year_src": "gb",
+  "edition": 10,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Pearson",
+  "pages": 849,
+  "abstract_available": true,
+  "calibre_comment": "Tenth Edition, Global Edition.",
+  "flags": [],
+  "n_sources": 2
+ },
+ {
+  "calibre_id": 200,
+  "path": "/Users/davide/Calibre Library/Robert C. Martin/Clean Code_ A Handbook of Agile Software Craftsmanship (200)/Clean Code_ A Handbook of Agile Software C - Robert C. Martin.pdf",
+  "isbn": "9780132350884",
+  "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Robert C",
+    "Martin"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2009",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Robert C. Martin series",
+  "place": "Upper Saddle River, NJ",
+  "publisher": "Prentice Hall",
+  "pages": 462,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 201,
+  "path": "/Users/davide/Calibre Library/Jon Erickson/Hacking_ The Art of Exploitation (201)/Hacking_ The Art of Exploitation - Jon Erickson.pdf",
+  "isbn": "9781593271442",
+  "title": "Hacking: The Art of Exploitation",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jon",
+    "Erickson"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2008",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Heidelberg",
+  "publisher": "No Starch Press",
+  "pages": 492,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 202,
+  "path": "/Users/davide/Calibre Library/Bruce Dang/Practical Reverse Engineering_ x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (202)/Practical Reverse Engineering_ x86, x64, A - Bruce Dang.pdf",
+  "isbn": "9781118787311",
+  "title": "Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Bruce",
+    "Dang"
+   ],
+   [
+    "Alexandre",
+    "Gazet"
+   ],
+   [
+    "Elias",
+    "Bachaalany"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2014",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Indianapolis, IN",
+  "publisher": "John Wiley & Sons",
+  "pages": 383,
+  "abstract_available": true,
+  "calibre_comment": "With contributions from S\u00e9bastien Josse.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 203,
+  "path": "/Users/davide/Calibre Library/Michael Kerrisk/The Linux Programming Interface (203)/The Linux Programming Interface - Michael Kerrisk.pdf",
+  "isbn": "9781593272203",
+  "title": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Michael",
+    "Kerrisk"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2010",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "San Francisco, CA",
+  "publisher": "No Starch Press",
+  "pages": 1556,
+  "abstract_available": true,
+  "calibre_comment": "A Linux and UNIX System Programming Handbook.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 204,
+  "path": "/Users/davide/Calibre Library/Grady Booch/The Unified Modeling Language User Guide (204)/The Unified Modeling Language User Guide - Grady Booch.pdf",
+  "isbn": "9780321267979",
+  "title": "The Unified Modeling Language User Guide",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Grady",
+    "Booch"
+   ],
+   [
+    "James",
+    "Rumbaugh"
+   ],
+   [
+    "Ivar",
+    "Jacobson"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2005",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "The Addison-Wesley object technology series",
+  "place": "Upper Saddle River, NJ",
+  "publisher": "Addison-Wesley",
+  "pages": 496,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 205,
+  "path": "/Users/davide/Calibre Library/Jim Arlow/UML 2 and the Unified Process_ Practical Object-Oriented Analysis and Design (205)/UML 2 and the Unified Process_ Practical O - Jim Arlow.pdf",
+  "isbn": "9780321321275",
+  "title": "UML 2 and the Unified Process: Practical Object-oriented Analysis and Design",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jim",
+    "Arlow"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2005",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "The Addison-Wesley object technology series",
+  "place": "Upper Saddle River, NJ",
+  "publisher": "Addison-Wesley",
+  "pages": 621,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 206,
+  "path": "/Users/davide/Calibre Library/Martin Fowler/UML Distilled_ A Brief Guide to the Standard Object Modeling Language (206)/UML Distilled_ A Brief Guide to the Standa - Martin Fowler.pdf",
+  "isbn": "9780321193681",
+  "title": "UML Distilled: A Brief Guide to the Standard Object Modeling Language",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Martin",
+    "Fowler"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2004",
+  "year_src": "gb",
+  "edition": 3,
+  "edition_src": "calibre_comment",
+  "series": "The Addison-Wesley object technology series",
+  "place": "Boston, Mass.",
+  "publisher": "Addison-Wesley",
+  "pages": 192,
+  "abstract_available": true,
+  "calibre_comment": "Third Edition.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 207,
+  "path": "/Users/davide/Calibre Library/James Rumbaugh/The Unified Modeling Language Reference Manual (207)/The Unified Modeling Language Reference Ma - James Rumbaugh.pdf",
+  "isbn": "9780321245625",
+  "title": "The Unified Modeling Language Reference Manual",
+  "title_src": "gb",
+  "creators": [
+   [
+    "James",
+    "Rumbaugh"
+   ],
+   [
+    "Ivar",
+    "Jacobson"
+   ],
+   [
+    "Grady",
+    "Booch"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2005",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "The Addison-Wesley object technology series",
+  "place": "Boston",
+  "publisher": "Addison-Wesley",
+  "pages": 742,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 208,
+  "path": "/Users/davide/Calibre Library/Michael Sipser/Introduction to the Theory of Computation (208)/Introduction to the Theory of Computation - Michael Sipser.pdf",
+  "isbn": "9781133187790",
+  "title": "Introduction to the Theory of Computation",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Michael",
+    "Sipser"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2013",
+  "year_src": "openlibrary",
+  "edition": 3,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Australia",
+  "publisher": "Cengage Learning",
+  "pages": 482,
+  "abstract_available": true,
+  "calibre_comment": "Third Edition (International Edition).",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 210,
+  "path": "/Users/davide/Calibre Library/Patrick Billingsley/Probability and Measure (210)/Probability and Measure - Patrick Billingsley.pdf",
+  "isbn": "9780471804789",
+  "title": "Probability and Measure",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Patrick",
+    "Billingsley"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "1986",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "Wiley series in probability and mathematical statistics",
+  "place": "New York",
+  "publisher": "Wiley",
+  "pages": 637,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition (1986), per the file title. NOTE: content could not be verified (file over 64 MB extraction limit). The source filename carried ISBN 9780471007104, which is actually the THIRD edition (1995) \u2014 set here to the 2nd-edition ISBN 9780471804789 to match the stated title; confirm the edition against the PDF if it matters.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 211,
+  "path": "/Users/davide/Calibre Library/Thomas M. Cover/Elements of Information Theory (211)/Elements of Information Theory - Thomas M. Cover.pdf",
+  "isbn": "9780471241959",
+  "title": "Elements of Information Theory",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Thomas M",
+    "Cover"
+   ],
+   [
+    "Joy A",
+    "Thomas"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2006",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "Wiley Series in Telecommunications and Signal Processing",
+  "place": "Hoboken, NJ",
+  "publisher": "John Wiley & Sons",
+  "pages": 774,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition (2006).",
+  "flags": [],
+  "n_sources": 5
+ },
+ {
+  "calibre_id": 213,
+  "path": "/Users/davide/Calibre Library/Howard Straubing/Finite Automata, Formal Logic, and Circuit Complexity (213)/Finite Automata, Formal Logic, and Circuit - Howard Straubing.pdf",
+  "isbn": "9781461266952",
+  "title": "Finite Automata, Formal Logic, and Circuit Complexity",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Howard",
+    "Straubing"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "1994",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Progress in Theoretical Computer Science",
+  "place": "Boston, MA",
+  "publisher": "Birkh\u00e4user Boston",
+  "pages": 235,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 214,
+  "path": "/Users/davide/Calibre Library/Terence Tao/Analysis I (214)/Analysis I - Terence Tao.pdf",
+  "isbn": "9789811972614",
+  "title": "Analysis I",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Terence",
+    "Tao"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2022",
+  "year_src": "crossref",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": "Texts and Readings in Mathematics",
+  "place": "Singapore",
+  "publisher": "Springer Nature Singapore",
+  "pages": 311,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition. Co-published with Hindustan Book Agency. Texts and Readings in Mathematics, Vol. 37.",
+  "flags": [
+   "edition-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 215,
+  "path": "/Users/davide/Calibre Library/Terence Tao/Analysis II (215)/Analysis II - Terence Tao.pdf",
+  "isbn": "9789811972843",
+  "title": "Analysis II",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Terence",
+    "Tao"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2022",
+  "year_src": "crossref",
+  "edition": 4,
+  "edition_src": "calibre_comment",
+  "series": "Texts and Readings in Mathematics",
+  "place": "Singapore",
+  "publisher": "Springer Nature Singapore",
+  "pages": 208,
+  "abstract_available": true,
+  "calibre_comment": "Fourth Edition. Co-published with Hindustan Book Agency. Texts and Readings in Mathematics, Vol. 38.",
+  "flags": [
+   "edition-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 216,
+  "path": "/Users/davide/Calibre Library/Jacob Eisenstein/Introduction to Natural Language Processing (216)/Introduction to Natural Language Processin - Jacob Eisenstein.pdf",
+  "isbn": "9780262042840",
+  "title": "Introduction to Natural Language Processing",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jacob",
+    "Eisenstein"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2019",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": "Adaptive computation and machine learning series",
+  "place": "Cambridge, Massachusetts",
+  "publisher": "MIT Press",
+  "pages": 591,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 217,
+  "path": "/Users/davide/Calibre Library/Serge Lang/Algebra (217)/Algebra - Serge Lang.pdf",
+  "isbn": "9781461300410",
+  "title": "Algebra",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Serge",
+    "Lang"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2002",
+  "year_src": "crossref",
+  "edition": 3,
+  "edition_src": "k10plus",
+  "series": "Graduate Texts in Mathematics",
+  "place": "New York, NY",
+  "publisher": "Springer",
+  "pages": 923,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 218,
+  "path": "/Users/davide/Calibre Library/Thomas W. Judson/Abstract Algebra_ Theory and Applications (218)/Abstract Algebra_ Theory and Applications - Thomas W. Judson.pdf",
+  "isbn": null,
+  "title": "Abstract Algebra: Theory and Applications",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Thomas W",
+    "Judson"
+   ],
+   [
+    "Robert A",
+    "Beezer"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2025",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "judsonbooks.org (open source)",
+  "pages": 503,
+  "abstract_available": false,
+  "calibre_comment": null,
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 219,
+  "path": "/Users/davide/Calibre Library/David S. Dummit/Abstract Algebra (219)/Abstract Algebra - David S. Dummit.pdf",
+  "isbn": "0471433349",
+  "title": "Abstract Algebra",
+  "title_src": "gb",
+  "creators": [
+   [
+    "David S",
+    "Dummit"
+   ],
+   [
+    "Richard M",
+    "Foote"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2004",
+  "year_src": "openlibrary",
+  "edition": 3,
+  "edition_src": "k10plus",
+  "series": null,
+  "place": "Hoboken, NJ",
+  "publisher": "Wiley",
+  "pages": 946,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 220,
+  "path": "/Users/davide/Calibre Library/Herbert Amann/Analysis I (220)/Analysis I - Herbert Amann.pdf",
+  "isbn": "3764371536",
+  "title": "Analysis I",
+  "title_src": "openlibrary",
+  "creators": [
+   [
+    "Herbert",
+    "Amann"
+   ],
+   [
+    "Joachim",
+    "Escher"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2005",
+  "year_src": "gb",
+  "edition": 1,
+  "edition_src": "openlibrary",
+  "series": null,
+  "place": "Basel",
+  "publisher": "Birkh\u00e4user Basel",
+  "pages": 437,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 221,
+  "path": "/Users/davide/Calibre Library/Herbert Amann/Analysis II (221)/Analysis II - Herbert Amann.pdf",
+  "isbn": "9783764374785",
+  "title": "Analysis II",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Herbert",
+    "Amann"
+   ],
+   [
+    "Joachim",
+    "Escher"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2008",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Basel",
+  "publisher": "Birkh\u00e4user",
+  "pages": 409,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 5
+ },
+ {
+  "calibre_id": 222,
+  "path": "/Users/davide/Calibre Library/Herbert Amann/Analysis III (222)/Analysis III - Herbert Amann.pdf",
+  "isbn": "9783764374808",
+  "title": "Analysis III",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Herbert",
+    "Amann"
+   ],
+   [
+    "Joachim",
+    "Escher"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2009",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Basel",
+  "publisher": "Birkh\u00e4user Basel",
+  "pages": 476,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 223,
+  "path": "/Users/davide/Calibre Library/Robert G. Bartle/Introduction to Real Analysis (223)/Introduction to Real Analysis - Robert G. Bartle.pdf",
+  "isbn": "9780471433316",
+  "title": "Introduction to Real Analysis",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Robert G.",
+    "Bartle"
+   ],
+   [
+    "Donald R.",
+    "Sherbert"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2011",
+  "year_src": "gb",
+  "edition": 4,
+  "edition_src": "k10plus",
+  "series": null,
+  "place": "Hoboken, NJ",
+  "publisher": "Wiley",
+  "pages": 418,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 224,
+  "path": "/Users/davide/Calibre Library/Robert G. Bartle/Instructor's Manual to Accompany Introduction to Real Analysis, Fourth Edition (224)/Instructor's Manual to Accompany Introduct - Robert G. Bartle.pdf",
+  "isbn": "9780471447993",
+  "title": "Instructor's Manual to Accompany Introduction to Real Analysis Fourth Edition",
+  "title_src": "gb",
+  "creators": [
+   [
+    "",
+    "Bartle"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2003",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "John Wiley & Sons",
+  "pages": null,
+  "abstract_available": false,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 1
+ },
+ {
+  "calibre_id": 225,
+  "path": "/Users/davide/Calibre Library/Walter Rudin/Principles of Mathematical Analysis (225)/Principles of Mathematical Analysis - Walter Rudin.pdf",
+  "isbn": "9780070542358",
+  "title": "Principles of Mathematical Analysis",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Walter",
+    "Rudin"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "1976",
+  "year_src": "openlibrary",
+  "edition": 3,
+  "edition_src": "calibre_comment",
+  "series": "International series in pure and applied mathematics",
+  "place": "New York",
+  "publisher": "McGraw-Hill",
+  "pages": 388,
+  "abstract_available": false,
+  "calibre_comment": "Community-retyped edition of the 3rd edition (original: McGraw-Hill, 1976); not an official publisher release.",
+  "flags": [],
+  "n_sources": 2
+ },
+ {
+  "calibre_id": 226,
+  "path": "/Users/davide/Calibre Library/Walter Rudin/Real and Complex Analysis (226)/Real and Complex Analysis - Walter Rudin.pdf",
+  "isbn": "0070542341",
+  "title": "Real and Complex Analysis",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Walter",
+    "Rudin"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "1987",
+  "year_src": "gb",
+  "edition": 3,
+  "edition_src": "k10plus",
+  "series": "McGraw-Hill international editions",
+  "place": "New York, NY",
+  "publisher": "McGraw-Hill",
+  "pages": 430,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 227,
+  "path": "/Users/davide/Calibre Library/Roger A. Horn/Matrix Analysis (227)/Matrix Analysis - Roger A. Horn.pdf",
+  "isbn": "9780521839402",
+  "title": "Matrix Analysis",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Roger A",
+    "Horn"
+   ],
+   [
+    "Charles R",
+    "Johnson"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2012",
+  "year_src": "crossref",
+  "edition": 2,
+  "edition_src": "k10plus",
+  "series": null,
+  "place": "New York, NY",
+  "publisher": "Cambridge University Press",
+  "pages": 664,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 228,
+  "path": "/Users/davide/Calibre Library/Miguel A. Hernan/Causal Inference_ What If (228)/Causal Inference_ What If - Miguel A. Hernan.pdf",
+  "isbn": null,
+  "title": "Causal Inference: What If",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Miguel A",
+    "Hern\u00e1n"
+   ],
+   [
+    "James M",
+    "Robins"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2025",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "Chapman & Hall/CRC",
+  "pages": 365,
+  "abstract_available": false,
+  "calibre_comment": "Freely available online at https://miguelhernan.org/whatifbook. Copyright 2020, 2025 Miguel Hern\u00e1n and James Robins. This edition dated November 21, 2025.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 229,
+  "path": "/Users/davide/Calibre Library/Roman Vershynin/High-Dimensional Probability_ An Introduction with Applications in Data Science (229)/High-Dimensional Probability_ An Introduct - Roman Vershynin.pdf",
+  "isbn": null,
+  "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Roman",
+    "Vershynin"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2026",
+  "year_src": "calibre",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": null,
+  "publisher": "Cambridge University Press",
+  "pages": 341,
+  "abstract_available": false,
+  "calibre_comment": "Second Edition. Pre-publication version, free to view and download for personal use only. \u00a9Roman Vershynin 2026. https://www.math.uci.edu/~rvershyn/ \u2014 Cite: R. Vershynin. High-Dimensional Probability: An Introduction with Applications in Data Science. 2nd ed. Cambridge University Press; 2026.",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 230,
+  "path": "/Users/davide/Calibre Library/B. Jack Copeland/Computability_ Turing, Godel, Church, and Beyond (230)/Computability_ Turing, Godel, Church, and - B. Jack Copeland.pdf",
+  "isbn": "9780262018999",
+  "title": "Computability: Turing, G\u00f6del, Church, and Beyond",
+  "title_src": "gb",
+  "creators": [
+   [
+    "B. Jack",
+    "Copeland"
+   ],
+   [
+    "Carl J.",
+    "Posy"
+   ],
+   [
+    "Oron",
+    "Shagrir"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2013",
+  "year_src": "gb",
+  "edition": 1,
+  "edition_src": "k10plus",
+  "series": null,
+  "place": "Cambridge, Massachusetts",
+  "publisher": "The MIT Press",
+  "pages": 366,
+  "abstract_available": true,
+  "calibre_comment": "Computer scientists, mathematicians, and philosophers discuss the conceptual foundations of the notion of computability as well as recent theoretical developments. In the 1930s a series of seminal works published by Alan Turing, Kurt G\u00f6del, Alonzo Church, and others established the theoretical basis for computability. This work, advancing precise characterizations of effective, algorithmic computability, was the culmination of intensive investigations into the foundations of mathematics. In the decades since, the theory of computability has moved to the center of discussions in philosophy, computer science, and cognitive science. In this volume, distinguished computer scientists, mathematicians, logicians, and philosophers consider the conceptual foundations of computability in light of our modern understanding.Some chapters focus on the pioneering work by Turing, G\u00f6del, and Church, including the Church-Turing thesis and G\u00f6del's response to Church's and Turing's proposals. Other chapters cover more recent technical developments, including computability over the reals, G\u00f6del's influence on mathematical logic and on recursion theory and the impact of work by Turing and Emil Post on our theoretical understanding of online and interactive computing; and others relate computability and complexity to issues in the philosophy of mind, the philosophy of science, and the philosophy of mathematics.ContributorsScott Aaronson, Dorit Aharonov, B. Jack Copeland, Martin Davis, Solomon Feferman, Saul Kripke, Carl J. Posy, Hilary Putnam, Oron Shagrir, Stewart Shapiro, Wilfried Sieg, Robert I. Soare, Umesh V. Vazirani",
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 231,
+  "path": "/Users/davide/Calibre Library/Douglas R. Hofstadter/Godel, Escher, Bach_ An Eternal Golden Braid (231)/Godel, Escher, Bach_ An Eternal Golden Bra - Douglas R. Hofstadter.pdf",
+  "isbn": "9780465026562",
+  "title": "Godel, Escher, Bach: An Eternal Golden Braid",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Douglas R.",
+    "Hofstadter"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "1999",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "New York",
+  "publisher": "Basic Books",
+  "pages": 800,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 232,
+  "path": "/Users/davide/Calibre Library/Richard Zach/Incompleteness and Computability_ An Open Introduction to Godel's Theorems (232)/Incompleteness and Computability_ An Open - Richard Zach.pdf",
+  "isbn": null,
+  "title": "Incompleteness and Computability: An Open Introduction to G\u00f6del's Theorems",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Richard",
+    "Zach"
+   ],
+   [
+    "Open Logic",
+    "Project"
+   ]
+  ],
+  "authors_src": "calibre",
+  "year": "2025",
+  "year_src": "calibre",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": null,
+  "publisher": "Open Logic Project",
+  "pages": null,
+  "abstract_available": false,
+  "calibre_comment": "Open Logic Project. CC BY 4.0. Fall 2025 revision 6b09d98 (2026-07-11). https://ic.openlogicproject.org/",
+  "flags": [
+   "no-external-source"
+  ],
+  "n_sources": 0
+ },
+ {
+  "calibre_id": 233,
+  "path": "/Users/davide/Calibre Library/John E. Hopcroft/Introduction to Automata Theory, Languages, and Computation (233)/Introduction to Automata Theory, Languages - John E. Hopcroft.pdf",
+  "isbn": "9780321455369",
+  "title": "Introduction to Automata Theory, Languages, and Computation",
+  "title_src": "gb",
+  "creators": [
+   [
+    "John E",
+    "Hopcroft"
+   ],
+   [
+    "Rajeev",
+    "Motwani"
+   ],
+   [
+    "Jeffrey D",
+    "Ullman"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2007",
+  "year_src": "gb",
+  "edition": 3,
+  "edition_src": "k10plus",
+  "series": null,
+  "place": "Bosten",
+  "publisher": "Pearson",
+  "pages": 551,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 234,
+  "path": "/Users/davide/Calibre Library/Charles Petzold/The Annotated Turing_ A Guided Tour through Alan Turing's Historic Paper on Computability and t (234)/The Annotated Turing_ A Guided Tour throug - Charles Petzold.pdf",
+  "isbn": "9780470229057",
+  "title": "The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Charles",
+    "Petzold"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2008",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Indianapolis, Ind",
+  "publisher": "Wiley",
+  "pages": null,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 235,
+  "path": "/Users/davide/Calibre Library/Stephen Abbott/Understanding Analysis (235)/Understanding Analysis - Stephen Abbott.pdf",
+  "isbn": "9781493927128",
+  "title": "Understanding Analysis",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Stephen",
+    "Abbott"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2015",
+  "year_src": "crossref",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": "Undergraduate Texts in Mathematics",
+  "place": "New York",
+  "publisher": "Springer",
+  "pages": 320,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition. Undergraduate Texts in Mathematics. \u00a9 Springer 2015 (corrected 2nd printing 2016). Print ISBN 978-1-4939-2711-1, eBook ISBN 978-1-4939-2712-8.",
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 236,
+  "path": "/Users/davide/Calibre Library/Walter Rudin/Principles of Mathematical Analysis (236)/Principles of Mathematical Analysis - Walter Rudin.pdf",
+  "isbn": "9780070542358",
+  "title": "Principles of Mathematical Analysis",
+  "title_src": "calibre",
+  "creators": [
+   [
+    "Walter",
+    "Rudin"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "1976",
+  "year_src": "openlibrary",
+  "edition": 3,
+  "edition_src": "calibre_comment",
+  "series": "International series in pure and applied mathematics",
+  "place": "New York",
+  "publisher": "McGraw-Hill",
+  "pages": 594,
+  "abstract_available": false,
+  "calibre_comment": "Third Edition. International Series in Pure and Applied Mathematics. McGraw-Hill, 1976.",
+  "flags": [],
+  "n_sources": 2
+ },
+ {
+  "calibre_id": 237,
+  "path": "/Users/davide/Calibre Library/Sheldon M. Ross/A Second Course in Probability (237)/A Second Course in Probability - Sheldon M. Ross.pdf",
+  "isbn": "9781009179911",
+  "title": "A Second Course in Probability",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Sheldon M.",
+    "Ross"
+   ],
+   [
+    "Erol A.",
+    "Pek\u00f6z"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2023",
+  "year_src": "gb",
+  "edition": 2,
+  "edition_src": "calibre_comment",
+  "series": null,
+  "place": "Cambridge, United Kingdom",
+  "publisher": "Cambridge University Press",
+  "pages": 190,
+  "abstract_available": true,
+  "calibre_comment": "Second Edition (2023). Cambridge University Press. Covers measure theory, limit theorems, bounding probabilities and expectations, coupling and Stein's method, martingales, Markov chains, renewal theory, and Brownian motion.",
+  "flags": [
+   "title-conflict"
+  ],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 238,
+  "path": "/Users/davide/Calibre Library/Robert W. Keener/Theoretical Statistics_ Topics for a Core Course (238)/Theoretical Statistics_ Topics for a Core - Robert W. Keener.pdf",
+  "isbn": "9780387938387",
+  "title": "Theoretical Statistics: Topics for a Core Course",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Robert W",
+    "Keener"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2010",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Springer Texts in Statistics",
+  "place": "New York, NY",
+  "publisher": "Springer",
+  "pages": 543,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 239,
+  "path": "/Users/davide/Calibre Library/Charles Chapman Pugh/Real Mathematical Analysis (239)/Real Mathematical Analysis - Charles Chapman Pugh.pdf",
+  "isbn": "9783319177700",
+  "title": "Real Mathematical Analysis",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Charles Chapman",
+    "Pugh"
+   ]
+  ],
+  "authors_src": "gb",
+  "year": "2015",
+  "year_src": "crossref",
+  "edition": 2,
+  "edition_src": "k10plus",
+  "series": "Undergraduate Texts in Mathematics",
+  "place": "Cham",
+  "publisher": "Springer",
+  "pages": 486,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [
+   "name-split"
+  ],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 245,
+  "path": "/Users/davide/Calibre Library/Jean-Francois Le Gall/Measure Theory, Probability, and Stochastic Processes (245)/Measure Theory, Probability, and Stochasti - Jean-Francois Le Gall.pdf",
+  "isbn": "9783031142055",
+  "title": "Measure Theory, Probability, and Stochastic Processes",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jean-Fran\u00e7ois",
+    "Le Gall"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2022",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Graduate Texts in Mathematics",
+  "place": "Cham, Switzerland",
+  "publisher": "Springer",
+  "pages": 409,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 3
+ },
+ {
+  "calibre_id": 246,
+  "path": "/Users/davide/Calibre Library/Jean-Francois Le Gall/Brownian Motion, Martingales, and Stochastic Calculus (246)/Brownian Motion, Martingales, and Stochast - Jean-Francois Le Gall.pdf",
+  "isbn": "9783319310893",
+  "title": "Brownian Motion, Martingales, and Stochastic Calculus",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Jean-Fran\u00e7ois",
+    "Le Gall"
+   ]
+  ],
+  "authors_src": "crossref",
+  "year": "2016",
+  "year_src": "crossref",
+  "edition": null,
+  "edition_src": null,
+  "series": "Graduate Texts in Mathematics",
+  "place": null,
+  "publisher": "Springer",
+  "pages": 282,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ },
+ {
+  "calibre_id": 247,
+  "path": "/Users/davide/Calibre Library/Sanjeev Arora/Computational Complexity_ A Modern Approach (247)/Computational Complexity_ A Modern Approac - Sanjeev Arora.pdf",
+  "isbn": "9780521424264",
+  "title": "Computational Complexity: A Modern Approach",
+  "title_src": "gb",
+  "creators": [
+   [
+    "Sanjeev",
+    "Arora"
+   ],
+   [
+    "Boaz",
+    "Barak"
+   ]
+  ],
+  "authors_src": "k10plus",
+  "year": "2009",
+  "year_src": "gb",
+  "edition": null,
+  "edition_src": null,
+  "series": null,
+  "place": "Cambridge",
+  "publisher": "Cambridge University Press",
+  "pages": 605,
+  "abstract_available": true,
+  "calibre_comment": null,
+  "flags": [],
+  "n_sources": 4
+ }
+]

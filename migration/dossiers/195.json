@@ -1,0 +1,39 @@
+{
+ "calibre_id": 195,
+ "path": "/Users/davide/Calibre Library/Frederick S. Hillier/Introduction to Operations Research (195)/Introduction to Operations Research - Frederick S. Hillier.pdf",
+ "isbn": "9780073523453",
+ "title": "Introduction to Operations Research",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Frederick S",
+   "Hillier"
+  ],
+  [
+   "Gerald J",
+   "Lieberman"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2015",
+ "year_src": "gb",
+ "edition": 10,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": "New York, NY",
+ "publisher": "McGraw-Hill Education",
+ "pages": 1414,
+ "abstract_available": true,
+ "calibre_comment": "Tenth Edition.",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "Introduction to Operations Research",
+ "calibre_author_sort": "Hillier, Frederick S. & Lieberman, Gerald J.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Frederick S. Hillier/Introduction to Operations Research (195)/Introduction to Operations Research - Frederick S. Hillier.pdf",
+ "frontmatter_text": "A\nn\nn\ni\nv\ne\nr\ns\na\nr\ny\nIntroduction to\nTenth Edition\nOperations\n Research\nFrederick S. Hillier \u2022 Gerald J. Lieberman\n\f\nINSTALLING ANALYTIC SOLVER PLATFORM \nFOR EDUCATION\nInstructors:\nA course code will enable your students to download and install Analytic Solver Plat-\nform for Education with a semester-long (140 day) license, and will enable Frontline Sys-\ntems to assist students with installation, and provide technical support to you during the\ncourse. To set up a course code for your course, please email Frontline Systems at \nacademic@solver.com, or call 775-831-0300, press 0, and ask for the Academic Coordi-\nnator. Course codes MUST be renewed each year. The course code is free, and it can\nusually be issued within 24 to 48 hours (often the same day).\nPlease give the course code, plus the instructions below, to your students. If you\u2019re eval-\nuating the book for adoption, you can use the course code yourself to download and in-\nstall the software.\nStudents:\n1) To download and install Analytic Solver Platform for Education from Frontline Sys-\ntems to work with Excel for Windows, please visit: www.solver.com/student. Don\u2019t try to\ndownload from any other page.\nIf you have a Mac, you\u2019ll need to install \u201cdual-boot\u201d or VM software, Microsoft Windows,\nand Office or Excel for Windows first. Excel for Mac will NOT work. Learn more at\nwww.solver.com/using-frontline-solvers-macintosh.\n2) Fill out the registration form on the page visited is step 1, supplying your name, school,\nemail address (key information will be sent to this address), course code (obtain this from\nyour instructor), and textbook code (enter HLIOR10). If you have this textbook but you\naren\u2019t enrolled in a course, call 775-831-0300 and press 0 for assistance with the software.\n3) On the download page, change 32-bit to 64-bit ONLY if you\u2019ve confirmed that you\nhave 64-bit Excel. Click the Download Now button, and save the downloaded file (Sol-\nverSetup.exe or SolverSetup64.exe).\nMost users have 64-bit Windows and 32-bit Excel. For Excel 2007, always download Sol-\nverSetup. In Excel 2010, choose File > Help and look in the lower right. In Excel 2013,\nchoose File > Account > About Excel and look at the top of ",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 aspect 1.615 differs from the body's 0.74"
+ ]
+}

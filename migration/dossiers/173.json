@@ -1,0 +1,35 @@
+{
+ "calibre_id": 173,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Modular Functions and Modular Forms (173)/Modular Functions and Modular Forms - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Modular Functions and Modular Forms",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2017",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 134,
+ "abstract_available": false,
+ "calibre_comment": "Version 1.31 (2017). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Modular Functions and Modular Forms",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Modular Functions and Modular Forms (173)/Modular Functions and Modular Forms - J.S. Milne.pdf",
+ "frontmatter_text": "Modular Functions and Modular Forms\n(Elliptic Modular Curves)\nJ.S. Milne\nVersion 1.31\nMarch 22, 2017\n\f\nThis is an introduction to the arithmetic theory of modular functions and modular forms,\nwith a greater emphasis on the geometry than most accounts.\nBibTeX information:\n@misc{milneMF,\nauthor={Milne, James S.},\ntitle={Modular Functions and Modular Forms (v1.31)},\nyear={2017},\nnote={Available at www.jmilne.org/math/},\npages={134}\n}\nv1.10 May 22, 1997; first version on the web; 128 pages.\nv1.20 November 23, 2009; new style; minor fixes and improvements; added list of symbols;\n129 pages.\nv1.30 April 26, 2010. Corrected; many minor revisions. 138 pages.\nv1.31 March 22, 2017. Corrected; minor revisions. 133 pages.\nPlease send comments and corrections to me at the address on my website\nhttp://www.jmilne.org/math/.\nThe picture shows a fundamental domain for \ufffd1.10/, as drawn by the fundamental domain\ndrawer of H. Verrill.\nCopyright c\ufffd1997, 2009, 2012, 2017 J.S. Milne.\nSingle paper copies for noncommercial personal use may be made without explicit permission\nfrom the copyright holder.\n\f\nContents\nContents\n3\nIntroduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\nI\nThe Analytic Theory\n13\n1\nPreliminaries\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n13\n2\nElliptic Modular Curves as Riemann Surfaces . . . . . . . . . . . . . . . .\n25\n3\nElliptic Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n41\n4\nModular Functions and Modular Forms\n. . . . . . . . . . . . . . . . . . .\n48\n5\nHecke Operators\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n67\nII The Algebro-Geometric Theory\n87\n6\nThe Modular Equation for \ufffd0.N/\n. . . . . . . . . . . . . . . . . . . . . .\n87\n7\nThe Canonical Model of X0.N/ over Q . . . . . . . . . . . . . . . . . . .\n91\n8\nModular Curves as Moduli Varieties . . . . . . . . . . . . . . . . . . . . .\n97\n9\nModular Forms, Dirichlet Series, and Functional Equations . . . . . . . . . 101\n10\nCorrespondences on Curves; the Theorem of Eichler-Shimura\n. . . . . . . 105\n11\nCurves and their Zeta Functions\n. . . . . . . . . . . . . . . . . . . . . . . 109\n12\nComplex Multiplication for Ellip",
+ "needs_visual": false,
+ "cover_warnings": []
+}

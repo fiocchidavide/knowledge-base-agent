@@ -1,0 +1,39 @@
+{
+ "calibre_id": 175,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Tannakian Categories (175)/Tannakian Categories - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Tannakian Categories",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "",
+   "P.Deligne"
+  ],
+  [
+   "",
+   "J.S.Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2025",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 329,
+ "abstract_available": false,
+ "calibre_comment": "Penultimate version (Feb 2025). Free notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Tannakian Categories",
+ "calibre_author_sort": "P.Deligne & J.S.Milne",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Tannakian Categories (175)/Tannakian Categories - J.S. Milne.pdf",
+ "frontmatter_text": "Tannakian Categories\nJ.S. Milne\nThe proof reader at work.\nPenultimate version, February 16, 2025.\nI will begin preparing the final version in September, 2025. In the meantime, please\nsend comments and corrections to me at jmilne@umich.edu.\n\f\nBlurb\nThe idea of tannakian categories, and of their importance for motives, was Grothen-\ndieck\u2019s. He explained it to Saavedra Rivano, who developed the theory of tannakian\ncategories and described their application to motives in his thesis (1972). It was Saavedra\nwho introduced the terminology \u201ctannakian\u201d.\nDeligne removed a major lacuna in the theory of nonneutral tannakian categories,\ngave an internal characterization of a tannakian category in characteristic zero, and\nremoved some unnecessary hypotheses in the theory or polarizations.\nThis is a updated account of the theory of tannakian categories, written in the spirit\nof the 1982 article by Deligne and Milne.\ni\nCorrection: \nIt was Grothendieck, not Saavedra, who introduced the terminology \"tannakian\".\n\f\nContents\nIntroduction\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n1\nI\nTensor Categories\n11\n1\nMonoidal categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n11\n2\nTensor (symmetric monoidal) categories . . . . . . . . . . . . . . . . . .\n15\n3\nTensor functors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n18\n4\nInternal Homs and duals in tensor categories . . . . . . . . . . . . . . .\n20\n5\nRigid tensor categories . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n25\n6\nRigid abelian tensor categories . . . . . . . . . . . . . . . . . . . . . . .\n29\n7\nTannakian categories\n. . . . . . . . . . . . . . . . . . . . . . . . . . . .\n36\n8\nExamples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n40\n9\nAlgebraic geometry in a tensorial category . . . . . . . . . . . . . . . . .\n42\n10\nAn intrinsic characterization of tannakian categories . . . . . . . . . . .\n49\nII Neutral tannakian categories\n57\n1\nAffine group schemes . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n57\n2\nRecovering \ud835\udc3afrom \ud835\uddb1\ud835\uddbe\ud835\uddc9\ud835\uddbf(\ud835\udc3a) . . . . . . . . . . . . . . . . . . . . . . . . .\n61\n3\nThe main theorem . . . . . . . . . . . . . . ",
+ "needs_visual": false,
+ "cover_warnings": []
+}

@@ -1,0 +1,35 @@
+{
+ "calibre_id": 210,
+ "path": "/Users/davide/Calibre Library/Patrick Billingsley/Probability and Measure (210)/Probability and Measure - Patrick Billingsley.pdf",
+ "isbn": "9780471804789",
+ "title": "Probability and Measure",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Patrick",
+   "Billingsley"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "1986",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": "Wiley series in probability and mathematical statistics",
+ "place": "New York",
+ "publisher": "Wiley",
+ "pages": 637,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition (1986), per the file title. NOTE: content could not be verified (file over 64 MB extraction limit). The source filename carried ISBN 9780471007104, which is actually the THIRD edition (1995) \u2014 set here to the 2nd-edition ISBN 9780471804789 to match the stated title; confirm the edition against the PDF if it matters.",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Probability and Measure",
+ "calibre_author_sort": "Billingsley, Patrick",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Patrick Billingsley/Probability and Measure (210)/Probability and Measure - Patrick Billingsley.pdf",
+ "frontmatter_text": "",
+ "needs_visual": true,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)"
+ ]
+}

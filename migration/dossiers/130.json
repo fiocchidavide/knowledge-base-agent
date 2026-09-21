@@ -1,0 +1,44 @@
+{
+ "calibre_id": 130,
+ "path": "/Users/davide/Calibre Library/Alexei Myasnikov/Group-based Cryptography (130)/Group-based Cryptography - Alexei Myasnikov.pdf",
+ "isbn": "9783764388263",
+ "title": "Group-based Cryptography",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Alexei",
+   "Myasnikov"
+  ],
+  [
+   "Vladimir",
+   "Shpilrain"
+  ],
+  [
+   "Alexander",
+   "Ushakov"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2008",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": "Advanced Courses in Mathematics - CRM Barcelona",
+ "place": "Basel",
+ "publisher": "Birkh\u00e4user Basel",
+ "pages": 192,
+ "abstract_available": true,
+ "calibre_comment": "Birkh\u00e4user Basel",
+ "flags": [],
+ "n_sources": 5,
+ "calibre_title": "Group-based Cryptography",
+ "calibre_author_sort": "Alexei Myasnikov, Vladimir Shpilrain, Alexander Ushakov",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Alexei Myasnikov/Group-based Cryptography (130)/Group-based Cryptography - Alexei Myasnikov.pdf",
+ "frontmatter_text": "Advanced Courses in Mathematics\nCRM Barcelona\nCentre de Recerca Matem\u00e0tica\nManaging Editor:\nManuel Castellet\n\f\nAlexei Myasnikov\nVladimir Shpilrain\nAlexander Ushakov\nGroup-based \nCryptography\nBirkh\u00e4user Verlag\nBasel \u00b7 Boston \u00b7 Berlin\n\f\nAuthors: \nAlexei Myasnikov \nVladimir Shpilrain\nDepartment of Mathematics and Statistics\nDepartment of Mathematics\nMcGill University\nThe City College of New York\nMontreal, Quebec H3A 2K6\nNew York, NY 10031\nCanada\nUSA\ne-mail: amiasnikov@gmail.com\ne-mail: shpil@groups.sci.ccny.cuny.edu\nAlexander Ushakov\nDepartment of Mathematics\nStevens Institute of Technology \nHoboken, NJ 07030\nUSA\ne-mail: sasha.ushakov@gmail.com\n2000 Mathematical Subject Classification: 11T71, 20Exx, 20Fxx, 20Hxx, 20P05, 60B15, 68P25, 94A60, 94A62\nLibrary of Congress Control Number: 2008927085\nBibliografische Information Der Deutschen Bibliothek\nDie Deutsche Bibliothek verzeichnet diese Publikation in der Deutschen Nationalbibliografie; detaillierte \nbibliografische Daten sind im Internet \u00fcber <http://dnb.ddb.de> abrufbar.\nISBN 978-3-7643-8826-3 Birkh\u00e4user Verlag, Basel \u00b7 Boston \u00b7 Berlin\nThis work is subject to copyright. All rights are reserved, whether the whole or part of the material is\nconcerned, specifically the rights of translation, reprinting, re-use of illustrations, recitation, broadcasting, \nreproduction on microfilms or in other ways, and storage in data banks. For any kind of use permission of \nthe copyright owner must be obtained. \n\u00a9 2008 Birkh\u00e4user Verlag, P.O. Box 133, CH-4010 Basel, Switzerland\nPart of Springer Science+Business Media\nCover design: Micha Lotrovsky, 4106 Therwil, Switzerland\nPrinted on acid-free paper produced from chlorine-free pulp. TCF \u221e\nPrinted in Germany \nISBN 978-3-7643-8826-3\ne-ISBN 978-3-7643-8827-0\n9 8 7 6 5 4 3 2 1\nwww.birkhauser.ch\n\f\nTo our parents\n\f\nContents\nPreface\nxi\nIntroduction\nxiii\nI\nBackground on Groups, Complexity, and Cryptography\n1\n1\nBackground on Public Key Cryptography\n3\n1.1\nFrom key establishment to encryption\n. . . . . . . . . . . . . . . .\n4\n1.2\nThe Diffie-Hellman key establishment\n. . . . . . . . . . . . . . . .\n5\n1.3\nThe ElGamal cryptosystem . . . . . . . . . . . . . . . . . . . . . .\n6\n1.4\nAuthentication ",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "calibre_id": 171,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Lectures on Etale Cohomology (171)/Lectures on Etale Cohomology - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Lectures on \u00c9tale Cohomology",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2013",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 202,
+ "abstract_available": false,
+ "calibre_comment": "Version 2.21 (2013). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Lectures on \u00c9tale Cohomology",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Lectures on Etale Cohomology (171)/Lectures on Etale Cohomology - J.S. Milne.pdf",
+ "frontmatter_text": "Lectures on\n\u00b4Etale Cohomology\nJ.S. Milne\nVersion 2.21\nMarch 22, 2013\n\f\nThese are the notes for a course taught at the University of Michigan in 1989 and 1998.\nIn comparison with my book, the emphasis is on heuristic arguments rather than formal\nproofs and on varieties rather than schemes. The notes also discuss the proof of the Weil\nconjectures (Grothendieck and Deligne).\nBibTeX information\n@misc{milneLEC,\nauthor={Milne, James S.},\ntitle={Lectures on Etale Cohomology (v2.21)},\nyear={2013},\nnote={Available at www.jmilne.org/math/},\npages={202}\n}\nv2.01 (August 9, 1998). First version on the web; 197 pages.\nv2.10 (May 20, 2008). Fixed many minor errors; changed TeX style; 196 pages\nv2.20 (May 3, 2012). Corrected; minor improvements; 202 pages\nv2.21 (March 22, 2013). Minor corrections. 202 pages\nPlease send comments and corrections to me at the address on my website www.jmilne.\norg/math/\nThe photograph is of Falls creek, Fiordland, New Zealand.\nCopyright c\ufffd1998, 2008, 2012, 2013 J.S. Milne.\nSingle paper copies for noncommercial personal use may be made without explicit permis-\nsion from the copyright holder.\n\f\nTable of Contents\nTable of Contents\n3\nI\nBasic Theory\n7\n1\nIntroduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n2\n\u00b4Etale Morphisms\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n16\n3\nThe \u00b4Etale Fundamental Group\n. . . . . . . . . . . . . . . . . . . . . . . .\n25\n4\nThe Local Ring for the \u00b4Etale Topology . . . . . . . . . . . . . . . . . . . .\n31\n5\nSites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n38\n6\nSheaves for the \u00b4Etale Topology . . . . . . . . . . . . . . . . . . . . . . . .\n42\n7\nThe Category of Sheaves on Xet. . . . . . . . . . . . . . . . . . . . . . . .\n50\n8\nDirect and Inverse Images of Sheaves. . . . . . . . . . . . . . . . . . . . .\n58\n9\nCohomology: Definition and the Basic Properties. . . . . . . . . . . . . . .\n64\n10\n\u02c7Cech Cohomology. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n70\n11\nPrincipal Homogeneous Spaces and H 1. . . . . . . . . . . . . . . . . . . .\n76\n12\nHigher Direct Images; the Leray Spectral Sequence. . . . . . . . . . . . . .\n81\n13\nThe Weil-Divis",
+ "needs_visual": false,
+ "cover_warnings": []
+}

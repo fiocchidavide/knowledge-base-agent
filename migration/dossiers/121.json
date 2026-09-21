@@ -1,0 +1,37 @@
+{
+ "calibre_id": 121,
+ "path": "/Users/davide/Calibre Library/Carl Edward Rasmussen/Gaussian Processes for Machine Learning (121)/Gaussian Processes for Machine Learning - Carl Edward Rasmussen.pdf",
+ "isbn": "9780262182539",
+ "title": "Gaussian Processes for Machine Learning",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Carl Edward",
+   "Rasmussen"
+  ],
+  [
+   "Christopher K. I",
+   "Williams"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2006",
+ "year_src": "openlibrary",
+ "edition": null,
+ "edition_src": null,
+ "series": "Adaptive computation and machine learning",
+ "place": "Cambridge, Mass.",
+ "publisher": "MIT Press",
+ "pages": 266,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "Gaussian Processes for Machine Learning",
+ "calibre_author_sort": "Rasmussen, Carl Edward & Williams, Christopher K. I.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Carl Edward Rasmussen/Gaussian Processes for Machine Learning (121)/Gaussian Processes for Machine Learning - Carl Edward Rasmussen.pdf",
+ "frontmatter_text": "Gaussian Processes for\nMachine Learning\nCarl Edward Rasmussen and Christopher K. I. Williams\n\f\nGaussian Processes for Machine Learning\n\f\nAdaptive Computation and Machine Learning\nThomas Dietterich, Editor\nChristopher Bishop, David Heckerman, Michael Jordan, and Michael Kearns, Associate Editors\nBioinformatics: The Machine Learning Approach,\nPierre Baldi and S\u00f8ren Brunak\nReinforcement Learning: An Introduction,\nRichard S. Sutton and Andrew G. Barto\nGraphical Models for Machine Learning and Digital Communication,\nBrendan J. Frey\nLearning in Graphical Models,\nMichael I. Jordan\nCausation, Prediction, and Search, second edition,\nPeter Spirtes, Clark Glymour, and Richard Scheines\nPrinciples of Data Mining,\nDavid Hand, Heikki Mannila, and Padhraic Smyth\nBioinformatics: The Machine Learning Approach, second edition,\nPierre Baldi and S\u00f8ren Brunak\nLearning Kernel Classifiers: Theory and Algorithms,\nRalf Herbrich\nLearning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond,\nBernhard Sch\u00a8olkopf and Alexander J. Smola\nIntroduction to Machine Learning,\nEthem Alpaydin\nGaussian Processes for Machine Learning,\nCarl Edward Rasmussen and Christopher K. I. Williams\n\f\nGaussian Processes for Machine Learning\nCarl Edward Rasmussen\nChristopher K. I. Williams\nThe MIT Press\nCambridge, Massachusetts\nLondon, England\n\f\nc\u20dd2006 Massachusetts Institute of Technology\nAll rights reserved. No part of this book may be reproduced in any form by any electronic or mechanical\nmeans (including photocopying, recording, or information storage and retrieval) without permission in\nwriting from the publisher.\nMIT Press books may be purchased at special quantity discounts for business or sales promotional use.\nFor information, please email special sales@mitpress.mit.edu or write to Special Sales Department,\nThe MIT Press, 55 Hayward Street, Cambridge, MA 02142.\nTypeset by the authors using LATEX2\u03b5.\nThis book printed and bound in the United States of America.\nLibrary of Congress Cataloging-in-Publication Data\nRasmussen, Carl Edward.\nGaussian processes for machine learning / Carl Edward Rasmussen, Christopher K. I. Williams.\np. cm. \u2014(Adaptive computation and machine learning)\nInclud",
+ "needs_visual": false,
+ "cover_warnings": []
+}

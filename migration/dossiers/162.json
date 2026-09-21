@@ -1,0 +1,33 @@
+{
+ "calibre_id": 162,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Arithmetic Duality Theorems (162)/Arithmetic Duality Theorems - J.S. Milne.pdf",
+ "isbn": "9781419642746",
+ "title": "Arithmetic Duality Theorems",
+ "title_src": "gb",
+ "creators": [
+  [
+   "J. S.",
+   "Milne"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2006",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": null,
+ "publisher": "Booksurge",
+ "pages": 347,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition (2006). First edition: Academic Press, 1986.",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "Arithmetic Duality Theorems",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Arithmetic Duality Theorems (162)/Arithmetic Duality Theorems - J.S. Milne.pdf",
+ "frontmatter_text": "Arithmetic Duality Theorems\nSecond Edition\nJ.S. Milne\n\f\nCopyright c\ufffd2004, 2006 J.S. Milne.\nThe electronic version of this work is licensed under a Creative Commons Li-\ncense:\nhttp://creativecommons.org/licenses/by-nc-nd/2.5/\nBriefly, you are free to copy the electronic version of the work for noncommercial\npurposes under certain conditions (see the link for a precise statement).\nSingle paper copies for noncommercial personal use may be made without ex-\nplicit permission from the copyright holder.\nAll other rights reserved.\nFirst edition published by Academic Press 1986.\nA paperback version of this work is available from booksellers worldwide and\nfrom the publisher:\nBookSurge, LLC, www.booksurge.com, 1-866-308-6235,\norders@booksurge.com\nBibTeX information\n@book{milne2006,\nauthor={J.S. Milne},\ntitle={Arithmetic Duality Theorems},\nyear={2006},\npublisher={BookSurge, LLC},\nedition={Second},\npages={viii+339},\nisbn={1-4196-4274-X}\n}\nQA247 .M554\n\f\nContents\nContents\niii\nI\nGalois Cohomology\n1\n0\nPreliminaries\n. . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2\n1\nDuality relative to a class formation\n. . . . . . . . . . . . . . . .\n17\n2\nLocal fields . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n26\n3\nAbelian varieties over local fields . . . . . . . . . . . . . . . . . .\n40\n4\nGlobal fields . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n48\n5\nGlobal Euler-Poincar\u00b4e characteristics . . . . . . . . . . . . . . . .\n66\n6\nAbelian varieties over global fields . . . . . . . . . . . . . . . . .\n72\n7\nAn application to the conjecture of Birch and Swinnerton-Dyer . .\n93\n8\nAbelian class field theory . . . . . . . . . . . . . . . . . . . . . . 101\n9\nOther applications . . . . . . . . . . . . . . . . . . . . . . . . . . 116\nAppendix A: Class field theory for function fields . . . . . . . . . . . . 126\nII Etale Cohomology\n139\n0\nPreliminaries\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . 139\n1\nLocal results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148\n2\nGlobal results: preliminary calculations\n. . . . . . . . . . . . . . 163\n3\nGlobal results: the main theorem . . . . . . . . . . . . . . . . . . 176\n4\nGlobal results: complements . . . . .",
+ "needs_visual": false,
+ "cover_warnings": []
+}

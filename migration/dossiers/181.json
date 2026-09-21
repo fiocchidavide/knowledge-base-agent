@@ -1,0 +1,35 @@
+{
+ "calibre_id": 181,
+ "path": "/Users/davide/Calibre Library/Sheldon Axler/Measure, Integration & Real Analysis (181)/Measure, Integration & Real Analysis - Sheldon Axler.pdf",
+ "isbn": "9783030331429",
+ "title": "Measure, Integration & Real Analysis",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Sheldon",
+   "Axler"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2020",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": "Graduate Texts in Mathematics",
+ "place": "Cham, Switzerland",
+ "publisher": "Springer",
+ "pages": 426,
+ "abstract_available": true,
+ "calibre_comment": "Open access.",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Measure, Integration & Real Analysis",
+ "calibre_author_sort": "Axler, Sheldon",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Sheldon Axler/Measure, Integration & Real Analysis (181)/Measure, Integration & Real Analysis - Sheldon Axler.pdf",
+ "frontmatter_text": "Measure, Integration\n& Real Analysis\n27 October 2025\nSheldon Axler\n\ufffd\n| f g| d\u00b5 \u2264\n\ufffd\ufffd\n| f |p d\u00b5\n\ufffd1/p\ufffd\ufffd\n|g|p\u2032 d\u00b5\n\ufffd1/p\u2032\n\u00a9 Sheldon Axler 2020. This book is an open access publication.\nThis book is licensed under the terms of the Creative Commons Attribution-NonCommercial 4.0\nInternational License (https://creativecommons.org/licenses/by-nc/4.0), which permits any noncommercial\nuse, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give\nappropriate credit to the original author and the source, provide a link to the Creative Commons license,\nand indicate if changes were made.\nThe images or other third party material in this book are included in the book\u2019s Creative Commons\nlicense, unless indicated otherwise in a credit line to the material. If material is not included in the book\u2019s\nCreative Commons license and your intended use is not permitted by statutory regulation or exceeds the\npermitted use, you will need to obtain permission directly from the copyright holder.\nThe print version of this book appears in\nSpringer\u2019s Graduate Texts in Mathematics series.\nMeasure, Integration & Real Analysis, by Sheldon Axler\n\f\nDedicated to\nPaul Halmos, Don Sarason, and Allen Shields,\nthe three mathematicians who most\nhelped me become a mathematician.\nMeasure, Integration & Real Analysis, by Sheldon Axler\n\f\nAbout the Author\nSheldon Axler was valedictorian of his high school in Miami, Florida. He received his\nAB from Princeton University with highest honors, followed by a PhD in Mathematics\nfrom the University of California at Berkeley.\nAs a postdoctoral Moore Instructor at MIT, Axler received a university-wide\nteaching award. He was then an assistant professor, associate professor, and professor\nat Michigan State University, where he received the first J. Sutherland Frame Teaching\nAward and the Distinguished Faculty Award.\nAxler received the Lester R. Ford Award for expository writing from the Mathe-\nmatical Association of America in 1996. In addition to publishing numerous research\npapers, he is the author of six mathematics textbooks, ranging from freshman to\ngraduate level. His book Linear Algebra Done Right has been adopted as a textbook\nat",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 carries retailer/aggregator text or a URL"
+ ]
+}

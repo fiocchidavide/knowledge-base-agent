@@ -427,6 +427,15 @@ After I have read the pages, each field resolves as:
 
 An empty field is honest; a guessed one poisons a bibliography.
 
+#### Known pitfall: pinned citation keys
+
+Creating items from CSL JSON makes Better BibTeX **pin the CSL `id` as the citation key** —
+either as a `Citation Key:` line in Extra or in Zotero's native `citationKey` field,
+depending on the path. Left alone, every migrated book ends up with a junk key like `b117`.
+After each wave: strip the Extra line with `zotero_batch_update(remove_keys=["Citation Key"])`
+and clear the native field with `zotero_update_item(fields={"citation_key": ""})`, so BBT
+generates a proper key from the metadata.
+
 #### What this costs
 
 Reading front matter is ~10 pages per book and the rendering is instantaneous, so the
@@ -488,6 +497,10 @@ A single idempotency rule makes every step safe to repeat: **never create an ite
 
 - `cp ~/Zotero/zotero.sqlite migration/backup/zotero.sqlite.<date>` — and note that Zotero keeps its own `.bak`.
 - `sqlite3 ~/Calibre\ Library/metadata.db .dump | shasum -a 256` recorded, so any accidental Calibre change is detectable.
+- ⚠ **Zotero runs its SQLite in WAL mode.** Any verification that copies `zotero.sqlite`
+  without `zotero.sqlite-wal` reads a stale database and reports recent writes as missing.
+  This produced a false "0/10 attachments" during wave 1. Always copy the `-wal` (and
+  `-shm`) alongside, or verify through the MCP against the live database.
 - Calibre is **not** written to at all. No Content Server, no `calibre_*` write tool, no `calibre_remove_book`. It stays a complete working fallback until you say otherwise.
 - Rollback at any point: select tag `migration:calibre-2026-09` in Zotero, delete to trash, restore the sqlite backup if it went badly wrong.
 

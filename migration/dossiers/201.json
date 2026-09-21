@@ -1,0 +1,38 @@
+{
+ "calibre_id": 201,
+ "path": "/Users/davide/Calibre Library/Jon Erickson/Hacking_ The Art of Exploitation (201)/Hacking_ The Art of Exploitation - Jon Erickson.pdf",
+ "isbn": "9781593271442",
+ "title": "Hacking: The Art of Exploitation",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Jon",
+   "Erickson"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2008",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": "Heidelberg",
+ "publisher": "No Starch Press",
+ "pages": 492,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition.",
+ "flags": [
+  "title-conflict"
+ ],
+ "n_sources": 3,
+ "calibre_title": "Hacking: The Art of Exploitation",
+ "calibre_author_sort": "Erickson, Jon",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Jon Erickson/Hacking_ The Art of Exploitation (201)/Hacking_ The Art of Exploitation - Jon Erickson.pdf",
+ "frontmatter_text": "jon erickson\nHacking\n2nd Edition\nthe art of exploitation\nCD INside\nhttp://freepdf-books.com\n\f\nhttp://freepdf-books.com\n\f\nPRAISE FOR THE FIRST EDITION OF \nHACKING: THE ART OF EXPLOITATION\n\u201cMost complete tutorial on hacking techniques. Finally a book that does not \njust show how to use the exploits but how to develop them.\u201d\n\u2014PHRACK\n\u201cFrom all the books I\u2019ve read so far, I would consider this the seminal \nhackers handbook.\u201d\n\u2014SECURITY FORUMS\n\u201cI recommend this book for the programming section alone.\u201d\n\u2014UNIX REVIEW \n\u201cI highly recommend this book. It is written by someone who knows of what \nhe speaks, with usable code, tools and examples.\u201d\n\u2014IEEE CIPHER \n\u201cErickson\u2019s book, a compact and no-nonsense guide for novice hackers, \nis filled with real code and hacking techniques and explanations of how \nthey work.\u201d\n\u2014COMPUTER POWER USER (CPU) MAGAZINE\n\u201cThis is an excellent book. Those who are ready to move on to [the next \nlevel] should pick this book up and read it thoroughly.\u201d\n\u2014ABOUT.COM INTERNET/NETWORK SECURITY\nhttp://freepdf-books.com\n\f\nhttp://freepdf-books.com\n\f\nSan Francisco\n\u00ae\nhttp://freepdf-books.com\n\f\nHACKING: THE ART OF EXPLOITATION, 2ND EDITION. Copyright \u00a9 2008 by Jon Erickson.\nAll rights reserved. No part of this work may be reproduced or transmitted in any form or by any means, electronic or \nmechanical, including photocopying, recording, or by any information storage or retrieval system, without the prior \nwritten permission of the copyright owner and the publisher.\n11 10 09 08 07\n1 2 3 4 5 6 7 8 9\nISBN-10: 1-59327-144-1\nISBN-13: 978-1-59327-144-2\nPublisher: William Pollock\nProduction Editors: Christina Samuell and Megan Dunchak\nCover Design: Octopod Studios\nDevelopmental Editor: Tyler Ortman\nTechnical Reviewer: Aaron Adams\nCopyeditors: Dmitry Kirsanov and Megan Dunchak\nCompositors: Christina Samuell and Kathleen Mish\nProofreader: Jim Brook\nIndexer: Nancy Guenther\nFor information on book distributors or translations, please contact No Starch Press, Inc. directly:\nNo Starch Press, Inc.\n555 De Haro Street, Suite 250, San Francisco, CA 94107\nphone: 415.863.9900; fax: 415.863.9950; info@nostarch.com; www.nostarch.com\nLibrary of Congress Cataloging-in-Publication Data\nEr",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 aspect 1.635 differs from the body's 0.773",
+  "page 1 carries retailer/aggregator text or a URL"
+ ]
+}

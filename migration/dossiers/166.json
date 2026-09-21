@@ -1,0 +1,35 @@
+{
+ "calibre_id": 166,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Complex Multiplication (166)/Complex Multiplication - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Complex Multiplication",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2020",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 108,
+ "abstract_available": false,
+ "calibre_comment": "Version 0.10 (2020). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Complex Multiplication",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Complex Multiplication (166)/Complex Multiplication - J.S. Milne.pdf",
+ "frontmatter_text": "Complex Multiplication\nJ.S. Milne\nJuly 14, 2020\n\f\nThese are preliminary notes for a modern account of the theory of complex multipli-\ncation. The article The fundamental theorem of complex multiplication (2007) is a concise\nversion of part of this work. Probably the two should be read together.\nv0.00 April 7, 2006. First version posted on the web; 113 pages.\nv0.10 July 14, 2020. Updated TeX; minor fixes; 108 pages.\nNone\nPlease send comments and corrections to me at jmilne at umich dot edu.\nAvailable at https://www.jmilne.org/math/CourseNotes/\nCopyright c\ufffd2006, 2020. J.S. Milne.\n\f\nContents\nContents\n3\nI\nAnalytic Theory\n8\n1\nCM-algebras and CM-types . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8\nReview of semisimple algebras and their modules 8; CM-algebras 10; CM-types. 11; The\nreflex field of a CM-pair 13; The reflex norm. 14; Classification of the primitive CM-pairs\n18; Positive involutions and CM-algebras 19\n2\nComplex abelian varieties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21\nComplex tori 21; The cohomology of complex tori 23; Hermitian forms and alternating\nforms 24; Riemann forms 25; Abelian varieties 26\n3\nAbelian varieties with complex multiplication . . . . . . . . . . . . . . . . . . 27\nDefinition of CM abelian varieties 27; The reflex field of an abelian variety with complex\nmultiplication 29; Classification up to isogeny 29; Classification up to isomorphism 31\n4\nMumford-Tate groups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31\nReview of algebraic groups of multiplicative type 31; CM-pairs and tori 34; The reflex\nnorm in terms of tori 35; Complex multiplication in terms of tori 35; Mumford-Tate\ngroups 35; Infinity types 37; The Serre group 40\n; Abelian varieties of CM-type 44\n5\nMotives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45\nThe Hodge structure of an abelian variety 45; Abelian motives 45; Hodge structures 45;\nCM-motives 45\nII The Arithmetic Theory\n46\n6\nAbelian varieties and their good reductions\n. . . . . . . . . . . . . . . . . . . 46\nComplex abelian varieties and complex tori 46; Specialization of abelian varieties 48; The\ngood reduction of abelian varieties 48\n7\nAb",
+ "needs_visual": false,
+ "cover_warnings": []
+}

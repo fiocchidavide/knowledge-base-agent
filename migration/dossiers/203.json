@@ -1,0 +1,35 @@
+{
+ "calibre_id": 203,
+ "path": "/Users/davide/Calibre Library/Michael Kerrisk/The Linux Programming Interface (203)/The Linux Programming Interface - Michael Kerrisk.pdf",
+ "isbn": "9781593272203",
+ "title": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Michael",
+   "Kerrisk"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2010",
+ "year_src": "gb",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": "San Francisco, CA",
+ "publisher": "No Starch Press",
+ "pages": 1556,
+ "abstract_available": true,
+ "calibre_comment": "A Linux and UNIX System Programming Handbook.",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "The Linux Programming Interface",
+ "calibre_author_sort": "Kerrisk, Michael",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Michael Kerrisk/The Linux Programming Interface (203)/The Linux Programming Interface - Michael Kerrisk.pdf",
+ "frontmatter_text": "The Linux \nProgramming \ninTerface\nA Linux and UNIX\n\u00ae System Programming Handbook\nMichael KerrisK\n\f\n\f\nPRAISE FOR THE LINUX PROGRAMMING INTERFACE\n\u201cIf I had to choose a single book to sit next to my machine when writing \nsoftware for Linux, this would be it.\u201d\n\u2014MARTIN LANDERS, SOFTWARE ENGINEER, GOOGLE\n\u201cThis book, with its detailed descriptions and examples, contains everything \nyou need to understand the details and nuances of the low-level programming \nAPIs in Linux . . . no matter what the level of reader, there will be something \nto be learnt from this book.\u201d\n\u2014MEL GORMAN, AUTHOR OF Understanding the Linux Virtual Memory Manager\n\u201cMichael Kerrisk has not only written a great book about Linux programming \nand how it relates to various standards, but has also taken care that bugs he \nnoticed got fixed and the man pages were (greatly) improved. In all three \nways, he has made Linux programming easier. The in-depth treatment of \ntopics in The Linux Programming Interface . . . makes it a must-have reference \nfor both new and experienced Linux programmers.\u201d\n\u2014ANDREAS JAEGER, PROGRAM MANAGER, OPENSUSE, NOVELL\n\u201cMichael\u2019s inexhaustible determination to get his information right, and to \nexpress it clearly and concisely, has resulted in a strong reference source for \nprogrammers. While this work is targeted at Linux programmers, it will be of \nvalue to any programmer working in the UNIX/POSIX ecosystem.\u201d\n\u2014DAVID BUTENHOF, AUTHOR OF Programming with POSIX Threads AND \nCONTRIBUTOR TO THE POSIX AND UNIX STANDARDS\n\u201c . . . a very thorough\u2014yet easy to read\u2014explanation of UNIX system and \nnetwork programming, with an emphasis on Linux systems. It\u2019s certainly a \nbook I\u2019d recommend to anybody wanting to get into UNIX programming \n(in general) or to experienced UNIX programmers wanting to know \u2018what\u2019s \nnew\u2019 in the popular GNU/Linux system.\u201d\n\u2014FERNANDO GONT, NETWORK SECURITY RESEARCHER, IETF PARTICIPANT, AND \nRFC AUTHOR\n\f\n\u201c . . . encyclopedic in the breadth and depth of its coverage, and textbook-\nlike in its wealth of worked examples and exercises. Each topic is clearly \nand comprehensively covered, from theory to hands-on working code. \nProfessionals, students, educators, this is the L",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 aspect 1.655 differs from the body's 0.773"
+ ]
+}

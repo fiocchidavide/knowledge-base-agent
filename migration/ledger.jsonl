@@ -1,0 +1,42 @@
+{"ts":"2026-09-21T08:33:37Z","event":"run_start","run":"calibre-2026-09","phase":0,"note":"preflight ok: zotero local writes, mutool 1.28.4, crossref/openlibrary/k10plus 200, 797Gi free"}
+{"ts":"2026-09-21T08:33:37Z","event":"backup","zotero_sqlite":"backup/zotero.sqlite.20260921-1033","calibre_dump_sha256":"9f0ed5c9d8a8b4f8e5497ecb9cd5c51c709d9dc28c466f5596ceb05c5e06b1da"}
+{"ts":"2026-09-21T08:39:01Z","event":"phase1","action":"rename_collection","key":"ECE8GPP9","from":"Dispense","to":"Courses"}
+{"ts":"2026-09-21T08:44:43Z","event":"phase1","action":"create_collection","key":"JVBQQTLZ","name":"Archive"}
+{"ts":"2026-09-21T08:44:43Z","event":"phase1","action":"orphan_parents_created","n":11,"keys":["TT3VTCK8","VRINN3FA","N4JMYAXD","5MAZ2KYL","Z8VJIDVK","5EIMEBH6","GK46QH4A","M5ZL6AJZ","N2IM5IDH","M9VDZB9T","6Z9XNWAB"]}
+{"ts":"2026-09-21T08:44:43Z","event":"phase1","action":"orphan_attachments_reparented","n":21}
+{"ts":"2026-09-21T08:44:43Z","event":"phase1","action":"tagged_existing_items","n":34}
+{"ts":"2026-09-21T08:44:43Z","event":"phase1","action":"stripped_arxiv_tags","items":6}
+{"ts":"2026-09-21T08:44:43Z","event":"phase1","action":"deleted_collections","keys":["8QZA3XSQ","SXAM2U4Q","XN38UK23","TBL8USNQ","GVB8VS4W"],"note":"hard delete; items retained and tagged first; XN38UK23 removed as a child of SXAM2U4Q"}
+{"ts":"2026-09-21T08:44:43Z","event":"phase1","action":"duplicate_found","key":"SWAYP9PC","note":"byte-identical (md5 bd17ebfa3fa7edd2aea1e29705a47ca9) to YEHYCBY5, child of 6TQ7RRP2; left in place pending user confirmation"}
+{"ts":"2026-09-21T08:44:43Z","event":"phase_complete","phase":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":113,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":114,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":115,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":116,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":117,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":118,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":119,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":120,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":121,"wave":1}
+{"ts":"2026-09-21T08:49:37Z","event":"intent","calibre_id":122,"wave":1}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 113, "zotero_key": "E5N9EJ3G"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 114, "zotero_key": "YDUKP7KH"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 115, "zotero_key": "HS55KY5T"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 116, "zotero_key": "ZGQV93PX"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 117, "zotero_key": "HNU9LFQI"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 118, "zotero_key": "WSE84XP5"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 119, "zotero_key": "NJ9R2CIX"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 120, "zotero_key": "FUESMIJ9"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 121, "zotero_key": "ASYPK6KQ"}
+{"ts": "2026-09-21T08:49:50Z", "event": "created", "calibre_id": 122, "zotero_key": "MJTWABEK"}
+{"event": "verified", "calibre_id": 113, "zotero_key": "E5N9EJ3G", "attachment_key": "XSH73KQD", "md5": "bee4c250b5a62c352658d58f91b8dd39", "bytes": 25055430, "tags": 3, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 114, "zotero_key": "YDUKP7KH", "attachment_key": "MIDWI7RA", "md5": "a91d937c924e37fed686192258d59417", "bytes": 23682407, "tags": 3, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 115, "zotero_key": "HS55KY5T", "attachment_key": "SFIQUQIF", "md5": "582eec2862a5779ef614fd1167e1f558", "bytes": 8703621, "tags": 3, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 116, "zotero_key": "ZGQV93PX", "attachment_key": "8ZXP5CI4", "md5": "36ff55cb09b3ce4663c27e7aefd45fe0", "bytes": 19937816, "tags": 4, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 117, "zotero_key": "HNU9LFQI", "attachment_key": "K4WATP6R", "md5": "480391dd6fac7379d594d01e1f2ef108", "bytes": 1519810, "tags": 4, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 118, "zotero_key": "WSE84XP5", "attachment_key": "JLFDFHGR", "md5": "9b28fc2a4a9b21237063bc7e6b42defd", "bytes": 34120380, "tags": 5, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 119, "zotero_key": "NJ9R2CIX", "attachment_key": "BU34QA27", "md5": "8ec4447b7935ee42e078f4848be4c705", "bytes": 6881335, "tags": 3, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 120, "zotero_key": "FUESMIJ9", "attachment_key": "EJMIUNPZ", "md5": "840e8181eb5dc380531fba7a609aea14", "bytes": 21602112, "tags": 3, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 121, "zotero_key": "ASYPK6KQ", "attachment_key": "ZEG7Y8GS", "md5": "f108fe6b4dd2bded36e456920c19a595", "bytes": 2815417, "tags": 4, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"event": "verified", "calibre_id": 122, "zotero_key": "MJTWABEK", "attachment_key": "EMHFCDXJ", "md5": "44bf8ae4fd6eb0c873190856f9ec6b35", "bytes": 19287796, "tags": 4, "status": "done", "ts": "2026-09-21T08:52:29Z"}
+{"ts": "2026-09-21T08:52:29Z", "event": "wave_complete", "wave": 1, "done": 10}

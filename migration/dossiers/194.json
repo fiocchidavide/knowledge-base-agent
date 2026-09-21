@@ -1,0 +1,40 @@
+{
+ "calibre_id": 194,
+ "path": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Modern Operating Systems (5th Edition) (194)/Modern Operating Systems (5th Edition) - Andrew S. Tanenbaum.pdf",
+ "isbn": "9780137618873",
+ "title": "Modern Operating Systems",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Andrew S.",
+   "Tanenbaum"
+  ],
+  [
+   "Herbert",
+   "Bos"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2022",
+ "year_src": "gb",
+ "edition": 5,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": null,
+ "publisher": "Pearson",
+ "pages": 1185,
+ "abstract_available": false,
+ "calibre_comment": "Fifth Edition (2023).",
+ "flags": [],
+ "n_sources": 2,
+ "calibre_title": "Modern Operating Systems (5th Edition)",
+ "calibre_author_sort": "Tanenbaum, Andrew S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Modern Operating Systems (5th Edition) (194)/Modern Operating Systems (5th Edition) - Andrew S. Tanenbaum.pdf",
+ "frontmatter_text": "MODERN\nOPERATING SYSTEMS\nFIFTH EDITION\n\f\nThis page intentionally left blank \n\f\nMODERN\nOPERATING SYSTEMS\nFIFTH EDITION\nANDREW S. TANENBAUM\nHERBERT BOS\nVrije Universiteit\nAmsterdam, The Netherlands\n\f\nContent Management: Tracy Johnson, Erin Sullivan\nContent Production: Carole Snyder, Pallavi Pandit\nProduct Management: Holly Stark\nProduct Marketing: Krista Clark\nRights and Permissions: Anjali Singh\nPlease contact https://support.pearson.com/getsupport/s/ with any queries on this content.\nCover Image by Jason Consalvo.\nMicrosoft and/or its respective suppliers make no representations about the suitability of the information \ncontained in the documents and related graphics published as part of the services for any purpose. All such \n documents and related graphics are provided \u201cas is\u201d without warranty of any kind. Microsoft and/or its \nrespective suppliers hereby disclaim all warranties and conditions with regard to this information, including \nall warranties and conditions of merchantability, whether express, implied or statutory, fitness for a particular \npurpose, title and non-infringement. In no event shall Microsoft and/or its respective suppliers be liable for \nany special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or \nprofits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with \nthe use or performance of information available from the services.\nThe documents and related graphics contained herein could include technical inaccuracies or typographical \nerrors. Changes are periodically added to the information herein. Microsoft and/or its respective suppliers \nmay make improvements and/or changes in the product(s) and/or the program(s) described herein at any time. \nPartial screen shots may be viewed in full within the software version specified.\nMicrosoft\u00ae and Windows\u00ae are registered trademarks of the Microsoft Corporation in the U.S.A. and other \ncountries. This book is not sponsored or endorsed by or affiliated with the Microsoft Corporation.\nCopyright \u00a9 2023, 2014, 2008 by Pearson Education, Inc. or its affiliates, 221 River Street, Hoboken, NJ 07030. \nAll",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

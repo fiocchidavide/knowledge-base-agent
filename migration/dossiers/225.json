@@ -1,0 +1,36 @@
+{
+ "calibre_id": 225,
+ "path": "/Users/davide/Calibre Library/Walter Rudin/Principles of Mathematical Analysis (225)/Principles of Mathematical Analysis - Walter Rudin.pdf",
+ "isbn": "9780070542358",
+ "title": "Principles of Mathematical Analysis",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "Walter",
+   "Rudin"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "1976",
+ "year_src": "openlibrary",
+ "edition": 3,
+ "edition_src": "calibre_comment",
+ "series": "International series in pure and applied mathematics",
+ "place": "New York",
+ "publisher": "McGraw-Hill",
+ "pages": 388,
+ "abstract_available": false,
+ "calibre_comment": "Community-retyped edition of the 3rd edition (original: McGraw-Hill, 1976); not an official publisher release.",
+ "flags": [],
+ "n_sources": 2,
+ "calibre_title": "Principles of Mathematical Analysis",
+ "calibre_author_sort": "althea",
+ "calibre_tags": "Mathematics,Analysis",
+ "file": "/Users/davide/Calibre Library/Walter Rudin/Principles of Mathematical Analysis (225)/Principles of Mathematical Analysis - Walter Rudin.pdf",
+ "frontmatter_text": "Principles of\nMathematical\nAnalysis\nWALTER RUDIN\nThird Edition\n\f\nPrinciples of Mathematical Analysis\nThird Edition\nWalter Rudin\n\f\nForeword\nWell, I have decided to completely retype Rudin\u2019s Principles of Mathemat-\nical Analysis from scratch. There really are not many compelling reasons\nto do this\u2014I decided to begin the project just because I was tired of the\nfact that any time I wanted to consult Rudin, I had to pull up a scanned\ncopy of a book from the 1970s. Is this a good reason? Probably not, as\nwho will find value in this document? The main group of people that need\nto consult Rudin are undergraduates in analysis courses that use Rudin.\nBut somebody has to do the work that nobody else will.\nMy original plan was to type 2 pages per day and be done in six months.\nHowever, to my surprise, five other people were willing to help me by\ntypesetting some of the chapters. This made the work go much faster than\nit otherwise would have, and probably prevented me from only typing the\nfirst seven chapters before calling it quits. Thank you. Of course, all of us\nwill remain anonymous due to the fact that this is a blatant violation of\ncopyright law.\nI have made modifications in several places, including global changes to\nRudin\u2019s outdated (or simply bad) notation. These changes are:\n\u2022 Rather than denoting the field of real numbers by R and the field of\nrational numbers by Q, I have denoted them by R and Q, respectively.\nThe same is true for Rk.\n\u2022 Rather than denoting the set of positive integers by J, I denote it by\nN.\n\u2022 Rather than denoting sequences by {sk}, they are denoted by (sk)\nor (sk)\u221e\nk=1.\nA real valued sequence is an element of the product\nRN, and so modern notation has one write them as ordered tuples.\nThe notation {sk} appears to define the range of a sequence, not the\nsequence itself.\n\u2022 Rather than denoting an ordered k-tuple by {i1, . . . , ik} as Rudin\ni\n\f\nii\ndoes in Theorem 10.14, I have used the notation (i1, . . . , ik). That\nRudin does not do this is especially strange, given the fact that he\ndoes use this notation in Definition 9.33.\n\u2022 Some sections, such as Definition 10.18, have been converted into a\ndefinition environment, as that is what their essen",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "calibre_id": 238,
+ "path": "/Users/davide/Calibre Library/Robert W. Keener/Theoretical Statistics_ Topics for a Core Course (238)/Theoretical Statistics_ Topics for a Core - Robert W. Keener.pdf",
+ "isbn": "9780387938387",
+ "title": "Theoretical Statistics: Topics for a Core Course",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Robert W",
+   "Keener"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2010",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": "Springer Texts in Statistics",
+ "place": "New York, NY",
+ "publisher": "Springer",
+ "pages": 543,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Theoretical Statistics: Topics for a Core Course",
+ "calibre_author_sort": "Keener, Robert W.",
+ "calibre_tags": "Mathematics,Textbook,Statistics",
+ "file": "/Users/davide/Calibre Library/Robert W. Keener/Theoretical Statistics_ Topics for a Core Course (238)/Theoretical Statistics_ Topics for a Core - Robert W. Keener.pdf",
+ "frontmatter_text": "For other titles published in this series, go to\n \nG. Casella \nS. Fienberg \nI. Olkin \n \nwww.springer.com/series/417\nSeries Editors \nSpringer Texts in Statistics\n\f\n \n \n\f\nRobert W. Keener\nTheoretical Statistics\nTopics for a Core Course\n\f\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nsubject to proprietary rights. \n \nPrinted on acid-free paper \n \nSpringer is part of Springer Science+Business Media (www.springer.com) \nISSN 1431-875X\nISBN 978-0-387-93838-7 \nDOI 10.1007/978-0-387-93839-4 \nSpringer New York Dordrecht Heidelberg London \nLibrary of Congress Control Number: 2010935925\n\u00a9 Springer Science+Business Media, LLC 2010\nAll rights reserved. This work may not be translated or copied in whole or in part without the written\npermission of the publisher (Springer Science+Business Media, LLC, 233 Spring Street, New York,\nNY 10013, USA), except for brief excerpts in connection with reviews or scholarly analysis. Use in \nconnection with any form of information storage and retrieval, electronic adaptation, computer \nsoftware, or by similar or dissimilar methodology now known or hereafter developed is forbidden. \nThe use in this publication of trade names, trademarks, service marks, and similar terms, even if they \nare not identified as such, is not to be taken as an expression of opinion as to whether or not they are \ne-ISBN 978-0-387-93839-4\n \nDepartment of Statistics \nCarnegie Mellon University \nUSA \nDepartment of Statistics\nUniversity of Florida\nGainesville, \nStephen Fienberg\nPittsburgh, PA 15213-3890 \nDepartment of Statistics \nUSA \nStanford University \nStanford, CA 94305\nFL 32611-8545\nUSA\nIngram Olkin\nGeorge Casella\nSeries Editors: \nRobert W. Keener\nDepartment of Statistics\nUniversity of Michigan\nAnn Arbor, MI 48109-1092\nUSA\n\f\nTo Michael, Herman, Carl, and Billy\n\f\n \n\f\nPreface\nThis book evolved from my notes for a three-semester sequence of core courses\non theoretical statistics for doctoral students at the University of Michigan.\nWhen I first started teaching these courses, I used Theory of Point Estimation\nand Testing Statistical Hypotheses by Lehmann as texts, classic books that\nhave certainly influenced my writings.\nTo appreciate this book students will need a background in advan",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

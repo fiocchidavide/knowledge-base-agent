@@ -1,0 +1,37 @@
+{
+ "calibre_id": 174,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Reductive Groups (174)/Reductive Groups - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Reductive Groups",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2018",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 139,
+ "abstract_available": false,
+ "calibre_comment": "Version 2.00 (2018). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Reductive Groups",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Reductive Groups (174)/Reductive Groups - J.S. Milne.pdf",
+ "frontmatter_text": "Reductive Groups\nJ. S. Milne\nMarch 10, 2018, v2.00\nAbstract\nThese notes are a guide to algebraic groups, especially reductive groups, over a\nfield. Proofs are usually omitted or only sketched. The only prerequisite is a basic\nknowledge of commutative algebra and the language of modern algebraic geometry.\nMy goal in these notes is to write a modern successor to the review articles Springer\n1979, 1994.\nCaution: These notes will be revised without warning (the numbering may change).\nContents\nIntroduction\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n2\n1\nReview of algebraic schemes over a field\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n4\n2\nAlgebraic groups over a field; geometric properties.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n8\n3\nExamples of algebraic groups\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n10\n4\nGroup theory\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n15\n5\nRepresentations\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n22\n6\nSome basic constructions .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n26\n7\nTannaka duality and applications .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n33\n8\nThe Lie algebra of an algebraic group\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n37\n9\nGroups of multiplicative type\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n40\n10\nAlgebraic groups acting on schemes .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n43\n11\nHomogeneous spaces\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n45\n12\nTori acting on schemes .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n47\n13\nUnipotent groups .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n52\n14\nSolvable algebraic groups .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n58\n15\nBorel and Cartan subgroups .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n63\n16\nIsogenies and universal covers .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n67\n17\nSemisimple and reductive groups .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n71\n18\nSplit semisimple groups and their root systems .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n82\n19\nSplit reductive groups and their root data\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n92\n20\nRepresentations of reductive groups .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n102\n21\nConstruction of the semisimple groups .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n112\n22\nParabolic subgroups of reductive groups\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n125\n23\nThe small root system .\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 carries retailer/aggregator text or a URL"
+ ]
+}

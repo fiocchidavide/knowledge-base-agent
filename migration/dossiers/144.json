@@ -1,0 +1,33 @@
+{
+ "calibre_id": 144,
+ "path": "/Users/davide/Calibre Library/Robert Johansson/Numerical Python_ Scientific Computing and Data Science Applications with Numpy, SciPy and Matp (144)/Numerical Python_ Scientific Computing and - Robert Johansson.pdf",
+ "isbn": "9781484242452",
+ "title": "Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Robert",
+   "Johansson"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2019",
+ "year_src": "crossref",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": null,
+ "publisher": "Apress",
+ "pages": 1221,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition.",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib",
+ "calibre_author_sort": "Johansson, Robert",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Robert Johansson/Numerical Python_ Scientific Computing and Data Science Applications with Numpy, SciPy and Matp (144)/Numerical Python_ Scientific Computing and - Robert Johansson.pdf",
+ "frontmatter_text": "Numerical \nPython\nScientific Computing and Data Science \nApplications with Numpy, \nSciPy and Matplotlib\n\u2014\nSecond Edition\n\u2014\nRobert Johansson\n\f\nNumerical Python\nScientific Computing and Data \nScience Applications with Numpy, \nSciPy and Matplotlib\nSecond Edition\nRobert Johansson\n\f\nNumerical Python: Scientific Computing and Data Science Applications with \nNumpy, SciPy and Matplotlib\nISBN-13 (pbk): 978-1-4842-4245-2 \n \n \nISBN-13 (electronic): 978-1-4842-4246-9\nhttps://doi.org/10.1007/978-1-4842-4246-9\nLibrary of Congress Control Number: 2018966798\nCopyright \u00a9 2019 by Robert Johansson \nThis work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the \nmaterial is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, \nbroadcasting, reproduction on microfilms or in any other physical way, and transmission or information \nstorage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now \nknown or hereafter developed.\nTrademarked names, logos, and images may appear in this book. Rather than use a trademark symbol with \nevery occurrence of a trademarked name, logo, or image we use the names, logos, and images only in an \neditorial fashion and to the benefit of the trademark owner, with no intention of infringement of the \ntrademark. \nThe use in this publication of trade names, trademarks, service marks, and similar terms, even if they are not \nidentified as such, is not to be taken as an expression of opinion as to whether or not they are subject to \nproprietary rights.\nWhile the advice and information in this book are believed to be true and accurate at the date of publication, \nneither the authors nor the editors nor the publisher can accept any legal responsibility for any errors or \nomissions that may be made. The publisher makes no warranty, express or implied, with respect to the \nmaterial contained herein.\nManaging Director, Apress Media LLC: Welmoed Spahr\nAcquisitions Editor: Todd Green\nDevelopment Editor: James Markham\nCoordinating Editor: Jill Balzano\nCover designed by eStudioCalamar\nCover image designed by Freepik (www.freepik.com)\n",
+ "needs_visual": false,
+ "cover_warnings": []
+}

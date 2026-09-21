@@ -1,0 +1,33 @@
+{
+ "calibre_id": 151,
+ "path": "/Users/davide/Calibre Library/Enrico Schlesinger/Algebra lineare e geometria (151)/Algebra lineare e geometria - Enrico Schlesinger.pdf",
+ "isbn": "9788808520692",
+ "title": "Algebra lineare e geometria",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "Enrico",
+   "Schlesinger"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2017",
+ "year_src": "openlibrary",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": null,
+ "publisher": "Zanichelli",
+ "pages": 492,
+ "abstract_available": false,
+ "calibre_comment": "Seconda edizione.",
+ "flags": [],
+ "n_sources": 1,
+ "calibre_title": "Algebra lineare e geometria",
+ "calibre_author_sort": "Schlesinger, Enrico",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Enrico Schlesinger/Algebra lineare e geometria (151)/Algebra lineare e geometria - Enrico Schlesinger.pdf",
+ "frontmatter_text": "Indice generale\nP refazione alla seconda edizione\nP refazione alla prima edizione\n1 \nSpazio euclideo e vettori\n1\n2\n3\n4\n5\n6\n7\n8\nIntroduzione\nRichiami di geometria euclidea nello spazio\nDalla geometria all\u2019algebra dei vettori\nSistemi di riferimento e coordinate\n4.1 \nSistema di riferimento in un piano\n4.2 \nSistemi di riferimento nello spazio\nCoordinate cartesiane nello spazio\nProiezioni ortogonali e prodotto scalare\nProdotto vettoriale e prodotto misto\nGeometria analitica di rette e piani nello spazio\n8.1 \nEquazioni parametriche di una retta\n8.2 \nEquazione cartesiana di un piano\n8.3 \nEquazioni cartesiane di una retta nello spazio\n8.4 \nEquazioni parametriche di un piano nello spazio\n8.5 \nDistanza di due punti. Equazione di una sfera\n8.6 \nDistanza tra un punto e un piano\n8.7 \nDistanza tra un punto e una retta nello spazio\n8.8 \nDistanza tra due rette\n2 Sistemi lineari\n1\n2\n3\n4\n5\n6\nIntroduzione\nEquazioni lineari\nEsempi introduttivi\nVettori colonna\nSistemi lineari e matrici\nMetodo di eliminazione di Gauss\n6.1 \nOperazioni elementari sulle righe\n6.2 \nL \u2019algoritmo di Gauss\n6.3 \nRango di una matrice. Teoremi di Cramer e Rouch\u00e9- Capelli\n3 Algebra delle matrici\n1\n2\n3\n4\n5\n6\n7\n8\nIntroduzione\nSomma e prodotto per uno scalare\nIl prodotto righe per colonne\nMatrici invertibili\nMatrice trasposta. Matrici simmetriche\nL\u2019algoritmo di Gauss-Jordan e il calcolo dell\u2019inversa\nFattorizzazione L U\n7.1 \nLa fattorizzazione nel caso non siano necessari scambi di righe\n7.2 \nLa fattorizzazione nel caso generale\nProdotto di matrici a blocchi\nV\nV\n1\n1\n4\n10\n21\n21\n25\n30\n33\n40\n46\n46\n54\n56\n58\n59\n60\n61\n63\n67\n67\n68\n70\n75\n78\n84\n88\n89\n94\n109\n109\n111\n112\n118\n123\n127\n131\n131\n137\n140\n\f\niv Indice generale\n4 Spazi vettoriali e applicazioni lineari\n1\n2\n3\n4\n5\n6\n7\n8\n9\n1\n1\n1\n0\n1\n2\nIntroduzione\nSpazi vettoriali: assiomi ed esempi\nApplicazioni lineari\nBasi\nNucleo, immagine e Insiemi di generatori\nFibre e criterio di iniettivit\u00e0\nIndipendenza lineare\nDimensione\nRango di una matrice\nIl teorema di rappresentazione\nTeorema di nullit\u00e0 pi\u00f9 rango e applicazioni\nSomma diretta e formula di Grassmann\n5 Determinante\n1\n2\n3\n4\nta)\n6\n7\n8\nIntroduzione\nDeterminante e mosse di Gauss\nDeterminante di matrici di permutazione\nFormula esplici",
+ "needs_visual": false,
+ "cover_warnings": []
+}

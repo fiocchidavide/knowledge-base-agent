@@ -1,0 +1,40 @@
+{
+ "calibre_id": 119,
+ "path": "/Users/davide/Calibre Library/Stephen Boyd/Convex Optimization (119)/Convex Optimization - Stephen Boyd.pdf",
+ "isbn": "9780521833783",
+ "title": "Convex Optimization",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Stephen P",
+   "Boyd"
+  ],
+  [
+   "Lieven",
+   "Vandenberghe"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2004",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": "Cambridge",
+ "publisher": "Cambridge University Press",
+ "pages": 714,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 5,
+ "calibre_title": "Convex Optimization",
+ "calibre_author_sort": "Stephen Boyd, Lieven Vandenberghe",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Stephen Boyd/Convex Optimization (119)/Convex Optimization - Stephen Boyd.pdf",
+ "frontmatter_text": "Convex Optimization\n\f\n\f\nConvex Optimization\nStephen Boyd\nDepartment of Electrical Engineering\nStanford University\nLieven Vandenberghe\nElectrical Engineering Department\nUniversity of California, Los Angeles\n\f\ncambridge university press\nCambridge, New York, Melbourne, Madrid, Cape Town, Singapore, S\u02dcao Paolo, Delhi\nCambridge University Press\nThe Edinburgh Building, Cambridge, CB2 8RU, UK\nPublished in the United States of America by Cambridge University Press, New York\nhttp://www.cambridge.org\nInformation on this title: www.cambridge.org/9780521833783\n\u00a9 Cambridge University Press 2004\nThis publication is in copyright. Subject to statutory exception\nand to the provisions of relevant collective licensing agreements,\nno reproduction of any part may take place without\nthe written permission of Cambridge University Press.\nFirst published 2004\nSeventh printing with corrections 2009\nPrinted in the United Kingdom at the University Press, Cambridge\nA catalogue record for this publication is available from the British Library\nLibrary of Congress Cataloguing-in-Publication data\nBoyd, Stephen P.\nConvex Optimization / Stephen Boyd & Lieven Vandenberghe\np. cm.\nIncludes bibliographical references and index.\nISBN 0 521 83378 7\n1. Mathematical optimization. 2. Convex functions. I. Vandenberghe, Lieven. II. Title.\nQA402.5.B69 2004\n519.6\u2013dc22\n2003063284\nISBN 978-0-521-83378-3 hardback\nCambridge University Press has no responsiblity for the persistency or accuracy of URLs\nfor external or third-party internet websites referred to in this publication, and does not\nguarantee that any content on such websites is, or will remain, accurate or appropriate.\n\f\nFor\nAnna, Nicholas, and Nora\nDani\u00a8el and Margriet\n\f\n\f\nContents\nPreface\nxi\n1\nIntroduction\n1\n1.1\nMathematical optimization . . . . . . . . . . . . . . . . . . . . . . . .\n1\n1.2\nLeast-squares and linear programming\n. . . . . . . . . . . . . . . . . .\n4\n1.3\nConvex optimization . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n1.4\nNonlinear optimization\n. . . . . . . . . . . . . . . . . . . . . . . . . .\n9\n1.5\nOutline . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n11\n1.6\nNotation . . . . . . . . . . . . . . . . ",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

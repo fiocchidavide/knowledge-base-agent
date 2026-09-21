@@ -1,0 +1,40 @@
+{
+ "calibre_id": 118,
+ "path": "/Users/davide/Calibre Library/Stuart J. Russell/Artificial Intelligence_ A Modern Approach (118)/Artificial Intelligence_ A Modern Approach - Stuart J. Russell.pdf",
+ "isbn": "9780134610993",
+ "title": "Artificial Intelligence: A Modern Approach",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Stuart",
+   "Russell"
+  ],
+  [
+   "Peter",
+   "Norvig"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2021",
+ "year_src": "pdf",
+ "edition": 4,
+ "edition_src": "calibre_comment",
+ "series": "Pearson Series in Artificial Intelligence",
+ "place": "Hoboken, NJ",
+ "publisher": "Pearson",
+ "pages": 1167,
+ "abstract_available": true,
+ "calibre_comment": "Fourth Edition, Global Edition.",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Artificial Intelligence: A Modern Approach",
+ "calibre_author_sort": "Norvig, Stuart Russell / Peter",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Stuart J. Russell/Artificial Intelligence_ A Modern Approach (118)/Artificial Intelligence_ A Modern Approach - Stuart J. Russell.pdf",
+ "frontmatter_text": "GLOBAL \nEDITION\n\f\nArtificial Intelligence\nA Modern Approach\nFourth Edition\nGlobal Edition\n\f\nPEARSON SERIES\nIN ARTIFICIAL INTELLIGENCE\nStuart Russell and Peter Norvig, Editors\nFORSYTH & PONCE\nComputer Vision: A Modern Approach, 2nd ed.\nGRAHAM\nANSI Common Lisp\nJURAFSKY & MARTIN\nSpeech and Language Processing, 2nd ed.\nNEAPOLITAN\nLearning Bayesian Networks\nRUSSELL & NORVIG\nArtificial Intelligence: A Modern Approach, 4th ed.\n\f\nArtificial Intelligence\nA Modern Approach\nFourth Edition\nGlobal Edition\nStuart J. Russell and Peter Norvig\nContributing writers:\nMing-Wei Chang\nJacob Devlin\nAnca Dragan\nDavid Forsyth\nIan Goodfellow\nJitendra M. Malik\nVikash Mansinghka\nJudea Pearl\nMichael Wooldridge\n\f\nCover Image credits: Alan Turing: Science History Images/Alamy Stock Photo; Statue of Aristotle: \nPanos Karas/Shutterstock; Ada Lovelace \u2013 Pictorial Press Ltd/Alamy Stock Photo; Autonomous cars: \nAndrey Suslov/Shutterstock; Atlas Robot: Boston Dynamics, Inc.; Berkeley Campanile and Golden \nGate Bridge: Ben Chu/Shutterstock; Background ghosted nodes: Eugene Sergeev/Alamy Stock Photo; \nChess board with chess figure: Titania/Shutterstock; Mars Rover: Stocktrek Images, Inc./Alamy Stock \nPhoto; Kasparov: KATHY WILLENS/AP Images \n \nPearson Education Limited \nKAO Two \nKAO Park \nHockham Way \nHarlow \nCM17 9SR \nUnited Kingdom \n \nand Associated Companies throughout the world \n \nVisit us on the World Wide Web at: www.pearsonglobaleditions.com \n \nPlease contact https://support.pearson.com/getsupport/s/contactsupport with any queries on this content \n\u00a9 Pearson Education Limited 2022 \n \nThe rights of Stuart Russell and Peter Norvig to be identified as the authors of this work have been asserted by them in accordance \nwith the Copyright, Designs and Patents Act 1988. \n \nAuthorized adaptation from the United States edition, entitled Artificial Intelligence: A Modern Approach, 4th Edition, ISBN 978-0-\n13-461099-3 by Stuart J. Russell and Peter Norvig, published by Pearson Education \u00a9 2021. \n \nAll rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any \nmeans, electronic, mechanical, photocopying, recording or otherwise, withou",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

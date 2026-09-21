@@ -1,0 +1,33 @@
+{
+ "calibre_id": 135,
+ "path": "/Users/davide/Calibre Library/Paul C. van Oorschot/Computer Security and the Internet_ Tools and Jewels (135)/Computer Security and the Internet_ Tools - Paul C. van Oorschot.pdf",
+ "isbn": "9783030336486",
+ "title": "Computer Security and the Internet: Tools and Jewels",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Paul C",
+   "van Oorschot"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2020",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": "Information Security and Cryptography",
+ "place": "Cham",
+ "publisher": "Springer",
+ "pages": 381,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Computer Security and the Internet: Tools and Jewels",
+ "calibre_author_sort": "Author-names",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Paul C. van Oorschot/Computer Security and the Internet_ Tools and Jewels (135)/Computer Security and the Internet_ Tools - Paul C. van Oorschot.pdf",
+ "frontmatter_text": "Information Security and Cryptography\nPaul C. van Oorschot\nComputer \nSecurity and \nthe Internet\nTools and Jewels\n\f\nInformation Security and Cryptography\nMore information about this series at http://www.springer.com/series/4752\nSeries Editors\nDavid Basin\nKenny Paterson\nAdvisory Board\nMichael Backes\nGilles Barthe\nRonald Cramer\nIvan Damg\u00e5rd\nAndrew D. Gordon\nJoshua D. Guttman\nUeli Maurer\nTatsuaki Okamoto\nBart Preneel\nChristopher Kruegel\nAdrian Perrig\n\f\nPaul C. van Oorschot \nComputer Security \nand the Internet \nTools and Jewels\n\f\nPaul C. van Oorschot \nSchool of Computer Science \nCarleton University \nOttawa, ON, Canada \n \n \nISSN 1619-7100 \n \nISSN 2197-845X (electronic) \nInformation Security and Cryptography \nISBN 978-3-030-33648-6 \n(eBook)\n \nhttps://doi.org/10.1007/978-3-030-33649-3 \n \n\u00a9 The Author(s) 2020 \nThis work is subject to copyright. All rights are reserved by the Publisher, whether the whole or \npart of the material is concerned, specifically the rights of translation, reprinting, reuse of \nillustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, \nand transmission or information storage and retrieval, electronic adaptation, computer software, \nor by similar or dissimilar methodology now known or hereafter developed. \nThe use of general descriptive names, registered names, trademarks, service marks, etc. in this \npublication does not imply, even in the absence of a specific statement, that such names are \nexempt from the relevant protective laws and regulations and therefore free for general use. \nThe publisher, the authors, and the editors are safe to assume that the advice and information in \nthis book are believed to be true and accurate at the date of publication. Neither the publisher \nnor the authors or the editors give a warranty, expressed or implied, with respect to the material \ncontained herein or for any errors or omissions that may have been made. The publisher remains \nneutral with regard to jurisdictional claims in published maps and institutional affiliations. \n \nThis Springer imprint is published by the registered company Springer Nature Switzerland AG \nThe registered company address is: Gewerbestrasse ",
+ "needs_visual": false,
+ "cover_warnings": []
+}

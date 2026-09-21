@@ -1,0 +1,44 @@
+{
+ "calibre_id": 133,
+ "path": "/Users/davide/Calibre Library/David Basin/Applied Information Security_ A Hands-on Approach (133)/Applied Information Security_ A Hands-on A - David Basin.pdf",
+ "isbn": "9783642244735",
+ "title": "Applied Information Security: A Hands-on Approach",
+ "title_src": "gb",
+ "creators": [
+  [
+   "David",
+   "Basin"
+  ],
+  [
+   "Patrick",
+   "Schaller"
+  ],
+  [
+   "Michael",
+   "Schl\u00e4pfer"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2011",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": "Berlin, Heidelberg",
+ "publisher": "Springer Berlin Heidelberg",
+ "pages": 209,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Applied Information Security: A Hands-on Approach",
+ "calibre_author_sort": "Basin, David & Schaller, Patrick & Schl\u00e4pfer, Michael",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/David Basin/Applied Information Security_ A Hands-on Approach (133)/Applied Information Security_ A Hands-on A - David Basin.pdf",
+ "frontmatter_text": "Applied Information Security\n\f\nDavid Basin r Patrick Schaller r Michael Schl\u00e4pfer\nApplied\nInformation\nSecurity\nA Hands-on Approach\n\f\nProf. Dr. David Basin\nETH Zurich\nZurich\nSwitzerland\nbasin@inf.ethz.ch\nDr. Patrick Schaller\nETH Zurich\nZurich\nSwitzerland\npatrick.schaller@inf.ethz.ch\nMichael Schl\u00e4pfer\nETH Zurich\nZurich\nSwitzerland\nmichschl@inf.ethz.ch\nISBN 978-3-642-24473-5\ne-ISBN 978-3-642-24474-2\nDOI 10.1007/978-3-642-24474-2\nSpringer Heidelberg Dordrecht London New York\nLibrary of Congress Control Number: 2011941698\nACM Classification (1998): K.6.5, K.4.4, D.4.6, E.3\n\u00a9 Springer-Verlag Berlin Heidelberg 2011\nThis work is subject to copyright. All rights are reserved, whether the whole or part of the material is\nconcerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting,\nreproduction on microfilm or in any other way, and storage in data banks. Duplication of this publication\nor parts thereof is permitted only under the provisions of the German Copyright Law of September 9,\n1965, in its current version, and permission for use must always be obtained from Springer. Violations\nare liable to prosecution under the German Copyright Law.\nThe use of general descriptive names, registered names, trademarks, etc. in this publication does not\nimply, even in the absence of a specific statement, that such names are exempt from the relevant protective\nlaws and regulations and therefore free for general use.\nCover design: deblik, Berlin\nPrinted on acid-free paper\nSpringer is part of Springer Science+Business Media (www.springer.com)\n\f\nTo our families for their support and to the\nmembers of the Institute of Information\nSecurity Group at ETH Zurich for their input\nand feedback.\n\f\nPreface\nOver the past decades, information security has emerged from being a specialist\ntopic studied primarily by military cryptographers to being a general subject area\nrelevant for every professional who wishes to better understand, develop, or use\nmodern information and communication systems. Most courses on information se-\ncurity emphasize theory and basic concepts: cryptography, algorithms, protocols,\nmodels and selected applications. This is esse",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

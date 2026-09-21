@@ -1,0 +1,33 @@
+{
+ "calibre_id": 153,
+ "path": "/Users/davide/Calibre Library/Terence Tao/An Introduction to Measure Theory (153)/An Introduction to Measure Theory - Terence Tao.pdf",
+ "isbn": "9780821869192",
+ "title": "An Introduction to Measure Theory",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Terence",
+   "Tao"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2011",
+ "year_src": "gb",
+ "edition": null,
+ "edition_src": null,
+ "series": "Graduate Studies in Mathematics",
+ "place": "Providence, Rhode Island",
+ "publisher": "American Mathematical Society",
+ "pages": 265,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "An Introduction to Measure Theory",
+ "calibre_author_sort": "Tao, Terence",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Terence Tao/An Introduction to Measure Theory (153)/An Introduction to Measure Theory - Terence Tao.pdf",
+ "frontmatter_text": "An introduction to measure theory\nTerence Tao\nDepartment of Mathematics, UCLA, Los Angeles, CA\n90095\nE-mail address: tao@math.ucla.edu\n\f\n\f\nTo Garth Gaudry, who set me on the road;\nTo my family, for their constant support;\nAnd to the readers of my blog, for their feedback and contributions.\n\f\n\f\nContents\nPreface\nix\nNotation\nx\nAcknowledgments\nxvi\nChapter 1.\nMeasure theory\n1\n\u00a71.1.\nPrologue: The problem of measure\n2\n\u00a71.2.\nLebesgue measure\n17\n\u00a71.3.\nThe Lebesgue integral\n46\n\u00a71.4.\nAbstract measure spaces\n79\n\u00a71.5.\nModes of convergence\n114\n\u00a71.6.\nDifferentiation theorems\n131\n\u00a71.7.\nOuter measures, pre-measures, and product measures\n179\nChapter 2.\nRelated articles\n209\n\u00a72.1.\nProblem solving strategies\n210\n\u00a72.2.\nThe Radamacher differentiation theorem\n226\n\u00a72.3.\nProbability spaces\n232\n\u00a72.4.\nInfinite product spaces and the Kolmogorov extension\ntheorem\n235\nBibliography\n243\nvii\n\f\nviii\nContents\nIndex\n245\n\f\nPreface\nIn the fall of 2010, I taught an introductory one-quarter course on\ngraduate real analysis, focusing in particular on the basics of mea-\nsure and integration theory, both in Euclidean spaces and in abstract\nmeasure spaces. This text is based on my lecture notes of that course,\nwhich are also available online on my blog terrytao.wordpress.com,\ntogether with some supplementary material, such as a section on prob-\nlem solving strategies in real analysis (Section 2.1) which evolved from\ndiscussions with my students.\nThis text is intended to form a prequel to my graduate text\n[Ta2010] (henceforth referred to as An epsilon of room, Vol.\nI ),\nwhich is an introduction to the analysis of Hilbert and Banach spaces\n(such as Lp and Sobolev spaces), point-set topology, and related top-\nics such as Fourier analysis and the theory of distributions; together,\nthey serve as a text for a complete first-year graduate course in real\nanalysis.\nThe approach to measure theory here is inspired by the text\n[StSk2005], which was used as a secondary text in my course. In\nparticular, the first half of the course is devoted almost exclusively\nto measure theory on Euclidean spaces Rd (starting with the more\nelementary Jordan-Riemann-Darboux theory, and only then moving\non to the more sophisticated Lebe",
+ "needs_visual": false,
+ "cover_warnings": []
+}

@@ -1,0 +1,35 @@
+{
+ "calibre_id": 160,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Number Theory (160)/Algebraic Number Theory - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Algebraic Number Theory",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2020",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 166,
+ "abstract_available": false,
+ "calibre_comment": "Version 3.08 (2020). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Algebraic Number Theory",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Number Theory (160)/Algebraic Number Theory - J.S. Milne.pdf",
+ "frontmatter_text": "Algebraic\nNumber Theory\nJ.S. Milne\nVersion 3.08\nJuly 19, 2020\n\f\nAn algebraic number field is a finite extension of Q; an algebraic number is an element\nof an algebraic number field. Algebraic number theory studies the arithmetic of algebraic\nnumber fields \u2014 the ring of integers in the number field, the ideals and units in the ring of\nintegers, the extent to which unique factorization holds, and so on.\nAn abelian extension of a field is a Galois extension of the field with abelian Galois\ngroup. Class field theory describes the abelian extensions of a number field in terms of the\narithmetic of the field.\nThese notes are concerned with algebraic number theory, and the sequel with class field\ntheory.\nBibTeX information\n@misc{milneANT,\nauthor={Milne, James S.},\ntitle={Algebraic Number Theory (v3.08)},\nyear={2020},\nnote={Available at www.jmilne.org/math/},\npages={166}\n}\nv2.01 (August 14, 1996). First version on the web.\nv2.10 (August 31, 1998). Fixed many minor errors; added exercises and an index; 138 pages.\nv3.00 (February 11, 2008). Corrected; revisions and additions; 163 pages.\nv3.01 (September 28, 2008). Fixed problem with hyperlinks; 163 pages.\nv3.02 (April 30, 2009). Minor fixes; changed chapter and page styles; 164 pages.\nv3.03 (May 29, 2011). Minor fixes; 167 pages.\nv3.04 (April 12, 2012). Minor fixes.\nv3.05 (March 21, 2013). Minor fixes.\nv3.06 (May 28, 2014). Minor fixes; 164 pages.\nv3.07 (March 18, 2017). Minor fixes; 165 pages.\nv3.08 (July 19, 2020). Minor fixes; 166 pages.\nAvailable at www.jmilne.org/math/\nPlease send comments and corrections to me at jmilne at umich dot edu.\nThe photograph is of the Fork Hut, Huxley Valley, New Zealand.\nCopyright c\ufffd1996\u20132020 J.S. Milne.\nSingle paper copies for noncommercial personal use may be made without explicit permission\nfrom the copyright holder.\n\f\nContents\nNotation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n4\nIntroduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\nExercises\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n12\n1\nPreliminaries from Commutative Algebra\n14\nBasic definitions . . . . . . . . . . . . . . . . . .",
+ "needs_visual": false,
+ "cover_warnings": []
+}

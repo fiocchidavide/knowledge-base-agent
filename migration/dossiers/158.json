@@ -1,0 +1,35 @@
+{
+ "calibre_id": 158,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Groups_ The Theory of Group Schemes of Finite Type over a Field (158)/Algebraic Groups_ The Theory of Group Sche - J.S. Milne.pdf",
+ "isbn": "9781107167483",
+ "title": "Algebraic Groups: The Theory of Group Schemes of Finite Type over a Field",
+ "title_src": "gb",
+ "creators": [
+  [
+   "J. S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2017",
+ "year_src": "gb",
+ "edition": null,
+ "edition_src": null,
+ "series": "Cambridge studies in advanced mathematics",
+ "place": "Cambridge",
+ "publisher": "Cambridge University Press",
+ "pages": 662,
+ "abstract_available": true,
+ "calibre_comment": "algebraic groups",
+ "flags": [
+  "title-conflict"
+ ],
+ "n_sources": 3,
+ "calibre_title": "Algebraic Groups: The Theory of Group Schemes of Finite Type over a Field",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Groups_ The Theory of Group Schemes of Finite Type over a Field (158)/Algebraic Groups_ The Theory of Group Sche - J.S. Milne.pdf",
+ "frontmatter_text": "Algebraic Groups\nThe theory of group schemes\nof finite type over a field.\nJ.S. Milne\n\f\nvi\nThe book is a comprehensive introduction to the theory of algebraic group\nschemes over fields, based on modern algebraic geometry, but with minimal\nprerequisites.\nAlgebraic groups play much the same role for algebraists that Lie groups play\nfor analysts. This book is the first comprehensive introduction to the theory of\nalgebraic group schemes over fields, including the structure theory of semisimple\nalgebraic groups, written in the language of modern algebraic geometry. When\nBorel, Chevalley, and others introduced algebraic geometry into the theory of\nalgebraic groups, they used the algebraic geometry of the day, whose terminology\nconflicts with that of modern (post 1960) algebraic geometry. As Tits wrote\nin 1960, \u201cthe scheme viewpoint ... is not only more general but also, in many\nrespects, more satisfactory.\u201d Indeed, allowing nilpotents gives a much richer and\nmore natural theory.\nThe first eight chapters of the book study general algebraic group schemes\nover a field. They culminate in a proof of the Barsotti\u2013Chevalley theorem realizing\nevery algebraic group as an extension of an abelian variety by an affine group.\nThe remaining chapters treat only affine algebraic groups. After a review of the\nTannakian philosophy, there are short accounts of Lie algebras and finite group\nschemes. Solvable algebraic groups are studied in detail in Chapters 12-16. The\nfinal nine chapters treat reductive algebraic groups over arbitrary fields including\nthe Borel\u2013Chevalley structure theory. Three appendices review the algebraic\ngeometry needed, the existence of quotients of algebraic groups, and root data.\nThe exposition incorporates simplifications to the theory by Springer, Stein-\nberg, and others. Although the theory of algebraic groups can be considered a\nbranch of algebraic geometry, most of those using it are not algebraic geomet-\ners. In the present work, prerequisites have been kept to a minimum. The only\nrequirement is a first course in algebraic geometry including basic commutative\nalgebra.\nThe cover picture illustrates Grothendieck\u2019s vision of a pinned reductive\ngroup: the body ",
+ "needs_visual": false,
+ "cover_warnings": []
+}

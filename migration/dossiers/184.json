@@ -1,0 +1,42 @@
+{
+ "calibre_id": 184,
+ "path": "/Users/davide/Calibre Library/James F. Kurose/Computer Networking_ A Top-Down Approach (184)/Computer Networking_ A Top-Down Approach - James F. Kurose.pdf",
+ "isbn": "9780136681557",
+ "title": "Computer Networking: A Top-down Approach",
+ "title_src": "gb",
+ "creators": [
+  [
+   "James F.",
+   "Kurose"
+  ],
+  [
+   "Keith W.",
+   "Ross"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2021",
+ "year_src": "gb",
+ "edition": 8,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": null,
+ "publisher": "Pearson",
+ "pages": 792,
+ "abstract_available": true,
+ "calibre_comment": "Eighth Edition.",
+ "flags": [
+  "title-conflict"
+ ],
+ "n_sources": 2,
+ "calibre_title": "Computer Networking: A Top-Down Approach",
+ "calibre_author_sort": "Kurose, James F. & Ross, Keith W.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/James F. Kurose/Computer Networking_ A Top-Down Approach (184)/Computer Networking_ A Top-Down Approach - James F. Kurose.pdf",
+ "frontmatter_text": "James F. Kurose\nUniversity of Massachusetts, Amherst\nKeith W. Ross\nPolytechnic Institute of NYU\nCOMPUTER NETWORKING\nA Top-Down Approach\n\f\niii\nAbout the Authors\nJim Kurose\nJim Kurose is a Distinguished University Professor in the College of Information \nand Computer Sciences at the University of Massachusetts Amherst, where \nhe has been on the faculty since receiving his PhD in computer science from \nColumbia University. He received a BA in physics from Wesleyan University. \nHe has held a number of visiting scientist positions in the United States and \nabroad, including IBM Research, INRIA, and the Sorbonne University in \nFrance. He recently completed a five-year term as Assistant Director at the \nUS National Science Foundation, where he led the Directorate of Computer \nand Information Science and Engineering in its mission to uphold the nation\u2019s \nleadership in scientific discovery and engineering innovation.\nJim is proud to have mentored and taught an amazing group of students, \nand to have received a number of awards for his research, teaching, and \nservice, including the IEEE Infocom Award, the ACM SIGCOMM Lifetime \nAchievement Award, the ACM Sigcomm Test of Time Award, and the \nIEEE Computer Society Taylor Booth Education Medal. Dr. Kurose is a for-\nmer Editor-in-Chief of IEEE Transactions on Communications and of IEEE/\nACM Transactions on Networking. He has served as Technical Program \nco-Chair for IEEE Infocom, ACM SIGCOMM, ACM Internet Measurement \nConference, and ACM SIGMETRICS. He is a Fellow of the IEEE, the ACM \nand a member of the National Academy of Engineering. His research \ninterests include network protocols and architecture, network measurement, \nmultimedia communication, and modeling and performance evaluation.\nKeith Ross\nKeith Ross is the Dean of Engineering and Computer Science at NYU \nShanghai and the Leonard J. Shustek Chair Professor in the Computer Science \nand Engineering Department at NYU. Previously he was at University of \nPennsylvania (13 years), Eurecom Institute (5 years) and NYU-Poly (10 years). \nHe received a B.S.E.E from Tufts University, a M.S.E.E. from Columbia \nUniversity, and a Ph.D. in Computer and Control Engineering from T",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

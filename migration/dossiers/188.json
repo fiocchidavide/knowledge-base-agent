@@ -1,0 +1,41 @@
+{
+ "calibre_id": 188,
+ "path": "/Users/davide/Calibre Library/Kevin R. Fall/TCP_IP Illustrated, Volume 1_ The Protocols (188)/TCP_IP Illustrated, Volume 1_ The Protocol - Kevin R. Fall.pdf",
+ "isbn": "9780321336316",
+ "title": "TCP/IP Illustrated",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Kevin R.",
+   "Fall"
+  ],
+  [
+   "W. Richard",
+   "Stevens"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2012",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": "Addison-Wesley Professional Computing Series",
+ "place": "Upper Saddle River, NJ",
+ "publisher": "Addison-Wesley",
+ "pages": 1059,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition.",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "TCP/IP Illustrated, Volume 1: The Protocols",
+ "calibre_author_sort": "Stevens, Kevin R. Fall; W. Richard",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Kevin R. Fall/TCP_IP Illustrated, Volume 1_ The Protocols (188)/TCP_IP Illustrated, Volume 1_ The Protocol - Kevin R. Fall.pdf",
+ "frontmatter_text": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\f\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\f\nPraise for the First Edition of TCP/IP Illustrated, Volume 1: The Protocols\n\u201cThis is sure to be the bible for TCP/IP developers and users. Within minutes of picking \nup the text, I encountered several scenarios that had tripped up both my colleagues and \nmyself in the past. Stevens reveals many of the mysteries once held tightly by the ever-\nelusive networking gurus. Having been involved in the implementation of TCP/IP for \nsome years now, I consider this by far the finest text to date.\u201d\n\u2014Robert A. Ciampa, network engineer, Synernetics, division of 3COM\n\u201cWhile all of Stevens\u2019 books are readable and technically excellent, this new opus is awe-\nsome. Although many books describe the TCP/IP protocols, Stevens provides a level of \ndepth and real-world detail lacking from the competition. He puts the reader inside \nTCP/IP using a visual approach and shows the protocols in action.\u201d\n\u2014Steven Baker, networking columnist, Unix Review\n\u201cTCP/IP Illustrated, Volume 1, is an excellent reference for developers, network admin-\nistrators, or anyone who needs to understand TCP/IP technology. TCP/IP Illustrated is \ncomprehensive in its coverage of TCP/IP topics, providing enough details to satisfy the \nexperts while giving enough background and commentary for the novice.\u201d\n\u2014Bob Williams, vice president, Marketing, NetManage, Inc.\n\u201c. . . [T]he difference is that Stevens wants to show as well as tell about the protocols. \nHis principal teaching tools are straightforward explanations, exercises at the ends of \nchapters, byte-by-byte diagrams of headers and ",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance",
+  "page 1 aspect 0.787 differs from the body's 0.852"
+ ]
+}

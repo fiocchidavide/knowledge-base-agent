@@ -1,0 +1,43 @@
+{
+ "calibre_id": 155,
+ "path": "/Users/davide/Calibre Library/Joseph K. Blitzstein/Introduction to Probability (155)/Introduction to Probability - Joseph K. Blitzstein.pdf",
+ "isbn": "9781138369917",
+ "title": "Introduction to Probability",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Joseph K.",
+   "Blitzstein"
+  ],
+  [
+   "Jessica",
+   "Hwang"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2019",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": "Texts in statistical science",
+ "place": "Boca Raton",
+ "publisher": "CRC Press",
+ "pages": 636,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition.",
+ "flags": [
+  "title-conflict"
+ ],
+ "n_sources": 3,
+ "calibre_title": "Introduction to Probability",
+ "calibre_author_sort": "Hwang;, Joseph K. Blitzstein;Jessica",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Joseph K. Blitzstein/Introduction to Probability (155)/Introduction to Probability - Joseph K. Blitzstein.pdf",
+ "frontmatter_text": "Introduction to Probability\nSecond Edition\n\f\nCHAPMAN & HALL/CRC\nTexts in Statistical Science Series\nJoseph K. Blitzstein, Harvard University, USA \nJulian J. Faraway, University of Bath, UK \nMartin Tanner, Northwestern University, USA\nJim Zidek, University of British Columbia, Canada\nRecently Published Titles\nExtending the Linear Model with R \nGeneralized Linear, Mixed Effects and Nonparametric Regression Models, Second Edition\nJ.J. Faraway\nModeling and Analysis of Stochastic Systems, Third Edition\nV.G. Kulkarni\nPragmatics of Uncertainty\nJ.B. Kadane\nStochastic Processes \nFrom Applications to Theory\nP.D. Moral and S. Penev\nModern Data Science with R \nB.S. Baumer, D.T. Kaplan, and N.J. Horton\nGeneralized Additive Models \nAn Introduction with R, Second Edition\nS. Wood\nDesign of Experiments \nAn Introduction Based on Linear Models\nMax Morris\nIntroduction to Statistical Methods for Financial Models\nT.A. Severini\nStatistical Regression and Classification \nFrom Linear Models to Machine Learning\nNorman Matloff\nIntroduction to Functional Data Analysis\nPiotr Kokoszka and Matthew Reimherr\nStochastic Processes \nAn Introduction, Third Edition\nP.W. Jones and P. Smith \nTheory of Stochastic Objects \nProbability, Stochastic Processes and Inference\nAthanasios Christou Micheas\nLinear Models and the Relevant Distributions and Matrix Algebra\nDavid A. Harville\n\f\nAn Introduction to Generalized Linear Models, Fourth Edition\nAnnette J. Dobson and Adrian G. Barnett\nGraphics for Statistics and Data Analysis with R\nKevin J. Keen\nStatistics in Engineering, Second Edition\nWith Examples in MATLAB and R\nAndrew Metcalfe, David A. Green, Tony Greenfield, Mahayaudin Mansor, Andrew Smith, \nand Jonathan Tuke\nIntroduction to Probability, Second Edition\nJoseph K. Blitzstein and Jessica Hwang\nFor more information about this series, please visit: https://www.crcpress.com/go/textsseries\n\f\n\f\nIntroduction to Probability\nSecond Edition\nJoseph K. Blitzstein\nHarvard University\nCambridge, Massachusetts\nJessica Hwang\nStanford University\nStanford, California\n\f\nCRC Press\nTaylor & Francis Group\n6000 Broken Sound Parkway NW, Suite 300\nBoca Raton, FL 33487-2742\n\u00a9 2019 by Taylor & Francis Group, LLC\nCRC Press is an im",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance",
+  "page 1 aspect 0.699 differs from the body's 0.773"
+ ]
+}

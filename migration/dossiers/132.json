@@ -1,0 +1,39 @@
+{
+ "calibre_id": 132,
+ "path": "/Users/davide/Calibre Library/Cynthia Dwork/The Algorithmic Foundations of Differential Privacy (132)/The Algorithmic Foundations of Differentia - Cynthia Dwork.pdf",
+ "isbn": "9781601988188",
+ "title": "The Algorithmic Foundations of Differential Privacy",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Cynthia",
+   "Dwork"
+  ],
+  [
+   "Aaron",
+   "Roth"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2014",
+ "year_src": "gb",
+ "edition": null,
+ "edition_src": null,
+ "series": "Foundations and trends in theoretical computer science",
+ "place": "Boston, MA",
+ "publisher": "Now Publishers",
+ "pages": 281,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [
+  "title-conflict"
+ ],
+ "n_sources": 3,
+ "calibre_title": "The Algorithmic Foundations of Differential Privacy",
+ "calibre_author_sort": "Cynthia Dwork, Aaron Roth",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Cynthia Dwork/The Algorithmic Foundations of Differential Privacy (132)/The Algorithmic Foundations of Differentia - Cynthia Dwork.pdf",
+ "frontmatter_text": "Foundations and Trends R\n\u20ddin\nTheoretical Computer Science\nVol. 9, Nos. 3\u20134 (2014) 211\u2013407\nc\u20dd2014 C. Dwork and A. Roth\nDOI: 10.1561/0400000042\nThe Algorithmic Foundations\nof Differential Privacy\nCynthia Dwork\nMicrosoft Research, USA\ndwork@microsoft.com\nAaron Roth\nUniversity of Pennsylvania, USA\naaroth@cis.upenn.edu\n\f\nContents\nPreface\n3\n1\nThe Promise of Differential Privacy\n5\n1.1\nPrivacy-preserving data analysis . . . . . . . . . . . . . . .\n6\n1.2\nBibliographic notes\n. . . . . . . . . . . . . . . . . . . . .\n10\n2\nBasic Terms\n11\n2.1\nThe model of computation\n. . . . . . . . . . . . . . . . .\n11\n2.2\nTowards defining private data analysis\n. . . . . . . . . . .\n12\n2.3\nFormalizing differential privacy . . . . . . . . . . . . . . .\n15\n2.4\nBibliographic notes\n. . . . . . . . . . . . . . . . . . . . .\n26\n3\nBasic Techniques and Composition Theorems\n28\n3.1\nUseful probabilistic tools\n. . . . . . . . . . . . . . . . . .\n28\n3.2\nRandomized response . . . . . . . . . . . . . . . . . . . .\n29\n3.3\nThe laplace mechanism . . . . . . . . . . . . . . . . . . .\n30\n3.4\nThe exponential mechanism . . . . . . . . . . . . . . . . .\n37\n3.5\nComposition theorems . . . . . . . . . . . . . . . . . . . .\n41\n3.6\nThe sparse vector technique . . . . . . . . . . . . . . . . .\n55\n3.7\nBibliographic notes\n. . . . . . . . . . . . . . . . . . . . .\n64\nii\n\f\niii\n4\nReleasing Linear Queries with Correlated Error\n66\n4.1\nAn offline algorithm: SmallDB . . . . . . . . . . . . . . .\n70\n4.2\nAn online mechanism: private multiplicative weights . . . .\n76\n4.3\nBibliographical notes\n. . . . . . . . . . . . . . . . . . . .\n86\n5\nGeneralizations\n88\n5.1\nMechanisms via \u03b1-nets\n. . . . . . . . . . . . . . . . . . .\n89\n5.2\nThe iterative construction mechanism\n. . . . . . . . . . .\n91\n5.3\nConnections . . . . . . . . . . . . . . . . . . . . . . . . . 109\n5.4\nBibliographical notes\n. . . . . . . . . . . . . . . . . . . . 115\n6\nBoosting for Queries\n117\n6.1\nThe boosting for queries algorithm . . . . . . . . . . . . . 119\n6.2\nBase synopsis generators\n. . . . . . . . . . . . . . . . . . 130\n6.3\nBibliographical notes\n. . . . . . . . . . . . . . . . . . . . 139\n7\nWhen Worst-Case Sensitivity is Atypical\n140\n7.1\nSubsample and aggregate . . ",
+ "needs_visual": false,
+ "cover_warnings": []
+}

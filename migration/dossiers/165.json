@@ -1,0 +1,35 @@
+{
+ "calibre_id": 165,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Class Field Theory (165)/Class Field Theory - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Class Field Theory",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2020",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 296,
+ "abstract_available": false,
+ "calibre_comment": "Version 4.03 (2020). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Class Field Theory",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Class Field Theory (165)/Class Field Theory - J.S. Milne.pdf",
+ "frontmatter_text": "Class Field Theory\nJ.S. Milne\nVersion 4.03\nAugust 6, 2020\n\f\nClass field theory describes the abelian extensions of a local or global field in terms of the\narithmetic of the field itself. These notes contain an exposition of abelian class field theory\nusing the algebraic/cohomological approach of Chevalley and Artin and Tate. The explicit\napproach of Lubin and Tate in the local case and the analytic approach in the global case\nare also explained. The original version of the notes was distributed during the teaching of\nan advanced graduate course.\nBibTeX information\n@misc{milneCFT,\nauthor={J.S. Milne},\ntitle={Class Field Theory (v4.03)},\nyear={2020},\nnote={Available at www.jmilne.org/math/},\npages={287+viii}\n}\nv2.01 (August 14, 1996). First version on the web.\nv3.10 (May 6, 1997). Substantially revised and expanded; 222 pages.\nv4.00 (March 2, 2008). Corrected, revised, and expanded; 287 pages.\nv4.01 (May 30, 2011). Many minor fixes; 287 pages.\nv4.02 (March 23, 2013). Minor fixes and improvements; 289 pages.\nv4.03 (August 6, 2020). Minor fixes and improvements; 294 pages.\nAvailable at www.jmilne.org/math/\nPlease send comments and corrections to me at jmilne at umich dot edu.\nThe photograph is of Mt Christina from the McKellar Saddle, New Zealand.\nCopyright c\ufffd1996, 1997, 2008, 2011, 2013, J.S. Milne.\nSingle paper copies for noncommercial personal use may be made without explicit permis-\nsion from the copyright holder.\n\f\nContents\nIntroduction\n1\nI\nLocal Class Field Theory: Lubin-Tate Theory\n19\n1\nStatements of the Main Theorems\n. . . . . . . . . . . . . . . . . . . . . .\n19\n2\nLubin-Tate Formal Group Laws\n. . . . . . . . . . . . . . . . . . . . . . .\n27\n3\nConstruction of the extension K\ufffdof K. . . . . . . . . . . . . . . . . . . .\n36\n4\nThe Local Kronecker-Weber Theorem . . . . . . . . . . . . . . . . . . . .\n44\nA\nAppendix: Infinite Galois Theory and Inverse Limits\n. . . . . . . . . . . .\n52\nII\nThe Cohomology of Groups\n57\n1\nCohomology\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n57\n2\nHomology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n74\n3\nThe Tate groups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n77\n4\nT",
+ "needs_visual": false,
+ "cover_warnings": []
+}

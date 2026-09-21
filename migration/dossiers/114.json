@@ -1,0 +1,48 @@
+{
+ "calibre_id": 114,
+ "path": "/Users/davide/Calibre Library/Thomas H. Cormen/Introduction to Algorithms (114)/Introduction to Algorithms - Thomas H. Cormen.pdf",
+ "isbn": "9780262367509",
+ "title": "Introduction to Algorithms",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Thomas H.",
+   "Cormen"
+  ],
+  [
+   "Charles E.",
+   "Leiserson"
+  ],
+  [
+   "Ronald L.",
+   "Rivest"
+  ],
+  [
+   "Clifford",
+   "Stein"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2022",
+ "year_src": "gb",
+ "edition": 4,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": "Cambridge, Massachusetts",
+ "publisher": "The MIT Press",
+ "pages": 1677,
+ "abstract_available": true,
+ "calibre_comment": "Fourth Edition. LCCN 2021037260.",
+ "flags": [],
+ "n_sources": 2,
+ "calibre_title": "Introduction to Algorithms",
+ "calibre_author_sort": "Stein;, Thomas H. Cormen;Charles E. Leiserson;Ronald L. Rivest;Clifford & Leiserson, Charles E. & Rivest, Ronald L. & Stein, Clifford",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Thomas H. Cormen/Introduction to Algorithms (114)/Introduction to Algorithms - Thomas H. Cormen.pdf",
+ "frontmatter_text": "Introduction to Algorithms\nFourth Edition\n\f\nThomas H. Cormen\nCharles E. Leiserson\nRonald L. Rivest\nClifford Stein\nIntroduction to Algorithms\nFourth Edition\nThe MIT Press\nCambridge, Massachusetts London, England\n\f\n\u00a9 2022 Massachusetts Institute of Technology\nAll rights reserved. No part of this book may be reproduced in any form or by any electronic or\nmechanical means (including photocopying, recording, or information storage and retrieval)\nwithout permission in writing from the publisher.\nThe MIT Press would like to thank the anonymous peer reviewers who provided comments on\ndrafts of this book. The generous work of academic experts is essential for establishing the\nauthority and quality of our publications. We acknowledge with gratitude the contributions of\nthese otherwise uncredited readers.\nNames: Cormen, Thomas H., author. | Leiserson, Charles Eric, author. | Rivest, Ronald L.,\nauthor. | Stein, Clifford, author.\nTitle: Introduction to algorithms / Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest,\nClifford Stein.\nDescription: Fourth edition. | Cambridge, Massachusetts : The MIT Press, [2022] | Includes\nbibliographical references and index.\nIdentifiers: LCCN 2021037260 | ISBN 9780262367509\nSubjects: LCSH: Computer programming. | Computer algorithms.\nClassification: LCC QA76.6 .C662 2022 | DDC 005.13--dc23\nLC record available at http://lccn.loc.gov/2021037260\n10 9 8 7 6 5 4 3 2 1\nd_r0\n\f\nContents\nCopyright\nPreface\nI Foundations\nIntroduction\n1 The Role of Algorithms in Computing\n1.1 Algorithms\n1.2 Algorithms as a technology\n2 Getting Started\n2.1 Insertion sort\n2.2 Analyzing algorithms\n2.3 Designing algorithms\n3 Characterizing Running Times\n3.1 O-notation, \u03a9-notation, and \u0398-notation\n3.2 Asymptotic notation: formal definitions\n3.3 Standard notations and common functions\n4 Divide-and-Conquer\n4.1 Multiplying square matrices\n4.2 Strassen\u2019s algorithm for matrix multiplication\n4.3 The substitution method for solving recurrences\n4.4 The recursion-tree method for solving\nrecurrences\n4.5 The master method for solving recurrences\n\f\n \u2605 4.6 Proof of the continuous master theorem\n \u2605 4.7 Akra-Bazzi recurrences\n5 Probabilistic Analysis and Randomized Algorithms\n5.1 The ",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

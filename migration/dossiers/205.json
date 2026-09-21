@@ -1,0 +1,36 @@
+{
+ "calibre_id": 205,
+ "path": "/Users/davide/Calibre Library/Jim Arlow/UML 2 and the Unified Process_ Practical Object-Oriented Analysis and Design (205)/UML 2 and the Unified Process_ Practical O - Jim Arlow.pdf",
+ "isbn": "9780321321275",
+ "title": "UML 2 and the Unified Process: Practical Object-oriented Analysis and Design",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Jim",
+   "Arlow"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2005",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": "The Addison-Wesley object technology series",
+ "place": "Upper Saddle River, NJ",
+ "publisher": "Addison-Wesley",
+ "pages": 621,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition.",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "UML 2 and the Unified Process: Practical Object-Oriented Analysis and Design",
+ "calibre_author_sort": "Jim Arlow,Ila Neustadt",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Jim Arlow/UML 2 and the Unified Process_ Practical Object-Oriented Analysis and Design (205)/UML 2 and the Unified Process_ Practical O - Jim Arlow.pdf",
+ "frontmatter_text": "Praise for UML 2 and the Unified Process, Second Edition\n\u201cOMG\u2019s UML 2 standard defines UML very systematically and thoroughly, but lacks how to actually\napply UML 2 in a real-world project. That is where UML 2 and the Unified Process, Second Edition,\ncomes in. The book manages to convey the practical use of UML 2 in clear and understandable terms\nwith many examples and guidelines. Even for people not working with the Unified Process, the book\nis still of great use. UML 2 and the Unified Process, Second Edition, is a must-read for every UML 2\nbeginner and a helpful guide and reference for the experienced practitioner.\u201d\n\u2014Roland Leibundgut, Technical Director, Z\u00fchlke Engineering Ltd.\n\u201cThe authors provide great detail on the constructs of the UML and how they support the Unified\nProcess. This book is a good starting point for organizations and individuals who are adopting UP\nand need to understand how to provide visualization of the different aspects needed to satisfy it.\u201d\n\u2014Eric Naiburg\nMarket Manager, Desktop Products \nIBM Rational Software\n\u201cMany books today cover either UML or the Unified Process (UP), but not both. Arlow and Neustadt\nhave filled this void with a book that is a perfect blend of UML and the UP. The authors provide a\nwealth of experience invaluable to novice modelers and seasoned OO analysts and designers. The\nlogical organization based on the UP workflows and the unique presentation style of using activity\ndiagrams to provide book and chapter overviews make reading less demanding. Both practitioners\nand students will certainly keep this book within close reach all the time.\u201d\n\u2014Ishan De Silva\nSoftware Engineer\nMillennium Information Technologies, Sri Lanka\n\u201cIf you are looking for a cookbook, read something else. This book will make you think! It explains\nall the syntactic elements of UML, but more importantly it gives practical advice on how and when\nto use\u2014or not to use\u2014UML. You will learn to think about the role that modeling plays in the\ndevelopment process. This knowledge enables you to decide for yourself how and when to use UML\nto gain the optimal situation for your project. UML 2 and the Unified Process, Second Edition, will\nprepare you for su",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

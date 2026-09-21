@@ -1,0 +1,39 @@
+{
+ "calibre_id": 125,
+ "path": "/Users/davide/Calibre Library/Dan Boneh/A Graduate Course in Applied Cryptography (125)/A Graduate Course in Applied Cryptography - Dan Boneh.pdf",
+ "isbn": null,
+ "title": "A Graduate Course in Applied Cryptography",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "Dan",
+   "Boneh"
+  ],
+  [
+   "Victor",
+   "Shoup"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2023",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": null,
+ "pages": 1130,
+ "abstract_available": false,
+ "calibre_comment": "Version 0.6, Jan. 2023. Free online draft (cryptobook.us).",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "A Graduate Course in Applied Cryptography",
+ "calibre_author_sort": "Boneh, Dan & Shoup, Victor",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Dan Boneh/A Graduate Course in Applied Cryptography (125)/A Graduate Course in Applied Cryptography - Dan Boneh.pdf",
+ "frontmatter_text": "A Graduate Course in Applied Cryptography\nDan Boneh and Victor Shoup\nVersion 0.6, Jan. 2023\n\f\nPreface\nCryptography is an indispensable tool used to protect information in computing systems. It is\nused everywhere and by billions of people worldwide on a daily basis. It is used to protect data at\nrest and data in motion. Cryptographic systems are an integral part of standard protocols, most\nnotably the Transport Layer Security (TLS) protocol, making it relatively easy to incorporate\nstrong encryption into a wide range of applications.\nWhile extremely useful, cryptography is also highly brittle. The most secure cryptographic\nsystem can be rendered completely insecure by a single specification or programming error. No\namount of unit testing will uncover a security vulnerability in a cryptosystem.\nInstead, to argue that a cryptosystem is secure, we rely on mathematical modeling and proofs\nto show that a particular system satisfies the security properties attributed to it. We often need to\nintroduce certain plausible assumptions to push our security arguments through.\nThis book is about exactly that: constructing practical cryptosystems for which we can argue\nsecurity under plausible assumptions. The book covers many constructions for different tasks in\ncryptography. For each task we define a precise security goal that we aim to achieve and then\npresent constructions that achieve the required goal. To analyze the constructions, we develop a\nunified framework for doing cryptographic proofs. A reader who masters this framework will be\ncapable of applying it to new constructions that may not be covered in the book.\nThroughout the book we present many case studies to survey how deployed systems operate.\nWe describe common mistakes to avoid as well as attacks on real-world systems that illustrate the\nimportance of rigor in cryptography. We end every chapter with a fun application that applies the\nideas in the chapter in some unexpected way.\nIntended audience and how to use this book\nThe book is intended to be self contained. Some supplementary material covering basic facts from\nprobability theory and algebra is provided in the appendices. The book is divided into three par",
+ "needs_visual": false,
+ "cover_warnings": []
+}

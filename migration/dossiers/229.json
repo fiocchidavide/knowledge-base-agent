@@ -1,0 +1,37 @@
+{
+ "calibre_id": 229,
+ "path": "/Users/davide/Calibre Library/Roman Vershynin/High-Dimensional Probability_ An Introduction with Applications in Data Science (229)/High-Dimensional Probability_ An Introduct - Roman Vershynin.pdf",
+ "isbn": null,
+ "title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "Roman",
+   "Vershynin"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2026",
+ "year_src": "calibre",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": null,
+ "publisher": "Cambridge University Press",
+ "pages": 341,
+ "abstract_available": false,
+ "calibre_comment": "Second Edition. Pre-publication version, free to view and download for personal use only. \u00a9Roman Vershynin 2026. https://www.math.uci.edu/~rvershyn/ \u2014 Cite: R. Vershynin. High-Dimensional Probability: An Introduction with Applications in Data Science. 2nd ed. Cambridge University Press; 2026.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+ "calibre_author_sort": "Vershynin, Roman",
+ "calibre_tags": "Mathematics,Statistics,Probability,high-dimensional probability,data science",
+ "file": "/Users/davide/Calibre Library/Roman Vershynin/High-Dimensional Probability_ An Introduction with Applications in Data Science (229)/High-Dimensional Probability_ An Introduct - Roman Vershynin.pdf",
+ "frontmatter_text": "High-Dimensional Probability\nAn Introduction with Applications in Data Science\nSecond Edition\nRoman Vershynin\nJuly 22, 2026\nCite in BibTeX\nR. Vershynin. High-Dimensional Probability: An Introduction with Applications in Data Science.\n2nd ed. Cambridge University Press; 2026.\nThis pre-publication version is free to view and download for personal use only. Not for re-distribution,\nre-sale or use in derivative works. \u00a9Roman Vershynin 2026. https://www.math.uci.edu/~rvershyn/\n\f\n\f\nContents\nPreface to the Second Edition\nvi\nAppetizer: Using Probability to Cover a Set\n1\nNotes\n5\nExercises\n5\n1\nA Quick Refresher on Analysis and Probability\n8\n1.1\nConvex sets and functions\n8\n1.2\nNorms and inner products\n8\n1.3\nRandom variables and random vectors\n10\n1.4\nUnion bound\n12\n1.5\nConditioning\n13\n1.6\nProbabilistic inequalities\n15\n1.7\nLimit theorems\n17\n1.8\nNotes\n20\nExercises\n20\n2\nConcentration of Sums of Independent Random Variables\n25\n2.1\nWhy concentration inequalities?\n25\n2.2\nHoeffding inequality\n28\n2.3\nChernoff inequality\n30\n2.4\nApplication: median-of-means estimator\n32\n2.5\nApplication: degrees of random graphs\n34\n2.6\nSubgaussian distributions\n35\n2.7\nSubgaussian Hoeffding and Khintchine inequalities\n39\n2.8\nSubexponential distributions\n43\n2.9\nBernstein inequality\n47\n2.10\nNotes\n49\nExercises\n50\n3\nRandom Vectors in High Dimensions\n59\n3.1\nConcentration of the norm\n60\n3.2\nCovariance matrices and principal component analysis\n61\n3.3\nExamples of high-dimensional distributions\n66\n3.4\nSubgaussian distributions in higher dimensions\n73\n3.5\nApplication: Grothendieck inequality and semidefinite programming\n76\n3.6\nApplication: Maximum cut for graphs\n81\n3.7\nKernel trick, and tightening of Grothendieck inequality\n84\niii\n\f\niv\nContents\n3.8\nNotes\n88\nExercises\n89\n4\nRandom Matrices\n101\n4.1\nA quick refresher on linear algebra\n101\n4.2\nNets, covering and packing\n109\n4.3\nApplication: error correcting codes\n114\n4.4\nUpper bounds on subgaussian random matrices\n116\n4.5\nApplication: community detection in networks\n120\n4.6\nTwo-sided bounds on subgaussian matrices\n124\n4.7\nApplication: covariance estimation and clustering\n125\n4.8\nNotes\n129\nExercises\n130\n5\nConcentration Without Independence\n141\n5.1\nConcentration of Lip",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 carries retailer/aggregator text or a URL"
+ ]
+}

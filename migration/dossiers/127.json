@@ -1,0 +1,41 @@
+{
+ "calibre_id": 127,
+ "path": "/Users/davide/Calibre Library/Anna Bernasconi/Elementi di Crittografia (127)/Elementi di Crittografia - Anna Bernasconi.pdf",
+ "isbn": "9788867414604",
+ "title": "Elementi di crittografia",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Anna",
+   "Bernasconi"
+  ],
+  [
+   "Fabrizio",
+   "Luccio"
+  ],
+  [
+   "Paolo",
+   "Ferragina"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2015",
+ "year_src": "gb",
+ "edition": null,
+ "edition_src": null,
+ "series": "Manuali",
+ "place": null,
+ "publisher": "Pisa University Press",
+ "pages": 232,
+ "abstract_available": false,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 1,
+ "calibre_title": "Elementi di Crittografia",
+ "calibre_author_sort": "David, Nieri",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Anna Bernasconi/Elementi di Crittografia (127)/Elementi di Crittografia - Anna Bernasconi.pdf",
+ "frontmatter_text": "Anna Bernasconi, Paolo Ferragina, \nFabrizio Luccio\nElementi di Crittografia\n\f\n\u00a9 Copyright 2015 by Pisa University Press srl\nSociet\u00e0 con socio unico Universit\u00e0 di Pisa\nCapitale Sociale \u20ac 20.000,00 i.v. \u2013 Partita IVA 02047370503\nSede legale: Lungarno Pacinotti 43/44 \u2013 56126 Pisa\nTel. + 39 050 2212056 Fax + 39 050 2212945\npress@unipi.it\nwww.pisauniversitypress.it\nISBN 978-88-6741-460-4\nprogetto grafico: Andrea Rosellini\nI diritti d\u2019autore di questo volume saranno devoluti all\u2019associazione \u201cMedici Senza Frontiere\u201d\nLe fotocopie per uso personale del lettore possono essere effettuate nei limiti del 15% di ciascun volume/\nfascicolo di periodico dietro pagamento alla SIAE del compenso previsto dall\u2019art. 68, commi 4 e 5, della \nlegge 22 aprile 1941 n. 633.\nLe riproduzioni effettuate per finalit\u00e0 di carattere professionale, economico o commerciale o comunque \nper uso diverso da quello personale possono essere effettuate a seguito di specifica autorizzazione rilascia-\nta da AIDRO, Corso di Porta Romana, 108 \u2013 20122 Milano, segreteria@aidro.org \u2013 www.aidro.org\nBernasconi, Anna\nElementi di crittografia / Anna Bernasconi, Paolo Ferragina, Fabrizio Luccio. - Pisa : \nPisa university press, 2015. - (Manuali)\n005.82 (22.)\nI. Ferragina, Paolo II. Luccio, Fabrizio 1. Crittografia <Informatica>\nCIP a cura del Sistema bibliotecario dell\u2019Universit\u00e0 di Pisa\n\f\nPrefazione\nNato nell\u2019ambito del corso di Crittografia per la laurea in Informatica dell\u2019Universit`a\ndi Pisa, questo testo si innesta su un classico precedente, scritto da Ferragina e Luc-\ncio per l\u2019editore Bollati-Boringhieri e da tempo fuori commercio, di cui costituisce\nun sostanziale rifacimento, nonch\u00b4e un\u2019estensione ai tanti aspetti del campo nati e\nsviluppatesi negli anni pi`u recenti. Lavoro che ha visto la collaborazione essenziale di\nBernasconi cui ora compete l\u2019insegnamento della materia.\nIl libro `e tagliato su un corso universitario di primo livello che segue corsi mate-\nmatici e algoritmici di base, quindi `e principalmente diretto a chi tali basi possiede.\nTuttavia alcuni concetti fondamentali di algebra e di computabilit`a vi sono ripetuti\nper quanto necessario alla comprensione del testo da parte di chiunque, dotat",
+ "needs_visual": false,
+ "cover_warnings": []
+}

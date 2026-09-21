@@ -1,0 +1,33 @@
+{
+ "calibre_id": 182,
+ "path": "/Users/davide/Calibre Library/Rick Durrett/Probability_ Theory and Examples (182)/Probability_ Theory and Examples - Rick Durrett.pdf",
+ "isbn": "9781108473682",
+ "title": "Probability: Theory and Examples",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Rick",
+   "Durrett"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2019",
+ "year_src": "crossref",
+ "edition": 5,
+ "edition_src": "calibre_comment",
+ "series": "Cambridge series in statistical and probabilistic mathematics",
+ "place": "Cambridge",
+ "publisher": "Cambridge University Press",
+ "pages": 490,
+ "abstract_available": true,
+ "calibre_comment": "Fifth Edition (Version 5, 2019).",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Probability: Theory and Examples",
+ "calibre_author_sort": "Durrett, Rick",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Rick Durrett/Probability_ Theory and Examples (182)/Probability_ Theory and Examples - Rick Durrett.pdf",
+ "frontmatter_text": "i\nProbability: Theory and Examples\nRick Durrett\nVersion 5 January 11, 2019\nCopyright 2019, All rights reserved.\n\f\nii\n\f\nPreface\nSome times the lights are shining on me. Other times I can\nbarely see.\nLately it occurs to me what a long strange trip its been.\nGrateful Dead\nIn 1989 when the first edition of the book was completed, my sons\nDavid and Greg were 3 and 1, and the cover picture showed the Dow\nJones at 2650. The last twenty-nine years have brought many changes\nbut the song remains the same. \u201cThe title of the book indicates that as we\ndevelop the theory, we will focus our attention on examples. Hoping that\nthe book would be a useful reference for people who apply probability\nin their work, we have tried to emphasize the results that are important\nfor applications, and illustrated their use with roughly 200 examples.\nProbability is not a spectator sport, so the book contains almost 450\nexercises to challenge the reader and to deepen their understanding.\u201d\nThe fifth edition has a number of changes:\n\u2022 The exercises have been moved to the end of the section. The Ex-\namples, Theorems, and Lemmas are now numbered in one sequence\nto make it easier to find things.\n\u2022 There is a new chapter on multidimensional Brownian motion and\nits relationship to PDEs.\nTo make this possible a proof of It\u02c6o\u2019s\nformula has been added to Chapter 7.\n\u2022 The lengthy Brownian motion chapter has been split into two, with\nthe second focusing on Donsker\u2019s theorem, etc. The material on\nthe central limit theorem for martingales and stationary sequences\ndeleted from the fourth edition has been reinstated.\n\u2022 The four sections of the random walk chapter have been relocated.\nStopping times have been moved to the martingale chapter; recur-\nrence of random walks and the arcsine laws to the Markov chain\nchapter; renewal theory has been moved to Chapter 2.\n\u2022 Some of the exercises that were simply proofs left to the reader, have\nbeen put into the text as lemmas. There are a few new exercises\niii\n\f\niv\nTypos. The fourth edition contains a list of the people who made\ncorrections to the first three editions. With apologies to those whose\ncontributions I lost track of, this time I need to thank: Richard Arra-\n",
+ "needs_visual": false,
+ "cover_warnings": []
+}

@@ -1,0 +1,35 @@
+{
+ "calibre_id": 177,
+ "path": "/Users/davide/Calibre Library/Sheldon Axler/Linear Algebra Done Right (177)/Linear Algebra Done Right - Sheldon Axler.pdf",
+ "isbn": "9783031410253",
+ "title": "Linear Algebra Done Right",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Sheldon",
+   "Axler"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2024",
+ "year_src": "crossref",
+ "edition": 4,
+ "edition_src": "calibre_comment",
+ "series": "Undergraduate Texts in Mathematics",
+ "place": "Cham",
+ "publisher": "Springer",
+ "pages": 404,
+ "abstract_available": true,
+ "calibre_comment": "Fourth Edition (open access).",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Linear Algebra Done Right",
+ "calibre_author_sort": "Axler, Sheldon",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Sheldon Axler/Linear Algebra Done Right (177)/Linear Algebra Done Right - Sheldon Axler.pdf",
+ "frontmatter_text": "Linear Algebra Done Right\nfourth edition\n18 July 2025\n\u00a9 2024 Sheldon Axler\nSheldon Axler\nComments, corrections, and suggestions\nabout this book are most welcome.\nPlease send them to linear@axler.net.\nThe print version of this book is published by Springer.\nOpen Access This book is licensed under the terms of the Creative Commons Attribution-NonCommercial 4.0\nInternational License (https://creativecommons.org/licenses/by-nc/4.0), which permits any noncommercial use,\nsharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit\nto original author and source, provide a link to the Creative Commons license, and indicate if changes were made.\nThe images or other third party material in this book are included in the book\u2019s Creative\nCommons license, unless indicated otherwise in a credit line to the material. If material\nis not included in the book\u2019s Creative Commons license and your intended use is not\npermitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the\ncopyright holder.\n\ud835\udc39\ud835\udc5b= 1\n\u221a5\n\u23a1\u23a2\n\u23a3\n\u239b\u239c\n\u239d\n1 + \u221a5\n2\n\u239e\u239f\n\u23a0\n\ud835\udc5b\n\u2212\u239b\u239c\n\u239d\n1 \u2212\u221a5\n2\n\u239e\u239f\n\u23a0\n\ud835\udc5b\n\u23a4\u23a5\n\u23a6\n\f\nAbout the Author\nSheldon Axler received his undergraduate degree from Princeton University,\nfollowed by a PhD in mathematics from the University of California at Berkeley.\nAs a postdoctoral Moore Instructor at MIT, Axler received a university-wide\nteaching award. He was then an assistant professor, associate professor, and\nprofessor at Michigan State University, where he received the first J. Sutherland\nFrame Teaching Award and the Distinguished Faculty Award.\nAxler received the Lester R. Ford Award for expository writing from the Math-\nematical Association of America in 1996, for a paper that eventually expanded into\nthis book. In addition to publishing numerous research papers, he is the author of\nsix mathematics textbooks, ranging from freshman to graduate level. Previous\neditions of this book have been adopted as a textbook at over 375 universities and\ncolleges and have been translated into three languages.\nAxler has served as Editor-in-Chief of the Mathematical Intelligencer and\nAssociate Editor of the American Mathema",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 carries retailer/aggregator text or a URL"
+ ]
+}

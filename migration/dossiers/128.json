@@ -1,0 +1,36 @@
+{
+ "calibre_id": 128,
+ "path": "/Users/davide/Calibre Library/Oded Goldreich/Foundations of Cryptography, Volume 1_ Basic Tools (128)/Foundations of Cryptography, Volume 1_ Bas - Oded Goldreich.pdf",
+ "isbn": "9780521791724",
+ "title": "Foundations of Cryptography",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Oded",
+   "Goldreich"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2001",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": "Cambridge",
+ "publisher": "Cambridge University Press",
+ "pages": 393,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 5,
+ "calibre_title": "Foundations of Cryptography, Volume 1: Basic Tools",
+ "calibre_author_sort": "Goldreich, Oded",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Oded Goldreich/Foundations of Cryptography, Volume 1_ Basic Tools (128)/Foundations of Cryptography, Volume 1_ Bas - Oded Goldreich.pdf",
+ "frontmatter_text": "Foundations of Cryptography\nCryptography is concerned with the conceptualization, definition, and construction of\ncomputing systems that address security concerns. The design of cryptographic systems\nmust be based on firm foundations. This book presents a rigorous and systematic\ntreatment of the foundational issues: defining cryptographic tasks and solving new\ncryptographic problems using existing tools. It focuses on the basic mathematical tools:\ncomputational difficulty (one-way functions), pseudorandomness, and zero-knowledge\nproofs. The emphasis is on the clarification of fundamental concepts and on demonstrat-\ning the feasibility of solving cryptographic problems rather than on describing ad hoc\napproaches.\nThe book is suitable for use in a graduate course on cryptography and as a reference\nbook for experts. The author assumes basic familiarity with the design and analysis of\nalgorithms; some knowledge of complexity theory and probability is also useful.\nOded Goldreich is Professor of Computer Science at the Weizmann Institute of Science\nand incumbent of the Meyer W. Weisgal Professorial Chair. An active researcher, he\nhas written numerous papers on cryptography and is widely considered to be one of\nthe world experts in the area. He is an editor of Journal of Cryptology and SIAM\nJournal on Computing and the author of Modern Cryptography, Probabilistic Proofs\nand Pseudorandomness, published in 1999 by Springer-Verlag.\n\f\n\f\nFoundations of Cryptography\nBasic Tools\nOded Goldreich\nWeizmann Institute of Science\n\f\n\uf770\uf775\uf762\uf76c\uf769\uf773\uf768\uf765\uf764 \uf762\uf779 \uf774\uf768\uf765 \uf770\uf772\uf765\uf773\uf773 \uf773\uf779\uf76e\uf764\uf769\uf763\uf761\uf774\uf765 \uf76f\uf766 \uf774\uf768\uf765 \uf775\uf76e\uf769\uf776\uf765\uf772\uf773\uf769\uf774\uf779 \uf76f\uf766 \uf763\uf761\uf76d\uf762\uf772\uf769\uf764\uf767\uf765\nThe Pitt Building, Trumpington Street, Cambridge, United Kingdom\n\uf763\uf761\uf76d\uf762\uf772\uf769\uf764\uf767\uf765 \uf775\uf76e\uf769\uf776\uf765\uf772\uf773\uf769\uf774\uf779 \uf770\uf772\uf765\uf773\uf773\nThe Edinburgh Building, Cambridge CB2 2RU, UK\n40 West 20th Street, New York, NY 10011-4211, USA\n477 Williamstown Road, Port Melbourne, VIC 3207, Australia\nRuiz de Alarc\u00f3n 13, 28014 Madrid, Spain\nDock House, The Waterfront, Cape Town 8001, South Africa\nhttp://www.cambridge.org\nFirst published in printed format \nISBN 0-521-79172-3 hardback\nISBN 0-511-04120-9 eBook\nOded Goldreich 2004\nFirst published 2001\nReprinted with corrections 2003\n2001\n(netLibrary)\n\u00a9\n\f\nTo Dana\n\f\n\f\nContents\nList of Figures \npage xii\n",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

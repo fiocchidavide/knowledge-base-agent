@@ -1,0 +1,59 @@
+{
+ "calibre_id": 191,
+ "path": "/Users/davide/Calibre Library/Laurent Chuat/The Complete Guide to SCION_ From Design Principles to Formal Verification (191)/The Complete Guide to SCION_ From Design P - Laurent Chuat.pdf",
+ "isbn": "9783031052873",
+ "title": "The Complete Guide to SCION: From Design Principles to Formal Verification",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Laurent",
+   "Chuat"
+  ],
+  [
+   "Markus",
+   "Legner"
+  ],
+  [
+   "David",
+   "Basin"
+  ],
+  [
+   "David",
+   "Hausheer"
+  ],
+  [
+   "Samuel",
+   "Hitz"
+  ],
+  [
+   "Peter",
+   "M\u00fcller"
+  ],
+  [
+   "Adrian",
+   "Perrig"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2022",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": "Information Security and Cryptography",
+ "place": "Cham",
+ "publisher": "Springer International Publishing",
+ "pages": 653,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [
+  "title-conflict"
+ ],
+ "n_sources": 4,
+ "calibre_title": "The Complete Guide to SCION: From Design Principles to Formal Verification",
+ "calibre_author_sort": "Chuat, Laurent & Legner, Markus & Basin, David & Hausheer, David & Hitz, Samuel & M\u00fcller, Peter & Perrig, Adrian",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Laurent Chuat/The Complete Guide to SCION_ From Design Principles to Formal Verification (191)/The Complete Guide to SCION_ From Design P - Laurent Chuat.pdf",
+ "frontmatter_text": "Information Security and Cryptography\nLaurent Chuat \u00b7 Markus Legner \u00b7 \nDavid Basin \u00b7 David Hausheer \u00b7 \nSamuel Hitz \u00b7 Peter M\u00fcller \u00b7 Adrian Perrig\nThe Complete \nGuide \nto SCION\nFrom Design Principles to Formal \nVerification\n\f\nInformation Security and Cryptography\nSeries Editors\nDavid Basin, Department of Computer Science, ETH Z\u00fcrich, Z\u00fcrich, Switzerland\nKenny Paterson, Information Security Group, Royal Holloway, University of\nLondon, Egham, Surrey, UK\nEditorial Board\nMichael Backes, Department of Computer Science, Saarland University,\nSaarbr\u00fccken, Saarland, Germany\nGilles Barthe, IMDEA Software Institute, Pozuelo de Alarc\u00f3n, Madrid, Spain\nRonald Cramer, CWI, Amsterdam, The Netherlands\nIvan Damg\u00e5rd, Department of Computer Science, Aarhus University, Aarhus,\nDenmark\nRobert H. Deng\n, Singapore Management University, Singapore, Singapore\nChristopher Kruegel, Department of Computer Science, University of California,\nSanta Barbara, CA, USA\nTatsuaki Okamoto, Okamoto Research Lab., NTT Secure Platform Laboratories,\nMusashino-shi, Tokyo, Japan\nAdrian Perrig, Department of Computer Science, ETH Z rich, Z\u00fcrich, Switzerland\nBart Preneel, Department Elektrotechniek-ESAT /COSIC, University of Leuven,\nLeuven, Belgium\nCarmela Troncoso, Security and Privacy Engineering Lab, \u00c9cole Polytechnique\nF\u00e9d\u00e9rale de Lausa, Lausanne, Switzerland\nMoti Yung\n, Google Inc, New York, NY, USA\n\u00fc\n\f\nInformation Security \u2013 protecting information in potentially hostile environments \u2013\nis a crucial factor in the growth of information-based processes in industry,\nbusiness, and administration. Cryptography is a key technology for achieving\ninformation security in communications, computer systems, electronic commerce,\nand in the emerging information society.\nSpringer's Information Security & Cryptography (IS&C) book series covers all\nrelevant topics, ranging from theory to advanced applications. The intended\naudience includes students, researchers and practitioners.\nMore information about this series at https://link.springer.com/bookseries/4752\n\f\nLaurent Chuat\n\u2022 Markus Legner\n\u2022 David Basin\n\u2022\nDavid Hausheer\n\u2022 Samuel Hitz\n\u2022 Peter M\u00fcller\n\u2022\nAdrian Perrig\nThe Complete Guide\nto SCION\nFrom Design Principles to For",
+ "needs_visual": false,
+ "cover_warnings": []
+}

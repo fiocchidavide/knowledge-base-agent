@@ -1,0 +1,36 @@
+{
+ "calibre_id": 236,
+ "path": "/Users/davide/Calibre Library/Walter Rudin/Principles of Mathematical Analysis (236)/Principles of Mathematical Analysis - Walter Rudin.pdf",
+ "isbn": "9780070542358",
+ "title": "Principles of Mathematical Analysis",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "Walter",
+   "Rudin"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "1976",
+ "year_src": "openlibrary",
+ "edition": 3,
+ "edition_src": "calibre_comment",
+ "series": "International series in pure and applied mathematics",
+ "place": "New York",
+ "publisher": "McGraw-Hill",
+ "pages": 594,
+ "abstract_available": false,
+ "calibre_comment": "Third Edition. International Series in Pure and Applied Mathematics. McGraw-Hill, 1976.",
+ "flags": [],
+ "n_sources": 2,
+ "calibre_title": "Principles of Mathematical Analysis",
+ "calibre_author_sort": "Rudin, Walter",
+ "calibre_tags": "Mathematics,Real Analysis,Textbook",
+ "file": "/Users/davide/Calibre Library/Walter Rudin/Principles of Mathematical Analysis (236)/Principles of Mathematical Analysis - Walter Rudin.pdf",
+ "frontmatter_text": "--Principles of --\n--Mathematical--\n--Analysis \nTHIRD EDITION \n\f\nINTERNATIONAL SERIES IN PURE \nAND APPLIED MATHEMATICS \nWilliam Ted Martm, E. H. Spamer, G. Sprmger and \nP. J. Davis. Consulting Editors \nAHLFORS: Complex Analysis \nBucK: Advanced Calculus \nBusACKER AND SAATY: Finite Graphs and Networks \nCHENEY: Introduction to Approximation Theory \nCHESTER: Techniques in Partial Differential Equations \nCODDINGTON AND LEVINSON: Theory of Ordinary Differential Equations \nCONTE AND DE BooR: Elementary Numerical Analysis: An Algorithmic Approach \nDENNEMEYER: Introduction to Partial Differential Equations and Boundary Value \nProblems \nDETTMAN: Mathematical Methods in Physics and Engineering \nGoLOMB AND SHANKS: Elements of Ordinary Differential Equations \nGREENSPAN: Introduction to Partial Differential Equations \nHAMMING: Numerical Methods for Scientists and Engineers \nHILDEBRAND: Introduction to Numerical Analysis \nHousEHOLDER: The Numerical Treatment of a Single Nonlinear Equation \nKALMAN, F ALB, AND ARBIB: Topics in Mathematical Systems Theory \nLAss: Vector and Tensor Analysis \nMcCARTY: Topology: An Introduction with Applications to Topological Groups \nMONK: Introduction to Set Theory \nMOORE: Elements of Linear Algebra and Matrix Theory \nMOSTOW AND SAMPSON: Linear Algebra \nMouRSUND AND DuRIS: Elementary Theory and Application of Numerical Analysis \nPEARL: Matrix Theory and Finite Mathematics \nPIPES AND HARVILL: Applied Mathematics for Engineers and Physicists \nRALSTON: A First Course in Numerical Analysis \nRITGER AND RosE: Differential Equations with Applications \nRITT: Fourier Series \nRuDIN: Principles of Mathematical Analysis \nSHAPIRO: Introduction to Abstract Algebra \nSIMMONS: Differential Equations with Applications and Historical Notes \nSIMMONS: Introduction to Topology and Modern Analysis \nSNEDDON: Elements of Partial Differential Equations \nSTRUBLE: Nonlinear Differential Equations \n\f\nMcGraw-Hill, Inc. \nNew York St. Louis San Francisco Auckland Bogota \nCaracas Lisbon London Madrid Mexico City Milan \nMontreal New Delhi San Juan Singapore \nSydney Tokyo Toronto \nWALTER RUDIN \nProfessor of Mathematics \nUniversity of Wisconsin-Madison \nPrinciples of \nMathematical \nA",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

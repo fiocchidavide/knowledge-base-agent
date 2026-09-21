@@ -1,0 +1,44 @@
+{
+ "calibre_id": 202,
+ "path": "/Users/davide/Calibre Library/Bruce Dang/Practical Reverse Engineering_ x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (202)/Practical Reverse Engineering_ x86, x64, A - Bruce Dang.pdf",
+ "isbn": "9781118787311",
+ "title": "Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Bruce",
+   "Dang"
+  ],
+  [
+   "Alexandre",
+   "Gazet"
+  ],
+  [
+   "Elias",
+   "Bachaalany"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2014",
+ "year_src": "gb",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": "Indianapolis, IN",
+ "publisher": "John Wiley & Sons",
+ "pages": 383,
+ "abstract_available": true,
+ "calibre_comment": "With contributions from S\u00e9bastien Josse.",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation",
+ "calibre_author_sort": "Dang, Bruce, Gazet, Alexandre, Bachaalany, Elias",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Bruce Dang/Practical Reverse Engineering_ x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (202)/Practical Reverse Engineering_ x86, x64, A - Bruce Dang.pdf",
+ "frontmatter_text": "Practical Reverse Engineering\n\f\n\f\nBruce Dang\nAlexandre Gazet\nElias Bachaalany\nwith contributions from S\u00e9bastien Josse\nPractical Reverse \nEngineering\nx86, x64, ARM, Windows\u00ae Kernel, \nReversing Tools, and Obfuscation\n\f\nPractical Reverse Engineering: x86, x64, ARM, Windows\u00ae Kernel, Reversing Tools, and Obfuscation\nPublished by\nJohn Wiley & Sons, Inc.\n10475 Crosspoint Boulevard\nIndianapolis, IN 46256\nwww.wiley.com\nCopyright \u00a9 2014 by Bruce Dang\nPublished by John Wiley & Sons, Inc., Indianapolis, Indiana\nPublished simultaneously in Canada\nISBN: 978-1-118-78731-1\nISBN: 978-1-118-78725-0 (ebk)\nISBN: 978-1-118-78739-7 (ebk)\nManufactured in the United States of America\n10 9 8 7 6 5 4 3 2 1\nNo part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, \nelectronic, mechanical, photocopying, recording, scanning or otherwise, except as permitted under Sections 107 or \n108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or autho-\nrization through payment of the appropriate per-copy fee to the Copyright Clearance Center, 222 Rosewood Drive, \nDanvers, MA 01923, (978) 750-8400, fax (978) 646-8600. Requests to the Publisher for permission should be addressed \nto the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) \n748-6008, or online at http://www.wiley.com/go/permissions.\nLimit of Liability/Disclaimer of Warranty: The publisher and the author make no representations or warranties with \nrespect to the accuracy or completeness of the contents of this work and specifi cally disclaim all warranties, including \nwithout limitation warranties of fi tness for a particular purpose. No warranty may be created or extended by sales or \npromotional materials. The advice and strategies contained herein may not be suitable for every situation. This work \nis sold with the understanding that the publisher is not engaged in rendering legal, accounting, or other professional \nservices. If professional assistance is required, the services of a competent professional person should be sought. \nNeither the publisher nor the aut",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

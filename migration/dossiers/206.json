@@ -1,0 +1,33 @@
+{
+ "calibre_id": 206,
+ "path": "/Users/davide/Calibre Library/Martin Fowler/UML Distilled_ A Brief Guide to the Standard Object Modeling Language (206)/UML Distilled_ A Brief Guide to the Standa - Martin Fowler.pdf",
+ "isbn": "9780321193681",
+ "title": "UML Distilled: A Brief Guide to the Standard Object Modeling Language",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Martin",
+   "Fowler"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2004",
+ "year_src": "gb",
+ "edition": 3,
+ "edition_src": "calibre_comment",
+ "series": "The Addison-Wesley object technology series",
+ "place": "Boston, Mass.",
+ "publisher": "Addison-Wesley",
+ "pages": 192,
+ "abstract_available": true,
+ "calibre_comment": "Third Edition.",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "UML Distilled: A Brief Guide to the Standard Object Modeling Language",
+ "calibre_author_sort": "Fowler, Martin",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Martin Fowler/UML Distilled_ A Brief Guide to the Standard Object Modeling Language (206)/UML Distilled_ A Brief Guide to the Standa - Martin Fowler.pdf",
+ "frontmatter_text": "scanned by \ndataCore \nSERIES EDITORS \nOBJECT TECHNOLOGY \nTi.... \n... \n,goo\n. \n \nTACO \nUMBR1J \np \nKiwrairiamsigiLiM \ufffd\nL'iviptaguiu \nL DISTILLED\nTHIRD EDITION \nA BRIEF GUIDE TO THE STANDARD \nOBJECT MODELING LANGUAGE \nMARTIN FOWLER \n\f\np. 35 \nClass Name \nClass \nMultiplicities p. 38 \n1 \nClass \nA \ngeneralization set p. 76 \n{ordered} \ufffd\n* \nSubtype 1 \nSubtype 2 \nClass \np. 49 \nConstraint \n{name: description) \nClass \nKeyword \ufffd\n\u201ckeyworcl. \ufffd\np. 65 \nQualified Association p. 74 \nm..n \nClass \nNavigability p.42 \nrole name \nTarget \nSource \nGeneralization p. 45 \nAssociation p. 37 \nexactly one \nmany \n(zero or more) \noptional \n(zero or one) \nnumerically \nspecified \nordered \naggregation p. 67 \ncomposition p. 67 \nDependency p.47 \nClient \nSupplier \nNote p.46 \nInstance Specification p. 87 \nobject name: Class Name \nClass \nqualifier \nClass \n0..1 \nClass \nSupertype \nClass \nClass Name \nattribute:Type[0..1 j = initialValue \noperation(arg list) : return type \nabstractOperation \nClass A \nrole of B \nClass B \nrole of A \nsome useful text \n\f\nActor \n\u00abinclude>, \nClass Diagram \nAbstract \nClass \n\u00abinterface>, \n \nInterface \nClient \nClass \ndependency \np. 69 \nrealization \np. 71 \nprovided interface \nrequired interface \n[UML 2] \nImplementing \nClass \ntemplate class 12 81 \nClass \nClass \nT \nSet \nAssociation \nClass \np. 78 \nbound element \nSet<Integer> \nComposite Structure \ufffd\np. 135 \np. 139 \ufffd\npart : Class \nComponent \no r \n \nCommunication Diagram p. 131 \nobject name : class \n1: message 0 \nrole name \n: class \nUse Case Diagram p. 99 \n\f\nPraise for LIML Distilled \n\"UML Distilled remains the best introduction to UML notation. Martin's agile \nand pragmatic approach hits the sweet spot, and I wholeheartedly recommend \nit!\" \n\u2014Craig Larman \nAuthor of Applying UML and Patterns \n\"Fowler cuts through the complexity of UML to get users started quickly.\" \n\u2014Jim Rumbaugh \nAuthor and originator of UML \n\"Martin Fowler's UML Distilled is an excellent way to get started with UML. \nIn fact for most users, UML Distilled contains all you need to apply UML suc-\ncessfully. As Martin points out, UML can be used in many ways, but the most \ncommon is as a widely recognized notation for sketching designs. This book \ndoes an excellent job of dis",
+ "needs_visual": false,
+ "cover_warnings": []
+}

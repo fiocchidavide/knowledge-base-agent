@@ -1,0 +1,53 @@
+{
+ "calibre_id": 147,
+ "path": "/Users/davide/Calibre Library/Evi Nemeth/UNIX and Linux System Administration Handbook (147)/UNIX and Linux System Administration Handb - Evi Nemeth.pdf",
+ "isbn": "9780134277554",
+ "title": "Unix and Linux System Administration Handbook",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Evi",
+   "Nemeth"
+  ],
+  [
+   "Garth",
+   "Snyder"
+  ],
+  [
+   "Trent R",
+   "Hein"
+  ],
+  [
+   "Ben",
+   "Whaley"
+  ],
+  [
+   "Dan",
+   "Mackin"
+  ]
+ ],
+ "authors_src": "loc",
+ "year": "2017",
+ "year_src": "gb",
+ "edition": 5,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": "Boston",
+ "publisher": "Addison-Wesley",
+ "pages": 1226,
+ "abstract_available": false,
+ "calibre_comment": "Fifth Edition.",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "UNIX and Linux System Administration Handbook",
+ "calibre_author_sort": "Nemeth, Evi & Snyder, Garth & Hein, Trent R. & Whaley, Ben & Mackin, Dan",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Evi Nemeth/UNIX and Linux System Administration Handbook (147)/UNIX and Linux System Administration Handb - Evi Nemeth.pdf",
+ "frontmatter_text": "UNIX\n\u00ae AND LINUX\n\u00ae SYSTEM\nADMINISTRATION\nHANDBOOK\nFIFTH EDITION\n\f\nThis page intentionally left blank \n\f\nBoston \u2022 Columbus \u2022 Indianapolis \u2022 New York \u2022 San Francisco \u2022 Amsterdam \u2022 Cape Town\nDubai \u2022 London \u2022 Madrid \u2022 Milan \u2022 Munich \u2022 Paris \u2022 Montreal \u2022 Toronto \u2022 Delhi \u2022 Mexico City\nS\u00e3o Paulo \u2022 Sydney \u2022 Hong Kong \u2022 Seoul \u2022 Singapore \u2022 Taipei \u2022 Tokyo\nEvi Nemeth\nGarth Snyder\nTrent R. Hein\nBen Whaley\nDan Mackin\nUNIX\n\u00ae AND LINUX\n\u00ae SYSTEM\nADMINISTRATION\nHANDBOOK\nFIFTH EDITION\nwith James Garnett, Fabrizio Branca, and Adrian Mouat \n\f\nMany of the designations used by manufacturers and sellers to distinguish their products are claimed as trade-\nmarks. Where those designations appear in this book, and the publisher was aware of a trademark claim, the \ndesignations have been printed with initial capital letters or in all capitals.\nUbuntu is a registered trademark of Canonical Limited, and is used with permission.\nDebian is a registered trademark of Software in the Public Interest Incorporated.\nCentOS is a registered trademark of Red Hat Inc., and is used with permission.\nFreeBSD is a registered trademark of The FreeBSD Foundation, and is used with permission.\nThe Linux Tux logo was created by Larry Ewing, lewing@isc.tamu.edu.\nThe authors and publisher have taken care in the preparation of this book, but make no expressed or implied \nwarranty of any kind and assume no responsibility for errors or omissions. No liability is assumed for inciden-\ntal or consequential damages in connection with or arising out of the use of the information or programs con-\ntained herein.\nFor information about buying this title in bulk quantities, or for special sales opportunities (which \nmay include electronic versions; custom cover designs; and content particular to your business, train-\ning goals, marketing focus, or branding interests), please contact our corporate sales department at \ncorpsales@pearsoned.com or (800) 382-3419.\nFor government sales inquiries, please contact governmentsales@pearsoned.com.\nFor questions about sales outside the U.S., please contact intlcs@pearson.com. \nVisit us on the web: informit.com\nLibrary of Congress Control Number: 2017945559\nCopyright \u00a9 2018 Pearson Educatio",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance",
+  "page 1 aspect 0.728 differs from the body's 0.795"
+ ]
+}

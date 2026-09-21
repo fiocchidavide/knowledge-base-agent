@@ -1,0 +1,33 @@
+{
+ "calibre_id": 148,
+ "path": "/Users/davide/Calibre Library/Victor Shoup/A Computational Introduction to Number Theory and Algebra (148)/A Computational Introduction to Number The - Victor Shoup.pdf",
+ "isbn": "9780521516440",
+ "title": "A Computational Introduction to Number Theory and Algebra",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Victor",
+   "Shoup"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2009",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "k10plus",
+ "series": null,
+ "place": "Cambridge",
+ "publisher": "Cambridge University Press",
+ "pages": 596,
+ "abstract_available": true,
+ "calibre_comment": "Version 2.1 (2008); corresponds to the second Cambridge print edition.",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "A Computational Introduction to Number Theory and Algebra",
+ "calibre_author_sort": "Shoup, Victor",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Victor Shoup/A Computational Introduction to Number Theory and Algebra (148)/A Computational Introduction to Number The - Victor Shoup.pdf",
+ "frontmatter_text": "A Computational Introduction to Number Theory\nand Algebra\n(Version 2.1)\nVictor Shoup\n\f\n\f\nVersion History\n2.1: Jan. 21, 2008. Fixed some typos, changed to Times Roman font.\n2.0: Dec. 18, 2007. Extensive organizational and notational changes, as well as\ncorrections, some additional material, and many additional exercises.\n1.0: Jan. 15, 2005. Corresponds to the first print edition, published by Cambridge\nUniversity Press (2005).\nNavigation.\nThis PDF document contains hyperlinks, and one may navigate\nthrough it by clicking on theorem, definition, lemma, equation, and page num-\nbers, as well as URLs, and chapter and section titles in the table of contents; most\nPDF viewers should also display a list of \u201cbookmarks\u201d that allow direct access to\nchapters and sections.\n\f\nCopyright \u00a9 2007 by Victor Shoup <victor@shoup.net>\nThe electronic version of this work is distributed under the terms and conditions of\na Creative Commons license (Attribution-NonCommercial-NoDerivs 2.0):\nYou are free to copy, distribute, and display the electronic version\nof this work under the following conditions:\nAttribution. You must give the original author credit.\nNoncommercial. You may not use the electronic version of this\nwork for commercial purposes.\nNo Derivative Works. You may not alter, transform, or build upon\nthe electronic version of this work.\nFor any reuse or distribution, you must make clear to others the\nlicense terms of this work.\nAny of these conditions can be waived if you get permission from\nthe author.\nFor more information about the license, visit\ncreativecommons.org/licenses/by-nd-nc/2.0.\nAll other rights, including the right to distribute of this work in print (or any other)\nform, are reserved.\n\f\nContents\nPreface\npage x\nPreliminaries\nxiv\n1\nBasic properties of the integers\n1\n1.1\nDivisibility and primality\n1\n1.2\nIdeals and greatest common divisors\n5\n1.3\nSome consequences of unique factorization\n10\n2\nCongruences\n14\n2.1\nEquivalence relations\n14\n2.2\nDefinitions and basic properties of congruences\n15\n2.3\nSolving linear congruences\n18\n2.4\nThe Chinese remainder theorem\n21\n2.5\nResidue classes\n23\n2.6\nEuler\u2019s phi function\n30\n2.7\nEuler\u2019s theorem and Fermat\u2019s little theorem\n32\n2.8\nQuadrati",
+ "needs_visual": false,
+ "cover_warnings": []
+}

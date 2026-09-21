@@ -1,0 +1,41 @@
+{
+ "calibre_id": 211,
+ "path": "/Users/davide/Calibre Library/Thomas M. Cover/Elements of Information Theory (211)/Elements of Information Theory - Thomas M. Cover.pdf",
+ "isbn": "9780471241959",
+ "title": "Elements of Information Theory",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Thomas M",
+   "Cover"
+  ],
+  [
+   "Joy A",
+   "Thomas"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2006",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": "Wiley Series in Telecommunications and Signal Processing",
+ "place": "Hoboken, NJ",
+ "publisher": "John Wiley & Sons",
+ "pages": 774,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition (2006).",
+ "flags": [],
+ "n_sources": 5,
+ "calibre_title": "Elements of Information Theory",
+ "calibre_author_sort": "Cover, Thomas M.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Thomas M. Cover/Elements of Information Theory (211)/Elements of Information Theory - Thomas M. Cover.pdf",
+ "frontmatter_text": "ELEMENTS OF\nINFORMATION THEORY\nSecond Edition\nTHOMAS M. COVER\nJOY A. THOMAS\nA JOHN WILEY & SONS, INC., PUBLICATION\n\f\nELEMENTS OF\nINFORMATION THEORY\n\f\n\f\nELEMENTS OF\nINFORMATION THEORY\nSecond Edition\nTHOMAS M. COVER\nJOY A. THOMAS\nA JOHN WILEY & SONS, INC., PUBLICATION\n\f\nCopyright \uf6d92006 by John Wiley & Sons, Inc. All rights reserved.\nPublished by John Wiley & Sons, Inc., Hoboken, New Jersey.\nPublished simultaneously in Canada.\nNo part of this publication may be reproduced, stored in a retrieval system, or transmitted in any\nform or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise,\nexcept as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without\neither the prior written permission of the Publisher, or authorization through payment of the\nappropriate per-copy fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers,\nRequests to the Publisher for permission should be addressed to the Permissions Department,\nJohn Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) 748-6008,\nLimit of Liability/Disclaimer of Warranty: While the publisher and author have used their best efforts\nin preparing this book, they make no representations or warranties with respect to the accuracy or\ncompleteness of the contents of this book and specifically disclaim any implied warranties of\nmerchantability or fitness for a particular purpose. No warranty may be created or extended by sales\nrepresentatives or written sales materials. The advice and strategies contained herein may not be\nsuitable for your situation. You should consult with a professional where appropriate. Neither the\npublisher nor author shall be liable for any loss of profit or any other commercial damages, including\nbut not limited to special, incidental, consequential, or other damages.\nFor general information on our other products and services or for technical support, please contact our\nCustomer Care Department within the United States at (800) 762-2974, outside the United States at\n(317) 572-3993 or fax (317) 572-4002.\nWiley also publishes its books in a variety of electronic formats. Some content that appears in",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance",
+  "page 1 aspect 0.615 differs from the body's 0.662"
+ ]
+}

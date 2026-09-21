@@ -1,0 +1,44 @@
+{
+ "calibre_id": 230,
+ "path": "/Users/davide/Calibre Library/B. Jack Copeland/Computability_ Turing, Godel, Church, and Beyond (230)/Computability_ Turing, Godel, Church, and - B. Jack Copeland.pdf",
+ "isbn": "9780262018999",
+ "title": "Computability: Turing, G\u00f6del, Church, and Beyond",
+ "title_src": "gb",
+ "creators": [
+  [
+   "B. Jack",
+   "Copeland"
+  ],
+  [
+   "Carl J.",
+   "Posy"
+  ],
+  [
+   "Oron",
+   "Shagrir"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2013",
+ "year_src": "gb",
+ "edition": 1,
+ "edition_src": "k10plus",
+ "series": null,
+ "place": "Cambridge, Massachusetts",
+ "publisher": "The MIT Press",
+ "pages": 366,
+ "abstract_available": true,
+ "calibre_comment": "Computer scientists, mathematicians, and philosophers discuss the conceptual foundations of the notion of computability as well as recent theoretical developments. In the 1930s a series of seminal works published by Alan Turing, Kurt G\u00f6del, Alonzo Church, and others established the theoretical basis for computability. This work, advancing precise characterizations of effective, algorithmic computability, was the culmination of intensive investigations into the foundations of mathematics. In the decades since, the theory of computability has moved to the center of discussions in philosophy, computer science, and cognitive science. In this volume, distinguished computer scientists, mathematicians, logicians, and philosophers consider the conceptual foundations of computability in light of our modern understanding.Some chapters focus on the pioneering work by Turing, G\u00f6del, and Church, including the Church-Turing thesis and G\u00f6del's response to Church's and Turing's proposals. Other chapters cover more recent technical developments, including computability over the reals, G\u00f6del's influence on mathematical logic and on recursion theory and the impact of work by Turing and Emil Post on our theoretical understanding of online and interactive computing; and others relate computability and complexity to issues in the philosophy of mind, the philosophy of science, and the philosophy of mathematics.ContributorsScott Aaronson, Dorit Aharonov, B. Jack Copeland, Martin Davis, Solomon Feferman, Saul Kripke, Carl J. Posy, Hilary Putnam, Oron Shagrir, Stewart Shapiro, Wilfried Sieg, Robert I. Soare, Umesh V. Vazirani",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "Computability: Turing, G\u00f6del, Church, and Beyond",
+ "calibre_author_sort": "Copeland, B. Jack & Posy, Carl J. & Shagrir, Oron",
+ "calibre_tags": "Computers,General,Computer Science,History",
+ "file": "/Users/davide/Calibre Library/B. Jack Copeland/Computability_ Turing, Godel, Church, and Beyond (230)/Computability_ Turing, Godel, Church, and - B. Jack Copeland.pdf",
+ "frontmatter_text": "Computability \n\f\n\f\n Computability \n Turing, G \u00f6 del, Church, and Beyond \n The MIT Press \n Cambridge, Massachusetts \n London, England \n edited by B. Jack Copeland, Carl J. Posy, and Oron Shagrir \n\f\n \u00a9 2013 Massachusetts Institute of Technology \n All rights reserved. No part of this book may be reproduced in any form by any electronic or mechanical \nmeans (including photocopying, recording, or information storage and retrieval) without permission in \nwriting from the publisher. \n MIT Press books may be purchased at special quantity discounts for business or sales promotional use. \nFor information, please email special_sales@mitpress.mit.edu or write to Special Sales Department, The \nMIT Press, 55 Hayward Street, Cambridge, MA 02142. \n \n This book was set in Sabon by Toppan Best-set Premedia Limited, Hong Kong. Printed and bound in \nthe United States of America. \n \n Library of Congress Cataloging-in-Publication Data \n Computability : Turing, G \u00f6 del, Church, and beyond / edited by B. Jack Copeland, Carl J. Posy, and \nOron Shagrir. \n pages cm \n Includes bibliographical references and index. \n ISBN 978-0-262-01899-9 (hardcover : alk. paper) \n 1. Computational complexity. 2. Mathematics \u2014 Philosophy. I. Copeland, B. Jack, editor of \ncompilation. II. Posy, Carl J., editor of compilation. III. Shagrir, Oron, 1961 \u2013 editor of compilation. \n QA267.7.C677 2013 \n 511.3 \u2032 52 \u2014 dc23 \n 2012039321 \n 10 9 8 7 6 5 4 3 2 1 \n\f\n Contents \n Introduction: The 1930s Revolution \nvii \n 1 \n Turing versus G \u00f6 del on Computability and the Mind \n1 \n B. Jack Copeland and Oron Shagrir \n 2 \n Computability and Arithmetic \n35 \n Martin Davis \n 3 \n About and around Computing over the Reals \n55 \n Solomon Feferman \n 4 \n The Church-Turing \u201c Thesis \u201d as a Special Corollary \nof G \u00f6 del \u2019 s Completeness Theorem \n77 \n Saul A. Kripke \n 5 \n Computability and Constructibility \n105 \n Carl J. Posy \n 6 \n After G \u00f6 del \n141 \n Hilary Putnam \n 7 \n The Open Texture of Computability \n153 \n Stewart Shapiro \n 8 \n G \u00f6 del \u2019 s Philosophical Challenge (to Turing) \n183 \n Wilfried Sieg \n 9 \n Interactive Computing and Relativized Computability \n203 \n Robert Irving Soare \n 10 Why Philosophers Should Care about Computational ",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "calibre_id": 222,
+ "path": "/Users/davide/Calibre Library/Herbert Amann/Analysis III (222)/Analysis III - Herbert Amann.pdf",
+ "isbn": "9783764374808",
+ "title": "Analysis III",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Herbert",
+   "Amann"
+  ],
+  [
+   "Joachim",
+   "Escher"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "2009",
+ "year_src": "crossref",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": "Basel",
+ "publisher": "Birkh\u00e4user Basel",
+ "pages": 476,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Analysis III",
+ "calibre_author_sort": "Amann, Herbert & Escher, Joachim",
+ "calibre_tags": "Mathematics,Analysis",
+ "file": "/Users/davide/Calibre Library/Herbert Amann/Analysis III (222)/Analysis III - Herbert Amann.pdf",
+ "frontmatter_text": "Herbert Amann\nJoachim Escher\nAnalysis III\nTranslated from the German \nby Silvio Levy and Matthew Cargo\nBirkh\u00e4user\nBasel \u00b7 Boston \u00b7 Berlin\n\f\nOriginally published in German under the same title by Birkh\u00e4user Verlag, Switzerland\n\u00a9 2001 by Birkh\u00e4user Verlag\n2000 Mathematics Subject Classification: 28-01, 28A05, 28A20, 28A25, 28B05, 58-01, \n58A05, 28A10, 58C35\nLibrary of Congress Control Number: 2008939525\nBibliographic information published by Die Deutsche Bibliothek\nDie Deutsche Bibliothek lists this publication in the Deutsche Nationalbibliografie; \ndetailed bibliographic data is available in the Internet at <http://dnb.ddb.de>.\nISBN 3-7643-7479-2 Birkh\u00e4user Verlag, Basel \u2013 Boston \u2013 Berlin \nThis work is subject to copyright. All rights are reserved, whether the whole or part of the \nmaterial is concerned, specifically the rights of translation, reprinting, re-use of illustrations, \nrecitation, broadcasting, reproduction on microfilms or in other ways, and storage in data \nbanks. For any kind of use permission of the copyright owner must be obtained. \n\u00a9 2009 Birkh\u00e4user Verlag AG\nBasel \u00b7 Boston \u00b7 Berlin\nP.O. Box 133, CH-4010 Basel, Switzerland\nPart of Springer Science+Business Media\nLayout and LATEX: Gisela Amann, Z\u00fcrich\nPrinted on acid-free paper produced of chlorine-free pulp. TCF \ufffd\nPrinted in Germany\nISBN 978-3-7643-7479-2 \n \n \n \ne-ISBN 978-3-7643-7480-8\n9 8 7 6 5 4 3 2 1 \n \n \n \n \nwww.birkhauser.ch\nAuthors:\nHerbert Amann \n \n \n \nJoachim Escher\nInstitut f\u00fcr Mathematik \n \n \nInstitut f\u00fcr Angewandte Mathematik\nUniversit\u00e4t Z\u00fcrich \n \n \nUniversit\u00e4t Hannover\nWinterthurerstr. 190 \n \n \nWelfengarten 1\n8057 Z\u00fcrich \n \n \n \n30167 Hannover\nSwitzerland \n \n \n \nGermany\ne-mail: herbert.amann@math.uzh.ch \ne-mail: escher@ifam.uni-hannover.de\n\f\nForeword\nThis third volume concludes our introduction to analysis, wherein we finish laying\nthe groundwork needed for further study of the subject.\nAs with the first two, this volume contains more material than can treated\nin a single course.\nIt is therefore important in preparing lectures to choose a\nsuitable subset of its content; the remainder can be treated in seminars or left\nto independent study. For a quick overview of this content, consul",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}

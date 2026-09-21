@@ -1,0 +1,35 @@
+{
+ "calibre_id": 168,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Fields and Galois Theory (168)/Fields and Galois Theory - J.S. Milne.pdf",
+ "isbn": "9789811221835",
+ "title": "Elliptic Curves",
+ "title_src": "gb",
+ "creators": [
+  [
+   "J. S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2020",
+ "year_src": "crossref",
+ "edition": 2,
+ "edition_src": "k10plus",
+ "series": null,
+ "place": "New Jersey",
+ "publisher": "WORLD SCIENTIFIC",
+ "pages": 199,
+ "abstract_available": true,
+ "calibre_comment": "Published World Scientific edition (the 'Book' version of Milne's notes).",
+ "flags": [
+  "title-conflict"
+ ],
+ "n_sources": 4,
+ "calibre_title": "Fields and Galois Theory",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Fields and Galois Theory (168)/Fields and Galois Theory - J.S. Milne.pdf",
+ "frontmatter_text": "Fields and Galois Theory\nThis book gives a concise exposition of the theory of fields, including the\nGalois theory of field extensions, the Galois theory of \u00b4etale algebras, and\nthe theory of transcendental extensions. The first five chapters treat the\nmaterial covered in most courses in Galois theory while the final four are\nmore advanced.\nThe first two chapters are concerned with preliminaries on polynomials\nand field extensions, and Chapter 3 proves the fundamental theorems in the\nGalois theory of fields. Chapter 4 explains, with copious examples, how to\ncompute Galois groups, and Chapter 5 describes the many applications of\nGalois theory.\nIn Chapter 6, a weak form of the Axiom of Choice is used to show that\nall fields admit algebraic closures, and that any two are isomorphic. The\nlast three chapters extend Galois theory to infinite field extensions, to \u00b4etale\nalgebras over fields, and to nonalgebraic extensions.\nThe approach to Galois theory in Chapter 3 is that of Emil Artin, and in\nChapter 8 it is that of Alexander Grothendieck.\nThis book originated as the notes for a first-year graduate course taught\nat the University of Michigan, but they have since been revised and expanded\nnumerous times. The only prerequisites are an undergraduate course in\nabstract algebra and some group theory. There are ninety-six exercises, most\nwith solutions.\nJ.S. Milne is professor emeritus of mathematics at the University of Michigan,\nAnn Arbor.\n\f\nOTHER BOOKS BY THE AUTHOR\nEtale Cohomology\nPrinceton Mathematical Series 33, Princeton University Press, 1980, xiii+323\npages, ISBN 0-691-08238-3\nHodge Cycles, Motives, and Shimura Varieties (with Pierre Deligne, Arthur\nOgus, and Kuang-yen Shih)\nLecture Notes in Math. 900, Springer-Verlag, 1982, 414 pages, ISBN 3-540-\n11174-3 and 0-387-11174-3\nArithmetic Duality Theorems\nAcademic Press, 1986, x+421 pages, ISBN 0-12-498040-6\nSecond corrected TeXed edition (paperback)\nBookSurge Publishing 2006, viii+339 pages, ISBN 1-4196-4274-X\nElliptic Curves\nKea Books, 2006, viii+238 pages, ISBN 1-4196-5257-5\nRevised second edition, World Scientific, 2020, x+308 pages, ISBN 978-981-\n122-183-5 (hardcover).\nAlgebraic Groups\nCambridge University Press,",
+ "needs_visual": false,
+ "cover_warnings": []
+}

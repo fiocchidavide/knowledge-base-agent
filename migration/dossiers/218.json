@@ -1,0 +1,39 @@
+{
+ "calibre_id": 218,
+ "path": "/Users/davide/Calibre Library/Thomas W. Judson/Abstract Algebra_ Theory and Applications (218)/Abstract Algebra_ Theory and Applications - Thomas W. Judson.pdf",
+ "isbn": null,
+ "title": "Abstract Algebra: Theory and Applications",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "Thomas W",
+   "Judson"
+  ],
+  [
+   "Robert A",
+   "Beezer"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2025",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "judsonbooks.org (open source)",
+ "pages": 503,
+ "abstract_available": false,
+ "calibre_comment": null,
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Abstract Algebra: Theory and Applications",
+ "calibre_author_sort": "Judson, Thomas W. & Beezer, Robert A.",
+ "calibre_tags": "Mathematics,Abstract Algebra,Open Textbook",
+ "file": "/Users/davide/Calibre Library/Thomas W. Judson/Abstract Algebra_ Theory and Applications (218)/Abstract Algebra_ Theory and Applications - Thomas W. Judson.pdf",
+ "frontmatter_text": "Abstract Algebra\nTheory and Applications\n\f\nAbstract Algebra\nTheory and Applications\nThomas W. Judson\nStephen F. Austin State University\nSage Exercises for Abstract Algebra\nRobert A. Beezer\nUniversity of Puget Sound\nTraducci\u00f3n al espa\u00f1ol\nAntonio Behn\nUniversidad de Chile\nAugust 1, 2025\n\f\nEdition: Annual Edition 2025\nWebsite: judsonbooks.org/aata/\n\u00a91997\u20132025\nThomas W. Judson, Robert A. Beezer\nPermission is granted to copy, distribute and/or modify this document under\nthe terms of the GNU Free Documentation License, Version 1.2 or any later\nversion published by the Free Software Foundation; with no Invariant Sections,\nno Front-Cover Texts, and no Back-Cover Texts.\nA copy of the license is\nincluded in the appendix entitled \u201cGNU Free Documentation License.\u201d\n\f\nAcknowledgements\nI would like to acknowledge the following reviewers for their helpful comments\nand suggestions.\n\u2022 David Anderson, University of Tennessee, Knoxville\n\u2022 Robert Beezer, University of Puget Sound\n\u2022 Myron Hood, California Polytechnic State University\n\u2022 Herbert Kasube, Bradley University\n\u2022 John Kurtzke, University of Portland\n\u2022 Inessa Levi, University of Louisville\n\u2022 Geoffrey Mason, University of California, Santa Cruz\n\u2022 Bruce Mericle, Mankato State University\n\u2022 Kimmo Rosenthal, Union College\n\u2022 Mark Teply, University of Wisconsin\nI would also like to thank Steve Quigley, Marnie Pommett, Cathie Griffin,\nKelle Karshick, and the rest of the staff at PWS Publishing for their guidance\nthroughout this project. It has been a pleasure to work with them.\nRobert Beezer encouraged me to make Abstract Algebra: Theory and Appli-\ncations available as an open source textbook, a decision that I have never regret-\nted. With his assistance, the book has been rewritten in PreTeXt (pretextbook.org1),\nmaking it possible to quickly output print, web, pdf versions and more from the\nsame source. The open source version of this book has received support from\nthe National Science Foundation (Awards #DUE-1020957, #DUE\u20131625223,\nand #DUE\u20131821329).\n1pretextbook.org\niv\n\f\nPreface\nThis text is intended for a one or two-semester undergraduate course in abstract\nalgebra. Traditionally, these courses have covered the theoretical aspects",
+ "needs_visual": false,
+ "cover_warnings": []
+}

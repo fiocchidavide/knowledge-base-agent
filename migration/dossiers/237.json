@@ -1,0 +1,39 @@
+{
+ "calibre_id": 237,
+ "path": "/Users/davide/Calibre Library/Sheldon M. Ross/A Second Course in Probability (237)/A Second Course in Probability - Sheldon M. Ross.pdf",
+ "isbn": "9781009179911",
+ "title": "A Second Course in Probability",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Sheldon M.",
+   "Ross"
+  ],
+  [
+   "Erol A.",
+   "Pek\u00f6z"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2023",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": "Cambridge, United Kingdom",
+ "publisher": "Cambridge University Press",
+ "pages": 190,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition (2023). Cambridge University Press. Covers measure theory, limit theorems, bounding probabilities and expectations, coupling and Stein's method, martingales, Markov chains, renewal theory, and Brownian motion.",
+ "flags": [
+  "title-conflict"
+ ],
+ "n_sources": 3,
+ "calibre_title": "A Second Course in Probability",
+ "calibre_author_sort": "Ross, Sheldon M. & Pek\u00f6z, Erol A.",
+ "calibre_tags": "Mathematics,Textbook,Probability",
+ "file": "/Users/davide/Calibre Library/Sheldon M. Ross/A Second Course in Probability (237)/A Second Course in Probability - Sheldon M. Ross.pdf",
+ "frontmatter_text": "A Second Course in Probability\nSecond Edition\nWritten by Sheldon M. Ross and Erol A. Pek\u00a8oz,this text familiarizes readers with\nadvanced topics in probability while keeping the mathematical prerequisites to a\nminimum. Topics covered include measure theory, limit theorems, bounding\nprobabilities and expectations, coupling and Stein\u2019s method, martingales, Markov\nchains, renewal theory, and Brownian motion. No other text covers all of these topics\nrigorously but at such an accessible level; only an undergraduate-level understanding\nof calculus and probability is needed.\nNew to this edition are sections on the gambler\u2019s ruin problem, Stein\u2019s method as\napplied to exponential approximations, and applications of the martingale stopping\ntheorem. Extra end-of-chapter exercises have also been added, with selected solutions\navailable. This is an ideal textbook for students taking an advanced undergraduate or\ngraduate course in probability. It is also a useful resource for professionals in relevant\napplication domains, from finance to machine learning.\nsheldon m. ross is the Epstein Chair Professor in the Epstein Department of\nIndustrial and Systems Engineering at the University of Southern California. He has\npublished more than 150 technical articles as well as a variety of textbooks in the areas\nof applied probability, statistics, and industrial engineering. He is the founding and\ncontinuing editor of the journal Probability in the Engineering and Informational\nSciences, a fellow of the Institute of Mathematical Statistics and of the Institute for\nOperations Research and the Management Sciences, and a recipient of the Humboldt\nUS Senior Scientist Award. He is the recipient of the 2006 INFORMS Expository\nWriting Award.\nerol a. pek \u00a8oz is Professor and Department Chair of Operations and Technology\nManagement in the Questrom School of Business at Boston University. He has\npublished more than 50 technical articles in applied probability and statistics and is the\nauthor of The Manager\u2019s Guide to Statistics (2009). In 2001, he was awarded Boston\nUniversity\u2019s Broderick Prize for Teaching.\nPublished online by Cambridge University Press\n\f\nPublished online by Cambridge University P",
+ "needs_visual": false,
+ "cover_warnings": []
+}

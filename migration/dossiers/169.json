@@ -1,0 +1,35 @@
+{
+ "calibre_id": 169,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Group Theory (169)/Group Theory - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Group Theory",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2021",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 137,
+ "abstract_available": false,
+ "calibre_comment": "Version 4.00 (2021). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Group Theory",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Group Theory (169)/Group Theory - J.S. Milne.pdf",
+ "frontmatter_text": "Group Theory\nJ.S. Milne\nS3\nr\nD\n\ufffd1\n2\n3\n2\n3\n1\n\ufffd\nf\nD\n\ufffd1\n2\n3\n1\n3\n2\n\ufffd\nVersion 4.00\nJune 23, 2021\n\f\nThe first version of these notes was written for a first-year graduate algebra course. As in\nmost such courses, the notes concentrated on abstract groups and, in particular, on finite\ngroups. However, it is not as abstract groups that most mathematicians encounter groups,\nbut rather as algebraic groups, topological groups, or Lie groups, and it is not just the groups\nthemselves that are of interest, but also their linear representations. It is my intention (one\nday) to expand the notes to take account of this, and to produce a volume that, while still\nmodest in size (c200 pages), will provide a more comprehensive introduction to group theory\nfor beginning graduate students in mathematics, physics, and related fields.\nBibTeX information\n@misc{milneGT,\nauthor={Milne, James S.},\ntitle={Group Theory (v4.00)},\nyear={2021},\nnote={Available at www.jmilne.org/math/},\npages={139}\n}\nPlease send comments and corrections to me at jmilne at umich dot edu.\nv2.01 (August 21, 1996). First version on the web; 57 pages.\nv2.11 (August 29, 2003). Revised and expanded; numbering; unchanged; 85 pages.\nv3.00 (September 1, 2007). Revised and expanded; 121 pages.\nv3.16 (July 16, 2020). Revised and expanded; 137 pages.\nv4.00 (June 23, 2021). Made document (including source code) available under Creative\nCommons licence.\nThe multiplication table of S3 on the front page was produced by Group Explorer.\nVersion 4.0 is published under a Creative Commons Attribution-NonCommercial-ShareAlike\n4.0 International licence (CC BY-NC-SA 4.0).\nLicence information: https://creativecommons.org/licenses/by-nc-sa/4.0\nCopyright \u00a91996\u20132021 J.S. Milne.\n\f\nContents\nContents\n3\n1\nBasic Definitions and Results\n7\nDefinitions and examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\nMultiplication tables\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n11\nSubgroups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n12\nGroups of small order . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n15\nHomomorphisms\n. . . . . . . . . . . . . . . . . . . . . . . . .",
+ "needs_visual": false,
+ "cover_warnings": []
+}

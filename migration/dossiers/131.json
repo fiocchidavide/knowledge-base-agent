@@ -1,0 +1,39 @@
+{
+ "calibre_id": 131,
+ "path": "/Users/davide/Calibre Library/Jonathan Katz/Introduction to Modern Cryptography (131)/Introduction to Modern Cryptography - Jonathan Katz.pdf",
+ "isbn": "9781466570276",
+ "title": "Introduction to Modern Cryptography",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Jonathan",
+   "Katz"
+  ],
+  [
+   "Yehuda",
+   "Lindell"
+  ]
+ ],
+ "authors_src": "gb",
+ "year": "2014",
+ "year_src": "gb",
+ "edition": 2,
+ "edition_src": "calibre_comment",
+ "series": "Chapman & Hall/CRC cryptography and network security",
+ "place": "Boca Raton",
+ "publisher": "CRC Press",
+ "pages": 598,
+ "abstract_available": true,
+ "calibre_comment": "Second Edition.",
+ "flags": [],
+ "n_sources": 3,
+ "calibre_title": "Introduction to Modern Cryptography",
+ "calibre_author_sort": "Jonathan, Katz & Yehuda, Lindell",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Jonathan Katz/Introduction to Modern Cryptography (131)/Introduction to Modern Cryptography - Jonathan Katz.pdf",
+ "frontmatter_text": "Chapman & Hall/CRC\nCRYPTOGRAPHY AND NETWORK SECURITY\nINTRODUCTION TO \nMODERN \nCRYPTOGRAPHY\nSecond Edition\nJonathan Katz\nYehuda Lindell\n\f\nINTRODUCTION TO \nMODERN \nCRYPTOGRAPHY\nSecond Edition\n\f\n\f\nCHAPMAN & HALL/CRC\nCRYPTOGRAPHY AND NETWORK SECURITY\nSeries Editor\nDouglas R. Stinson\nPublished Titles \n \nLidong Chen and Guang Gong, Communication System Security\nShiu-Kai Chin and Susan Older, Access Control, Security, and Trust: \nA Logical Approach\nM. Jason Hinek, Cryptanalysis of RSA and Its Variants\nAntoine Joux, Algorithmic Cryptanalysis\nJonathan Katz and Yehuda Lindell, Introduction to Modern \nCryptography, Second Edition\nSankar K. Pal, Alfredo Petrosino, and Lucia Maddalena, Handbook on \nSoft Computing for Video Surveillance\nBurton Rosenberg, Handbook of Financial Cryptography and Security\nForthcoming Titles \n \nMaria Isabel Vasco, Spyros Magliveras, and Rainer Steinwandt, \nGroup Theoretic Cryptography\n\f\n\f\nChapman & Hall/CRC\nCRYPTOGRAPHY AND NETWORK SECURITY\nINTRODUCTION TO \nMODERN \nCRYPTOGRAPHY\nSecond Edition\nJonathan Katz\nUniversity of Maryland \nCollege Park, MD, USA\nYehuda Lindell\nBar-Ilan University\nRamat Gan, Israel\n\f\nCRC Press\nTaylor & Francis Group\n6000 Broken Sound Parkway NW, Suite 300\nBoca Raton, FL 33487-2742\n\u00a9 2015 by Taylor & Francis Group, LLC\nCRC Press is an imprint of Taylor & Francis Group, an Informa business\nNo claim to original U.S. Government works\nVersion Date: 20140915\nInternational Standard Book Number-13: 978-1-4665-7027-6 (eBook - PDF)\nThis book contains information obtained from authentic and highly regarded sources. Reasonable \nefforts have been made to publish reliable data and information, but the author and publisher cannot \nassume responsibility for the validity of all materials or the consequences of their use. The authors and \npublishers have attempted to trace the copyright holders of all material reproduced in this publication \nand apologize to copyright holders if permission to publish in this form has not been obtained. If any \ncopyright material has not been acknowledged please write and let us know so we may rectify in any \nfuture reprint.\nExcept as permitted under U.S. Copyright Law, no part of this book may be reprinted, re",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 aspect 1.378 differs from the body's 0.682"
+ ]
+}

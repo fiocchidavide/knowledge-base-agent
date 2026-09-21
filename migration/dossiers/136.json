@@ -1,0 +1,41 @@
+{
+ "calibre_id": 136,
+ "path": "/Users/davide/Calibre Library/Alfred J. Menezes/Handbook of Applied Cryptography (136)/Handbook of Applied Cryptography - Alfred J. Menezes.pdf",
+ "isbn": "9780849385230",
+ "title": "Handbook of Applied Cryptography",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Alfred J",
+   "Menezes"
+  ],
+  [
+   "Paul C",
+   "van Oorschot"
+  ],
+  [
+   "Scott A",
+   "Vanstone"
+  ]
+ ],
+ "authors_src": "crossref",
+ "year": "1997",
+ "year_src": "gb",
+ "edition": null,
+ "edition_src": null,
+ "series": "Discrete mathematics and its applications",
+ "place": "Boca Raton, Fla.",
+ "publisher": "CRC Press",
+ "pages": 789,
+ "abstract_available": true,
+ "calibre_comment": "CRC Press Series on Discrete Mathematics and Its Applications. Fifth printing (with corrections).",
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Handbook of Applied Cryptography",
+ "calibre_author_sort": "Menezes, Alfred J. & Oorschot, Paul C. van & Vanstone, Scott A.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Alfred J. Menezes/Handbook of Applied Cryptography (136)/Handbook of Applied Cryptography - Alfred J. Menezes.pdf",
+ "frontmatter_text": "Chapter\nOverview of Cryptography\nContents in Brief\n1.1\nIntroduction\n\u00a7?\u00a7N\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n1\n1.2\nInformation security and cryptography\n\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n2\n1.3\nBackground on functions\n\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n6\n1.4\nBasic terminology and concepts\n\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n11\n1.5\nSymmetric-key encryption\n\u00a7?\u00a7&\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n15\n1.6\nDigital signatures\n\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n22\n1.7\nAuthentication and identification\n\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n24\n1.8\nPublic-key cryptography\n\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n25\n1.9\nHash functions\n\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n33\n1.10\nProtocols and mechanisms\n\u00a7?\u00a7&\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n33\n1.11\nKey establishment, management, and certification\n\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n35\n1.12\nPseudorandom numbers and sequences\n\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n39\n1.13\nClasses of attacks and security models\n\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n41\n1.14\nNotes and further references\n\u00a7&\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7N\u00a7?\u00a7?\u00a7&\u00a7?\u00a7?\u00a7?\u00a7&\u00a7\n45\n1.1 Introduction\nCryptography has a long and fascinating history. The most complete non-technical account\nof the subject is Kahn\u2019s The Codebreakers. This book traces cryptography from its initial\nand limited use by the Egyptians some 4000 years ago, to the twentieth century where it\nplayed a crucial role in the outcome of both world wars. Completed in 1963, Kahn\u2019s book\ncovers those aspects of the history which were most significant (up to that time) to the devel-\nopment of the subject. The predominant practitioners of the art were those associated with\nthe military, the diplomatic service and government in general. Cryptography was used as\na tool to protect national secrets and strategies.\nThe proliferation of computers and communications systems in the 1960s brought with\nit a demand from the private sector for means to protect information in digital form and to\nprovide security services. Beginning with the work of Feistel at IBM in the early 1970s and\nculminating in 1977 with the adoption as a U.S. Federal Information Processing Standard\nfor encrypting unclassified information,",
+ "needs_visual": false,
+ "cover_warnings": []
+}

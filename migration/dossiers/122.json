@@ -1,0 +1,37 @@
+{
+ "calibre_id": 122,
+ "path": "/Users/davide/Calibre Library/Jay Alammar/Hands-On Large Language Models (122)/Hands-On Large Language Models - Jay Alammar.pdf",
+ "isbn": "9781098150969",
+ "title": "Hands-On Large Language Models: Language Understanding and Generation",
+ "title_src": "gb",
+ "creators": [
+  [
+   "Jay",
+   "Alammar"
+  ],
+  [
+   "Maarten",
+   "Grootendorst"
+  ]
+ ],
+ "authors_src": "k10plus",
+ "year": "2024",
+ "year_src": "gb",
+ "edition": 1,
+ "edition_src": "loc",
+ "series": null,
+ "place": "Beijing",
+ "publisher": "O'Reilly",
+ "pages": 428,
+ "abstract_available": true,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 4,
+ "calibre_title": "Hands-On Large Language Models",
+ "calibre_author_sort": "Alammar, Jay & Grootendorst, Maarten",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Jay Alammar/Hands-On Large Language Models (122)/Hands-On Large Language Models - Jay Alammar.pdf",
+ "frontmatter_text": "Hands-On \nLarge Language \nModels\nLanguage Understanding \nand Generation\nJay Alammar & \nMaarten Grootendorst\n\f\nDATA\n\u201cJay and Maarten have \ncontinued their tradition \nof providing beautifully \nillustrated and insightful \ndescriptions of complex \ntopics. Their book is \na valuable resource \nfor anyone looking to \nunderstand the main \ntechniques behind how \nlarge language models \nare built.\u201d\n\u2014Andrew Ng\nfounder of DeepLearning.AI\n\u201cI can\u2019t think of another book \nthat is more important to \nread right now. On every \nsingle page, I learned \nsomething that is critical \nto success in this era of \nlanguage models.\u201d\n\u2014Josh Starmer, StatQuest\nHands-On \nLarge Language Models\nlinkedin.com/company/oreilly-media\nyoutube.com/oreillymedia \nAI has acquired startling new language capabilities in just \nthe past few years. Driven by rapid advances in deep learning, \nlanguage AI systems are able to write and understand text \nbetter than ever before. This trend is enabling new features, \nproducts, and entire industries. Through this book\u2019s visually \neducational nature, readers will learn practical tools and \nconcepts they need to use these capabilities today.\nYou\u2019ll understand how to use pretrained large language \nmodels for use cases like copywriting and summarization; \ncreate semantic search systems that go beyond keyword \nmatching; and use existing libraries and pretrained models \nfor text classification, search, and clusterings.\nThis book also helps you:\n\u2022 Understand the architecture of Transformer language \nmodels that excel at text generation and representation\n\u2022 Build advanced LLM pipelines to cluster text documents \nand explore the topics they cover\n\u2022 Build semantic search engines that go beyond keyword \nsearch, using methods like dense retrieval and rerankers\n\u2022 Explore how generative models can be used, from prompt \nengineering all the way to retrieval-augmented generation\n\u2022 Gain a deeper understanding of how to train LLMs \nand optimize them for specific applications using \ngenerative model fine-tuning, contrastive fine-tuning, \nand in-context learning\nJay Alammar is director and \nengineering fellow at Cohere.\nMaarten Grootendorst is \nsenior clinical data scientist at \nthe Netherl",
+ "needs_visual": false,
+ "cover_warnings": []
+}

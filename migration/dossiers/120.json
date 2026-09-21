@@ -1,0 +1,41 @@
+{
+ "calibre_id": 120,
+ "path": "/Users/davide/Calibre Library/Ian Goodfellow/Deep Learning (120)/Deep Learning - Ian Goodfellow.pdf",
+ "isbn": "9780262337434",
+ "title": "Deep Learning",
+ "title_src": "openlibrary",
+ "creators": [
+  [
+   "Ian",
+   "Goodfellow"
+  ],
+  [
+   "Yoshua",
+   "Bengio"
+  ],
+  [
+   "Aaron",
+   "Courville"
+  ]
+ ],
+ "authors_src": "openlibrary",
+ "year": "2016",
+ "year_src": "openlibrary",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "MIT Press",
+ "pages": 800,
+ "abstract_available": false,
+ "calibre_comment": null,
+ "flags": [],
+ "n_sources": 1,
+ "calibre_title": "Deep Learning",
+ "calibre_author_sort": "Goodfellow, Ian & Bengio, Yoshua & Courville, Aaron",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Ian Goodfellow/Deep Learning (120)/Deep Learning - Ian Goodfellow.pdf",
+ "frontmatter_text": "Deep Learning\nIan Goodfellow\nYoshua Bengio\nAaron Courville\n\f\nContents\nWebsite\nvii\nAcknowledgments\nviii\nNotation\nxi\n1\nIntroduction\n1\n1.1\nWho Should Read This Book? . . . . . . . . . . . . . . . . . . . .\n8\n1.2\nHistorical Trends in Deep Learning . . . . . . . . . . . . . . . . .\n11\nI\nApplied Math and Machine Learning Basics\n29\n2\nLinear Algebra\n31\n2.1\nScalars, Vectors, Matrices and Tensors . . . . . . . . . . . . . . .\n31\n2.2\nMultiplying Matrices and Vectors . . . . . . . . . . . . . . . . . .\n34\n2.3\nIdentity and Inverse Matrices\n. . . . . . . . . . . . . . . . . . . .\n36\n2.4\nLinear Dependence and Span\n. . . . . . . . . . . . . . . . . . . .\n37\n2.5\nNorms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n39\n2.6\nSpecial Kinds of Matrices and Vectors\n. . . . . . . . . . . . . . .\n40\n2.7\nEigendecomposition . . . . . . . . . . . . . . . . . . . . . . . . . .\n42\n2.8\nSingular Value Decomposition . . . . . . . . . . . . . . . . . . . .\n44\n2.9\nThe Moore-Penrose Pseudoinverse . . . . . . . . . . . . . . . . . .\n45\n2.10\nThe Trace Operator\n. . . . . . . . . . . . . . . . . . . . . . . . .\n46\n2.11\nThe Determinant . . . . . . . . . . . . . . . . . . . . . . . . . . .\n47\n2.12\nExample: Principal Components Analysis\n. . . . . . . . . . . . .\n48\n3\nProbability and Information Theory\n53\n3.1\nWhy Probability? . . . . . . . . . . . . . . . . . . . . . . . . . . .\n54\ni\n\f\nCONTENTS\n3.2\nRandom Variables\n. . . . . . . . . . . . . . . . . . . . . . . . . .\n56\n3.3\nProbability Distributions . . . . . . . . . . . . . . . . . . . . . . .\n56\n3.4\nMarginal Probability . . . . . . . . . . . . . . . . . . . . . . . . .\n58\n3.5\nConditional Probability\n. . . . . . . . . . . . . . . . . . . . . . .\n59\n3.6\nThe Chain Rule of Conditional Probabilities . . . . . . . . . . . .\n59\n3.7\nIndependence and Conditional Independence . . . . . . . . . . . .\n60\n3.8\nExpectation, Variance and Covariance\n. . . . . . . . . . . . . . .\n60\n3.9\nCommon Probability Distributions\n. . . . . . . . . . . . . . . . .\n62\n3.10\nUseful Properties of Common Functions\n. . . . . . . . . . . . . .\n67\n3.11\nBayes\u2019 Rule . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n70\n3.12\nTechnical Details of Continuous Variables\n.",
+ "needs_visual": false,
+ "cover_warnings": []
+}

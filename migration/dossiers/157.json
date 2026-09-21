@@ -1,0 +1,35 @@
+{
+ "calibre_id": 157,
+ "path": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Geometry (157)/Algebraic Geometry - J.S. Milne.pdf",
+ "isbn": null,
+ "title": "Algebraic Geometry",
+ "title_src": "calibre",
+ "creators": [
+  [
+   "J.S",
+   "Milne"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2024",
+ "year_src": "calibre",
+ "edition": null,
+ "edition_src": null,
+ "series": null,
+ "place": null,
+ "publisher": "jmilne.org",
+ "pages": 231,
+ "abstract_available": false,
+ "calibre_comment": "Version 6.10 (2024). Free lecture notes, jmilne.org/math/.",
+ "flags": [
+  "no-external-source"
+ ],
+ "n_sources": 0,
+ "calibre_title": "Algebraic Geometry",
+ "calibre_author_sort": "Milne, J.S.",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/J.S. Milne/Algebraic Geometry (157)/Algebraic Geometry - J.S. Milne.pdf",
+ "frontmatter_text": "Algebraic Geometry\nJ.S. Milne\nVersion 6.10\nNovember 11, 2024\n\f\nThese notes are an introduction to the theory of algebraic varieties emphasizing the\nsimilarities to the theory of manifolds. In contrast to most such accounts they study\nabstract algebraic varieties, and not just subvarieties of affine and projective space. This\napproach leads more naturally into scheme theory.\nBefore learning scheme theory everyone should understand algebraic varieties over\nalgebraically closed fields: first the geometric intuition and then the abstractions.\nBibTeX information\n@misc{milneAG,\nauthor={Milne, James S.},\ntitle={Algebraic Geometry (v6.1)},\nyear={2024},\nnote={Available at www.jmilne.org/math/},\npages={231}\n}\nv2.01 (August 24, 1996). First version on the web.\nv3.01 (June 13, 1998).\nv4.00 (October 30, 2003). Fixed errors; many minor revisions; added exercises; added\ntwo sections/chapters; 206 pages.\nv5.00 (February 20, 2005). Heavily revised; most numbering changed; 227 pages.\nv5.10 (March 19, 2008). Minor fixes; TEXstyle changed, so page numbers changed; 241\npages.\nv5.20 (September 14, 2009). Minor corrections; revised Chapters 1, 11, 16; 245 pages.\nv5.22 (January 13, 2012). Minor fixes; 260 pages.\nv6.00 (August 24, 2014). Major revision; split off the basic first course from the topics;\n223 pages.\nv6.01 (August 23, 2015). Minor fixes; 226 pages.\nv6.02 (March 19, 2017). Minor fixes; 221 pages.\nv6.03 (November 2, 2023). Minor fixes; 223 pages.\nv6.10 (November 11, 2024). Minor improvements; 231 pages.\nAvailable at www.jmilne.org/math/\nPlease send comments and corrections to me at the address on my web page.\nThe curves are a tacnode, a ramphoid cusp, and an ordinary triple point.\nCopyright \u00a9 1996\u20132024 J.S. Milne.\nSingle paper copies for noncommercial personal use may be made without explicit\npermission from the copyright holder.\n\f\nTable of Contents\nIntroduction\n9\n1\nPreliminaries from commutative algebra\n12\na\nRings and ideals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n12\nb\nRings of fractions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n16\nc\nUnique factorization . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n22\nd\nIntegral dependen",
+ "needs_visual": false,
+ "cover_warnings": []
+}

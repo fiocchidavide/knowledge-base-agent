@@ -1,0 +1,36 @@
+{
+ "calibre_id": 185,
+ "path": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Computer Networks (185)/Computer Networks - Andrew S. Tanenbaum.pdf",
+ "isbn": "9780136764052",
+ "title": "Computer Networks [RENTAL EDITION]",
+ "title_src": "openlibrary",
+ "creators": [
+  [
+   "Nick Feamster, David J. Wetherall",
+   "Andrew S. Tanenbaum"
+  ]
+ ],
+ "authors_src": "calibre",
+ "year": "2021",
+ "year_src": "pdf",
+ "edition": 6,
+ "edition_src": "calibre_comment",
+ "series": null,
+ "place": null,
+ "publisher": "Pearson",
+ "pages": 945,
+ "abstract_available": false,
+ "calibre_comment": "Sixth Edition.",
+ "flags": [],
+ "n_sources": 1,
+ "calibre_title": "Computer Networks",
+ "calibre_author_sort": "Andrew S. Tanenbaum, Nick Feamster, David J. Wetherall",
+ "calibre_tags": null,
+ "file": "/Users/davide/Calibre Library/Andrew S. Tanenbaum/Computer Networks (185)/Computer Networks - Andrew S. Tanenbaum.pdf",
+ "frontmatter_text": "COMPUTER NETWORKS\nSIXTH EDITION\n\f\n\f\nCOMPUTER NETWORKS\nSIXTH EDITION\nANDREW S. TANENBAUM\nVrije Universiteit\nAmsterdam, The Netherlands\nNICK FEAMSTER\nUniversity of Chicago\nChicago, IL\nDAVID WETHERALL\nGoogle\n\f\nPlease contact https://support.pearson.com/getsupport/s/contactsupport with any queries on this content.\nCopyright \u00a9 2021, 2011 by Pearson Education, Inc. or its affiliates, 221 River Street, Hoboken, NJ 07030. \nAll Rights Reserved. Manufactured in the United States of America. This publication is protected by copyright, and \npermission should be obtained from the publisher prior to any prohibited reproduction, storage in a retrieval system, \nor transmission in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise. For \ninformation regarding permissions, request forms, and the appropriate contacts within the Pearson Education Global \nRights and Permissions department, please visit www.pearsoned.com/permissions/.\nAcknowledgments of third-party content appear on the appropriate page within the text, which constitutes \nan extension of this copyright page.\nPEARSON, ALWAYS LEARNING, and MYLAB are exclusive trademarks owned by Pearson \nEducation, Inc. or its affiliates in the U.S. and/or other countries.\nUnless otherwise indicated herein, any third-party trademarks, logos, or icons that may appear in this work are \nthe property of their respective owners, and any references to third-party trademarks, logos, icons, or other \ntrade dress are for demonstrative or descriptive purposes only. Such references are not intended to imply any \nsponsorship, endorsement, authorization, or promotion of Pearson\u2019s products by the owners of such marks, \nor any relationship between the owner and Pearson Education, Inc., or its affiliates, authors, licensees, \nor distributors.\nLibrary of Congress Cataloging-in-Publication Data\nCataloging-in-Publication Data is available on file at the Library of Congress\nScoutAutomatedPrintCode\nISBN 10: 0-13-676405-3\nISBN 13: 978-0-13-676405-2\n\f\nTo Suzanne, Barbara, Daniel, Aron, Nathan, Marvin, Matilde, Olivia, and Mirte (AST)\nTo Marshini, Mila, and Kira (NF)\nTo Katrin, Lucy, and Pepper (DJW)\n\f\n\f\nCONTENTS\nPREFACE\nxi",
+ "needs_visual": false,
+ "cover_warnings": [
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
+ ]
+}
