@@ -381,7 +381,12 @@ content happens to be right here — 2nd edition, Jon Erickson — but **the wat
 of the cover image, so no text extraction would ever have found it.** Only looking at the
 page does. That is the whole argument for this stage.
 
-**Rule: the internal typeset title page and its verso outrank the cover, always.** A cover
+**Rule: the internal typeset title page and its verso outrank the cover, always.**
+
+⚠ **Text-extraction order is not reading order.** `mutool draw -F txt` emits text in layout
+order, which on a graphical title page can invert the author list. #186's extraction put
+Stevens before Wright; the rendered cover reads "Gary R. Wright / W. Richard Stevens".
+When extracted author order contradicts the surrounding evidence, render the page and look. A cover
 may corroborate; it may never be the source of a field. Where they conflict, prefer the
 title page and note the conflict.
 
