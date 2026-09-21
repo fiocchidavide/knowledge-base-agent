@@ -18,7 +18,7 @@
  "series": null,
  "place": null,
  "publisher": "John Wiley & Sons",
- "pages": null,
+ "pages": 108,
  "abstract_available": false,
  "calibre_comment": null,
  "flags": [],
@@ -26,10 +26,8 @@
  "calibre_title": "Instructor's Manual to Accompany Introduction to Real Analysis, Fourth Edition",
  "calibre_author_sort": "09:15:55, R. Rajagopal 4716 2000 Dec 22",
  "calibre_tags": "Mathematics,Real Analysis,Instructor's Manual",
- "file": "/Users/davide/Calibre Library/Robert G. Bartle/Instructor's Manual to Accompany Introduction to Real Analysis, Fourth Edition (224)/Instructor's Manual to Accompany Introduct - Robert G. Bartle.pdf",
- "frontmatter_text": "",
- "needs_visual": true,
- "cover_warnings": [
-  "page 1 has no usable text layer (image-only cover)"
- ]
+ "file": "/Users/davide/Calibre Library/Robert G. Bartle/Instructor_s Manual to Accompany Introduction to Real Analysis, Fourth Edition (224)/Instructor_s Manual to Accompany Introduct - Robert G. Bartle.pdf",
+ "frontmatter_text": "INSTRUCTOR\u2019S MANUAL TO ACCOMPANY\nINTRODUCTION TO REAL\nANALYSIS\nFourth Edition\nRobert G. Bartle\nEastern Michigan University\nDonald R. Sherbert\nUniversity of Illinois\nJOHN WILEY & SONS, INC.\nNew York \u2022 Chichester \u2022 Weinheim \u2022 Brisbane \u2022 Singapore \u2022 Toronto\n\f\nCopyright c\u20dd2000, 2010 by John Wiley & Sons, Inc.\nExcerpts from this work may be reproduced by instructors\nfor distribution on a not-for-profit basis for testing or\ninstructional purposes only to students enrolled in courses\nfor which the textbook has been adopted. Any other\nreproduction or translation of this work beyond that\npermitted by Sections 107 or 108 of the 1976 United States\nCopyright Act without the permission of the copyright\nowner is unlawful. Requests for permission or further\ninformation should be addressed to the Permissions\nDepartment, John Wiley & Sons, Inc., 111 River Street,\nHoboken, NJ 07030-5774, (201)-748-6011, Fax (201) 748-6008,\nWebsite http://www.wiley.com/go/permissions.\nISBN 978-0-471-44799-3\n\f\nPREFACE\nThis manual is offered as an aid in using the fourth edition of Introduction to Real\nAnalysis as a text. Both of us have frequently taught courses from the earlier\neditions of the text and we share here our experience and thoughts as to how to\nuse the book. We hope our comments will be useful.\nWe also provide partial solutions for almost all of the exercises in the book.\nComplete solutions are almost never presented here, but we hope that enough is\ngiven so that a complete solution is within reach. Of course, there is more than\none correct way to attack a problem, and you may find better proofs for some of\nthese exercises.\nWe also repeat the graphs that were given in the manual for the previous\neditions, which were prepared for us by Professor Horacio Porta, whom we wish\nto thank again.\nRobert G. Bartle\nNovember 20, 2010\nDonald R. Sherbert\n\f\nCONTENTS\nChapter 1\nPreliminaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1\nChapter 2\nThe Real Numbers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7\nChapter 3\nSequences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+ "needs_visual": false,
+ "cover_warnings": []
 }

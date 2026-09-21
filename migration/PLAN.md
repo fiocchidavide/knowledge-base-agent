@@ -394,8 +394,9 @@ I read the rendered images directly — **no OCR toolchain is needed or installe
 (`tesseract`, `ocrmypdf`, `pdftoppm` are all absent; `mutool` renders, and I am the OCR).
 Measured on your library:
 - **54 books** need the image path for page 1 alone.
-- **2 books** (#170 Hodge Cycles, #210 Billingsley) have no usable text layer at all in the
-  front matter and must be read entirely as images.
+- **1 book** (#210 Billingsley) has no usable text layer at all and must be read as images;
+  #170 has a thin but sufficient one. An earlier count of 6 was wrong — 4 of those were the
+  path bug above, not scans.
 - Rendering is effectively free: page 3 of the 206 MB Billingsley took **0.03 s**.
 
 That second point is worth dwelling on. Calibre's own note on #210 reads *"content could
@@ -511,6 +512,12 @@ A single idempotency rule makes every step safe to repeat: **never create an ite
 
 - `cp ~/Zotero/zotero.sqlite migration/backup/zotero.sqlite.<date>` — and note that Zotero keeps its own `.bak`.
 - `sqlite3 ~/Calibre\ Library/metadata.db .dump | shasum -a 256` recorded, so any accidental Calibre change is detectable.
+- ⚠ **Calibre's DB path is not the filesystem path.** `books.path` and `data.name` hold the
+  logical title, but Calibre sanitises the filesystem — an apostrophe becomes `_`. Building a
+  path from the DB alone silently fails for those books. Here it hit 4 of 115 (#138, #224,
+  #232, #234), each of which then looked like an unreadable scan with no front matter and no
+  page count. Use `lib/paths.py::resolve()`, which falls back to the sanitised spelling and
+  then to globbing for the `(id)` folder; it resolves 115/115.
 - ⚠ **Zotero runs its SQLite in WAL mode.** Any verification that copies `zotero.sqlite`
   without `zotero.sqlite-wal` reads a stale database and reports recent writes as missing.
   This produced a false "0/10 attachments" during wave 1. Always copy the `-wal` (and

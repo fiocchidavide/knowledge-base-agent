@@ -18,7 +18,7 @@
  "series": null,
  "place": null,
  "publisher": "Texas Instruments",
- "pages": null,
+ "pages": 162,
  "abstract_available": false,
  "calibre_comment": "Fifth Edition. Editors: Art Kay, Tim Green.",
  "flags": [
@@ -28,10 +28,11 @@
  "calibre_title": "Analog Engineer's Pocket Reference",
  "calibre_author_sort": "Texas Instruments, Incorporated [SLYW038,C",
  "calibre_tags": null,
- "file": "/Users/davide/Calibre Library/Art Kay/Analog Engineer's Pocket Reference (138)/Analog Engineer's Pocket Reference - Art Kay.pdf",
- "frontmatter_text": "",
- "needs_visual": true,
+ "file": "/Users/davide/Calibre Library/Art Kay/Analog Engineer_s Pocket Reference (138)/Analog Engineer_s Pocket Reference - Art Kay.pdf",
+ "frontmatter_text": "Art Kay and Tim Green, Editors\nAnalog Engineer\u2019s\nPocket Reference\nDownload e-book at \nwww.ti.com/analogrefguide\n\f\nTexas Instruments Analog Engineer's Pocket Reference \n3\nAnalog Engineer\u2019s Pocket Reference\nFifth Edition \nEdited by:\nArt Kay and Tim Green\nSpecial thanks for technical contribution and review:\nKevin Duke\nRafael Ordonez\nJohn Caldwell\nCollin Wells\nIan Williams\nThomas Kuehl\nPete Semig\nAbhijeet Godbole\nRavi Singh \nDavid Wang\n\u00a9 Copyright 2019 Texas Instruments Incorporated. All rights reserved.\n\f\n4 \nTexas Instruments Analog Engineer's Pocket Reference\nMessage from the editors:\nThis pocket reference is intended as a valuable quick guide for often used board- and system-level design \nformulae. This collection of formulae is based on a combined 50 years of analog board- and system-level \nexpertise. Much of the material herein was referred to over the years via a folder stuffed full of printouts. \nThose worn pages have been organized and the information is now available via this guide in a bound and \nhard-to-lose format! \nHere is a brief overview of the key areas included:\n\u2022 Key constants and conversions\n\u2022 Discrete components\n\u2022 AC and DC analog equations\n\u2022 Op amp basic configurations\n\u2022 OP amp bandwidth and stability \nWe hope you find this collection of formulae as useful as we have. Please send any comments and/or \nideas you have for the next edition of the Analog Engineer's Pocket Reference to \nartkay_timgreen@list.ti.com\nAdditional resources to explore: \nTI Precision Labs \nti.com/precisionlabs\n\u2022 On-demand courses and tutorials ranging from \nintroductory to advanced concepts that focus on \napplication-specific problem solving\n\u2022 \nHands-on labs and evaluation modules (EVM) \n \navailable \n \n \n \n \n- TIPL Op Amps experimentation platform, \n \n \n ti.com/TIPL-amp-evm - TIPL SAR ADC \n \n \n experimentation platform, ti.com/TIPL-adc-evm\nAnalog Engineer\u2019s Circuit Cookbooks\nti.com/circuitcookbooks\n\u2022 Simplify and speed system design with \ncomprehensive library of sub-circuit\n\u2022 Step-by-step instructions, basic formulas, \nschematic diagrams and SPICE simulations\nThe Signal e-book \nti.com/signalbook\n\u2022 Short, bite-sized lessons on on op-amp design \ntopics, such as offset\nAnalog",
+ "needs_visual": false,
  "cover_warnings": [
-  "page 1 has no usable text layer (image-only cover)"
+  "page 1 aspect 0.647 differs from the body's 0.588",
+  "page 1 carries retailer/aggregator text or a URL"
  ]
 }

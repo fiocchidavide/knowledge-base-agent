@@ -18,7 +18,7 @@
  "series": null,
  "place": "Indianapolis, Ind",
  "publisher": "Wiley",
- "pages": null,
+ "pages": 385,
  "abstract_available": true,
  "calibre_comment": null,
  "flags": [],
@@ -26,10 +26,11 @@
  "calibre_title": "The Annotated Turing: A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine",
  "calibre_author_sort": "Petzold, Charles",
  "calibre_tags": "Computer Science,Computability,Alan Turing,History of Computing",
- "file": "/Users/davide/Calibre Library/Charles Petzold/The Annotated Turing_ A Guided Tour through Alan Turing's Historic Paper on Computability and t (234)/The Annotated Turing_ A Guided Tour throug - Charles Petzold.pdf",
- "frontmatter_text": "",
- "needs_visual": true,
+ "file": "/Users/davide/Calibre Library/Charles Petzold/The Annotated Turing_ A Guided Tour through Alan Turing_s Historic Paper on Computability and t (234)/The Annotated Turing_ A Guided Tour throug - Charles Petzold.pdf",
+ "frontmatter_text": "The Annotated\nTuring\nA Guided Tour through\nAlan Turing's Historic\nPaper on Computability\nand the Turing Machine\nCharles Petzold\n~\nWILEY\nWiley Publishing, Inc.\n\f\nThe Annotated Turing: A Guided Tour through Alan Turing's\nHistoric Paper on Computability and the Turing Machine\nPublished by\nWiley Publishing, Inc.\n10475 Crosspoint Boulevard\nIndianapolis, IN 46256\nwww.wiley.com\nCopynght \u00a9 2008 by Wiley Publishing, Inc, Indianapolis, Indiana\nPublished simultaneously in Canada\nISBN 978-0-470-22905-7\nManufactured in the United States of Amenca\n1098 76 5 4 3 2 I\nNo part of this publication may be reproduced, stored in a retneval system or transmitted in any form or by\nany means, electronic, mechanical, photocopymg, recording. scanning or otherwJse, except as permitted\nunder Sections 107 or 108 of the 1976 United States Copynght Act. Wlthout either the pnor wntten\npermission of the Publisher. or authonzation through payment of the appropnate per-copy fee to the\nCopynght Clearance Center, 222 Rosewood Dnve, Danvers, MA 01923, (978) 750-8400, fax (978)\n646-8600 Requests to the Publisher for permission should be addressed to the Legal Department, Wiley\nPublishing, Inc, 10475 Crosspoint Blvd. Indianapolis, IN 46256. (317) 572-3447, fax (317) 572-4355, or\nonline at http://www.wiley.com/go/permissions\nLimit of LiabilitylDisciaimer of Warranty The publisher and the author make no representations or\nwarranties with respect to the accuracy or completeness of the contents of this work and specifically\ndisclaim all warranties, including Wlthout limitation warranties of fitness for a particular purpose No\nwarranty may be created or extended by sales or promotional matenals The adVIce and strategies\ncontained herein may not be suitable for every situation This work is sold Wlth the understanding that the\npublisher is not engaged in rendering legal, accounting. or other professional services If professional\nassistance is required. the serVIces of a competent professional person should be sought Neither the\npublisher nor the author shall be liable for damages ansing herefrom The fact that an organization or\nWebsite is referred to in this work as a citation and/or a potential source of fur",
+ "needs_visual": false,
  "cover_warnings": [
-  "page 1 has no usable text layer (image-only cover)"
+  "page 1 has no usable text layer (image-only cover)",
+  "...while the body does have a text layer -- different provenance"
  ]
 }

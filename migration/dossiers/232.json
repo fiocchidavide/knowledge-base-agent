@@ -22,7 +22,7 @@
  "series": null,
  "place": null,
  "publisher": "Open Logic Project",
- "pages": null,
+ "pages": 329,
  "abstract_available": false,
  "calibre_comment": "Open Logic Project. CC BY 4.0. Fall 2025 revision 6b09d98 (2026-07-11). https://ic.openlogicproject.org/",
  "flags": [
@@ -32,10 +32,8 @@
  "calibre_title": "Incompleteness and Computability: An Open Introduction to G\u00f6del's Theorems",
  "calibre_author_sort": "Zach, Richard & Project, Open Logic",
  "calibre_tags": "Mathematics,Logic,Computability,Open Educational Resource",
- "file": "/Users/davide/Calibre Library/Richard Zach/Incompleteness and Computability_ An Open Introduction to Godel's Theorems (232)/Incompleteness and Computability_ An Open - Richard Zach.pdf",
- "frontmatter_text": "",
- "needs_visual": true,
- "cover_warnings": [
-  "page 1 has no usable text layer (image-only cover)"
- ]
+ "file": "/Users/davide/Calibre Library/Richard Zach/Incompleteness and Computability_ An Open Introduction to Godel_s Theorems (232)/Incompleteness and Computability_ An Open - Richard Zach.pdf",
+ "frontmatter_text": "Incompleteness\nand Computability\nAn Open Introduction to\nG\u00f6del\u2019s Theorems\nF25\n\f\nIncompleteness and\nComputability\n\f\nOpen Logic Project\nInstigator\nRichard Zach, University of Calgary\nEditorial Board\nAldo Antonelli,\u2020 University of California, Davis\nAndrew Arana, Universit\u00e9 de Lorraine\nJeremy Avigad, Carnegie Mellon University\nTim Button, University College London\nWalter Dean, University of Warwick\nBenedict Eastaugh, University of Warwick\nGillian Russell, Australian National University\nNicole Wyatt, University of Calgary\nAudrey Yap, University of Victoria\nContributors\nSamara Burns, Columbia University\nDana H\u00e4gg, University of Calgary\nZesen Qian, Carnegie Mellon University\n\f\nIncompleteness and\nComputability\nAn Open Introduction to\nG\u00f6del\u2019s Theorems\nRemixed by Richard Zach\nFall 2025\n\f\nThe Open Logic Project would like to acknowledge the gener-\nous support of the Taylor Institute of Teaching and Learning of\nthe University of Calgary, and the Alberta Open Educational Re-\nsources (ABOER) Initiative, which is made possible through an\ninvestment from the Alberta government.\nCover illustrations by Matthew Leadbeater, used under a Cre-\native Commons Attribution-NonCommercial 4.0 International Li-\ncense.\nTypeset in Baskervald X and Nimbus Sans by LATEX.\nThis version of Incompleteness and Computability is revision\n6b09d98 (2026-07-11), with content generated from Open Logic\nText revision 9620cc7 (2026-07-12). Free download at:\nhttps://ic.openlogicproject.org/\nIncompleteness\nand\nComputability\nby\nRichard\nZach\nis\nlicensed\nunder\na\nCreative\nCommons\nAttribution\n4.0\nInternational License.\nIt is based\non The Open Logic Text by the Open\nLogic Project, used under a Creative\nCommons Attribution 4.0 International\nLicense.\n\f\nContents\nPreface\nxi\n1\nIntroduction to Incompleteness\n1\n1.1\nHistorical Background . . . . . . . . . . . . . . .\n1\n1.2\nDefinitions . . . . . . . . . . . . . . . . . . . . . .\n7\n1.3\nOverview of Incompleteness Results\n. . . . . . .\n13\n1.4\nUndecidability and Incompleteness . . . . . . . .\n16\nSummary . . . . . . . . . . . . . . . . . . . . . . . . . .\n18\nProblems\n. . . . . . . . . . . . . . . . . . . . . . . . . .\n19\n2\nRecursive Functions\n20\n2.1\nIntroduction . . . . . . . . .",
+ "needs_visual": false,
+ "cover_warnings": []
 }
