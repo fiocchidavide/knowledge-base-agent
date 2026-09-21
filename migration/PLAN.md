@@ -181,9 +181,15 @@ Field conventions, applied uniformly:
 
 ## 2. Getting high-quality metadata
 
-Everything in this section is **measured on your actual library** — 95 distinct ISBNs
-× 5 sources = 475 live queries, then the full resolver run over all 115 books. The code
-is in `lib/` and it runs.
+Everything in §2.1–2.5 is **measured on your actual library** — 95 distinct ISBNs × 5
+sources = 475 live queries, then the full resolver run over all 115 books. The code is in
+`lib/` and it runs.
+
+**But none of it decides anything.** The pipeline gathers evidence and ranks it; the
+metadata that actually lands is my call, made after reading the book's own front matter,
+with the PDF as the final authority. That is §2.6, and it applies to every book — not
+only the flagged ones. Read §2.1–2.5 as *how the evidence is assembled*, and §2.6 as
+*how the decision is made*.
 
 ### 2.1 Source coverage, per field
 
@@ -312,15 +318,123 @@ record *is* the authority.
 
 Everything else lands with the acceptance gate below and no human time spent.
 
-### 2.6 Acceptance gate
+### 2.6 Adjudication — the pipeline proposes, I decide, the PDF rules
 
-- **Confirmed** — the winning value has ≥2 sources, or is confirmed by the PDF → write it.
-- **Single-source** — only one source has it, nothing contradicts → write it.
-- **Conflict** → flag, surface both values in the approval card, **never pick silently**.
-- **Absent** → leave empty. An empty field is honest; a guessed one poisons a bibliography.
+**Nothing in §2.1–2.5 writes anything.** The resolver's output is a *dossier of candidate
+values with provenance* — evidence for a decision, never the decision. For **every one of
+the 115 books, with no exceptions and regardless of how clean its flags look**, I open the
+actual PDF and settle each field myself against what is printed in it.
 
-Any unresolved flag also gets the `needs-review` tag in Zotero, so it stays findable
-after the migration ends.
+This is not a fallback for the hard cases. A book with five agreeing sources and zero
+flags still gets read, because agreement between catalogues is agreement about a
+*catalogue record*, not about the file on your disk. §2.2's trap 2 is the proof: two
+independent sources agreed with each other and were both describing a different book.
+
+#### The order of authority
+
+```
+1. the PDF's own typeset title page and its verso (copyright page)   ← decisive
+2. the rest of the front matter: series page, preface, TOC
+3. external sources — for what the PDF does not state, and to corroborate
+4. the Calibre record — a prior judgement of yours, worth weight, not final
+5. page 1 / the cover image                                          ← lowest, see below
+```
+
+When the PDF contradicts every external source, **the PDF wins** and the discrepancy is
+recorded in `extra` so the decision stays auditable:
+
+```
+Note: Calibre held ISBN 9780415283090, which Open Library and K10plus both
+resolve to a different book. The copyright page prints 0-415-28404-X (hbk).
+```
+
+#### ⚠ Page 1 is the least trustworthy page in the file
+
+**54 of your 115 books (47%) have an image-only first page** — a cover bitmap with no text
+layer. Covers in library-scraped PDFs are routinely fetched separately from a retailer or
+catalogue page, and can be the wrong edition, the wrong printing, or the wrong book
+entirely. Treat page 1 as an unsourced claim.
+
+Signals that a cover is not to be trusted (implemented in `lib/frontmatter.py`):
+- it is an image while the rest of the book has a text layer (different provenance)
+- its page size or aspect ratio differs from the pages that follow
+- it carries site branding, a watermark, or a retailer badge
+- it states an edition or subtitle that the internal title page does not
+
+Measured on your library: **54 covers are image-only**, and **19 have a page geometry that
+does not match the body** — several are landscape covers glued onto portrait books.
+
+**A worked example of why looking matters.** #201 *Hacking: The Art of Exploitation* has a
+page-1 aspect of 1.635 against a body of 0.773. Rendering it shows a watermark across the
+bottom: `http://freepdf-books.com`. The cover was scraped from an aggregator site. Its
+content happens to be right here — 2nd edition, Jon Erickson — but **the watermark is part
+of the cover image, so no text extraction would ever have found it.** Only looking at the
+page does. That is the whole argument for this stage.
+
+**Rule: the internal typeset title page and its verso outrank the cover, always.** A cover
+may corroborate; it may never be the source of a field. Where they conflict, prefer the
+title page and note the conflict.
+
+#### What I actually read, per book
+
+Front matter is conventionally the first 4–10 pages. For each book:
+
+```
+mutool draw -F txt -o - <pdf> 1-10     text layer, if there is one
+mutool draw -F png -r 150 -o p%d.png <pdf> 1-10    render and LOOK at the pages
+```
+
+I read the rendered images directly — **no OCR toolchain is needed or installed**
+(`tesseract`, `ocrmypdf`, `pdftoppm` are all absent; `mutool` renders, and I am the OCR).
+Measured on your library:
+- **54 books** need the image path for page 1 alone.
+- **2 books** (#170 Hodge Cycles, #210 Billingsley) have no usable text layer at all in the
+  front matter and must be read entirely as images.
+- Rendering is effectively free: page 3 of the 206 MB Billingsley took **0.03 s**.
+
+That second point is worth dwelling on. Calibre's own note on #210 reads *"content could
+not be verified (file over 64 MB extraction limit)"* — the old pipeline gave up. Rendering
+its page 3 and looking at it shows `Probability and Measure · Second Edition · Patrick
+Billingsley · The University of Chicago · JOHN WILEY & SONS`, which confirms the
+2nd-edition ISBN Calibre guessed and refutes the 3rd-edition ISBN in the filename. A case
+that was unresolvable for years closes in one glance.
+
+#### Judgements that are mine to make, not the resolver's
+
+The resolver can rank sources; it cannot read. These stay with me:
+
+| decision | why no rule suffices |
+|---|---|
+| **title vs. subtitle** | where the colon goes, and whether a line on the title page is a subtitle or a series name |
+| **edition vs. printing vs. impression** | "Fifth printing with corrections" of a 2nd edition is edition 2; only the verso disambiguates |
+| **which year** | copyright, first-publication, this-printing and online-first dates all appear; the one that dates *this* artifact is a reading, not a lookup |
+| **author order and name splitting** | `María Isabel González Vasco` — the title page's own typography settles what the algorithm cannot |
+| **item type** | `book` vs `document` vs `manuscript` turns on whether the thing was actually published, which the PDF shows and no field encodes |
+| **is this the edition it claims** | the Rudin retype, the Vershynin draft, the Milne "penultimate version" |
+| **is the abstract worth keeping** | Google Books supplies 73% of them; some are marketing copy that does not belong in a library record |
+| **is a duplicate really a duplicate** | #225/#236 are the same edition in two artifacts — one item, two attachments |
+
+#### The acceptance gate, subordinate to the above
+
+After I have read the pages, each field resolves as:
+
+- **PDF states it** → write what the PDF says, whatever the sources say.
+- **PDF silent, sources agree** → write it.
+- **PDF silent, single source** → write it, noting the source in the dossier.
+- **PDF silent, sources conflict** → leave empty, tag `needs-review`, surface both in the
+  approval card.
+- **PDF contradicts the sources** → PDF wins, discrepancy noted in `extra`.
+
+An empty field is honest; a guessed one poisons a bibliography.
+
+#### What this costs
+
+Reading front matter is ~10 pages per book and the rendering is instantaneous, so the
+constraint is my attention, not compute. The 38 flagged books get the slow treatment; the
+77 clean ones still get read, but confirming a title page against five agreeing sources is
+quick. **The flags now triage the order and depth of my attention — they never replace
+it.** This is also why Phase 2 caches rendered pages alongside the dossiers: an
+interrupted run never re-renders or re-fetches anything.
 
 ### 2.7 Operational notes
 

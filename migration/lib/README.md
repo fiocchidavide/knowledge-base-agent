@@ -10,6 +10,11 @@ Calibre books and the 95 distinct ISBNs before being placed here.
 | `clean.py` | the eight cleanup rules (subtitle join, entity unescape, edition-tail strip, sentence-case guard, series junk list, MARC place artefacts, name splitting, multi-year copyright lines) | each rule traceable to an observed defect |
 | `resolve.py` | per-field waterfall, majority-vote with priority tie-break | see PLAN.md §2.3 |
 | `dossier.py` | runs the whole thing over the Calibre DB, writes `dossiers.json` | 115/115 books, 77 clean |
+| `frontmatter.py` | front-matter text, page geometry, PNG rendering, and cover-distrust signals — the inputs to **adjudication** (PLAN.md §2.6) | found 54 image-only covers and 19 whose page geometry doesn't match the body |
+
+Nothing here decides anything. `resolve.py` ranks evidence; the metadata that lands is
+the model's call after reading the book's own front matter, with the PDF as final
+authority. See PLAN.md §2.6.
 
 ## Running it
 

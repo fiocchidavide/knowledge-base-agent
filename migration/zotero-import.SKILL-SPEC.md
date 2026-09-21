@@ -157,12 +157,64 @@ Each one traceable to a defect observed on real data:
    (`Oorschot, Paul C. van` → `van Oorschot`). Spanish double surnames stay ambiguous by
    rule — **flag, don't guess**.
 
-### 4.5 Per-file procedure
+### 4.5 Adjudication — the model decides, the PDF rules
+
+**The pipeline proposes; it never writes.** Its output is a dossier of candidate values
+with provenance. The skill must then **read the file's own front matter and settle every
+field against it**, for every item, regardless of how clean the candidates look. Five
+agreeing catalogues agree about a *catalogue record*, not about the file on disk — see
+§4.2 trap 2, where two independent sources agreed with each other and were both wrong.
+
+Order of authority:
 
 ```
-1. IDENTIFY — content is truth, the filename is a hint.
-   mutool info <pdf>                    -> page count (the only page-count source)
-   mutool draw -F txt -o - <pdf> 1-6    -> title page + copyright page
+1. the PDF's typeset title page and verso (copyright page)   <- decisive
+2. rest of the front matter: series page, preface, TOC
+3. external sources — for what the PDF omits, and to corroborate
+4. the local/prior record — a prior judgement, not final
+5. page 1 / the cover image                                  <- lowest
+```
+
+**⚠ Page 1 is the least trustworthy page.** 47% of the migrated corpus had an image-only
+first page. Covers in scraped PDFs are fetched separately from retailer or catalogue
+pages and can show the wrong edition, printing, or book. Distrust a cover that: is an
+image while the body has a text layer; differs in page size or resolution from what
+follows; carries site branding or a watermark; or states an edition the title page does
+not. **The internal title page outranks the cover, always.**
+
+**Reading image-only pages needs no OCR toolchain** (`tesseract`/`ocrmypdf` are not
+installed). Render and look:
+
+```
+mutool draw -F txt -o - <pdf> 1-10                  text layer, if any
+mutool draw -F png -r 150 -o p%d.png <pdf> 1-10     render; the model reads the images
+```
+
+Rendering is effectively free — page 3 of a 206 MB scan took 0.03 s. That same trick
+resolved a book the previous pipeline had marked permanently unverifiable for exceeding
+its text-extraction size limit.
+
+Judgements that stay with the model, because no rule suffices: where the subtitle
+boundary falls · edition vs. printing vs. impression · which of the copyright,
+first-publication, this-printing and online-first years dates *this* artifact · author
+order and ambiguous name splits · `book` vs `document` vs `manuscript` · whether a draft
+is the edition it claims · whether a supplied abstract is a real abstract or marketing
+copy · whether a duplicate is one work in two artifacts.
+
+Resolution, after reading:
+**PDF states it → PDF wins, whatever the sources say**, with the discrepancy recorded in
+`extra` so the decision stays auditable. PDF silent → sources, by §4.1/§4.3. Sources
+conflict and PDF silent → leave empty and tag `needs-review`. An empty field is honest;
+a guessed one poisons a bibliography.
+
+### 4.6 Per-file procedure
+
+```
+1. IDENTIFY — content is truth; the filename is a hint and the cover is an unsourced claim.
+   mutool info <pdf>                        -> page count (the only page-count source)
+   mutool draw -F txt -o - <pdf> 1-10       -> front matter text layer, if any
+   mutool draw -F png -r 150 ... <pdf> 1-10 -> render and READ when there is no text
+                                               layer, or the cover is image-only (47%)
 
    Book signals: ISBN on the copyright page, a table of contents, "Nth edition",
                  a dedication or preface, >150 pages.
@@ -180,10 +232,12 @@ Each one traceable to a defect observed on real data:
    nothing       -> the author's own page is authoritative for self-hosted notes.
                     Never invent a publisher; ask instead.
 
-4. GATE  (see PLAN.md §2.6)
-   confirmed (>=2 sources, or PDF-confirmed) -> write
-   conflict  -> surface both values, never pick silently
-   absent    -> leave empty and tag needs-review
+4. ADJUDICATE  (§4.5; PLAN.md §2.6) — NOT a gate the pipeline applies on its own
+   read the front matter, settle every field against the PDF
+   PDF states it        -> PDF wins; note any override in `extra`
+   PDF silent, agreed   -> write
+   PDF silent, conflict -> leave empty and tag needs-review
+   never pick silently between conflicting values
 
 5. WRITE
    zotero_add_item(source=<absolute path>, collections=['Inbox'], tags=[...],
