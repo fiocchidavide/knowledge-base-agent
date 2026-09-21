@@ -168,13 +168,19 @@ Field conventions, applied uniformly:
 - **`abstractNote`** — only a genuine abstract. Empty is better than an edition note.
 - **`rights`** — `CC BY 4.0`, `Open access` where the source says so.
 - **`url`** — for anything author-hosted or open access (jmilne.org, openlogicproject.org, miguelhernan.org).
-- **`extra`** — the machine-readable tail, one `Key: value` per line:
+- **`DOI`** — a real field. **Every Zotero item type has one, `book` included** (verified
+  against `itemTypeFields` in Zotero's own schema: all 37 types carry `DOI`). Put the DOI
+  there, never in Extra.
+  Useful mechanic: a `DOI: 10.…` line written into a CSL JSON `note` is parsed out into
+  the proper DOI field on import, as are `Rights:` lines. Extra keeps only what has no
+  field of its own.
+- **`extra`** — the machine-readable tail for things Zotero has no field for, one
+  `Key: value` per line:
   ```
-  DOI: 10.1007/978-3-030-33143-6
   calibre-id: 181
   migrated: 2026-09-21
   ```
-  `book` has no DOI field in Zotero, so `DOI:` in Extra is the standard place — Zotero's citation processor reads it from there. **`calibre-id:` is the durable join key** (see §3).
+  **`calibre-id:` is the durable join key** (see §3).
   Provenance prose from `comments` that isn't an edition goes here too, as a plain line.
 
 ---

@@ -80,8 +80,9 @@ Full rationale in `PLAN.md` §1. The operative rules:
   `journalArticle` / `preprint` / `conferencePaper` for papers.
 - **Field conventions** (`PLAN.md` §1.4) are not optional — they're what makes the
   bibliography output correct: edition as a bare number and never in the title,
-  `shortTitle` set, `DOI:` in Extra for book-type items (no DOI field exists on `book`),
-  full title including subtitle, creator order from the title page.
+  `shortTitle` set, the **DOI in Zotero's own `DOI` field** — every item type has one,
+  `book` included, so it does not belong in Extra — full title including subtitle, and
+  creator order from the title page.
 - **Extra always carries** `imported: <date>`, and `source: <where the file came from>`
   when it isn't obvious.
 
